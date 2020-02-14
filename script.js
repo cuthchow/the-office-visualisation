@@ -20,7 +20,7 @@
 
         let margin = {top: 80, left: 130, bottom: 80, right: 80}
         let width = 1700 - margin.left - margin.right
-        let height = 1000 - margin.top - margin.bottom
+        let height = 800 - margin.top - margin.bottom
 
         //Function converts numbers from strings into floats
         d3.csv('test.csv', function(d){
@@ -49,8 +49,8 @@
                     .alphaDecay([0.1])
                     .force('charge', d3.forceManyBody().strength([-5]))
                     .force('collide', d3.forceCollide(d => sizeScale(d.radius) + 2).strength([2]).iterations([5]))
-                    .force('forceX', d3.forceX(d => episodeScale2(d.episode) + sceneScale(d.scene)).strength([.4]))
-                    .force('forceY', d3.forceY([400]).strength([.4]))
+                    .force('forceX', d3.forceX(d => episodeScale2(d.episode) + sceneScale(d.scene)).strength([.8]))
+                    .force('forceY', d3.forceY([400]).strength([.2]))
 
             force.on('tick', () => {
                 nodes.attr('cx', d => d.x)
@@ -105,6 +105,7 @@
                         tooltip.select('#quotemeta').text(`Scene ${d.scene} of Episode ${d.episode}`)
                         tooltip.select('#quote').text(`"${d.text}" - ${d.speaker}`)
                         tooltip.select('img').attr('src', `img/${d.speaker}.png`)
+                                            .attr('border', `2px solid ${charScale(d.speaker)}`)
                     })
                     .on('mouseout', function(d) {
                         d3.select('#tooltip').classed('hidden', true);
@@ -129,6 +130,10 @@
                         force.alpha([0.01])
                     }
             
+            let xAxis = d3.axisBottom()
+
+            xAxis.scale(episodeScale2)
+            d3.select('svg').append('g').attr('transform', 'translate(0, 100)').call(xAxis)
         }
 
 
@@ -168,6 +173,10 @@
                             .entries(dataset)
             
             console.log(barData)
+        }
+
+        function clusterByCharacter(){
+            
         }
 
 
