@@ -1,0 +1,1997 @@
+﻿season,episode,scene,line_text,speaker,deleted,sentiment,length
+1,1,1,All right Jim. Your quarterlies look very good. How are things at the library?,Michael,FALSE,0.4927,14
+1,1,1,"Oh, I told you. I couldn't close it. So...",Jim,FALSE,0,9
+1,1,1,"So you've come to the master for guidance? Is this what you're saying, grasshopper?",Michael,FALSE,0,14
+1,1,1,"Actually, you called me in here, but yeah.",Jim,FALSE,0.4215,8
+1,1,1,"All right. Well, let me show you how it's done.",Michael,FALSE,0.2732,10
+1,1,2,"[on the phone] Yes, I'd like to speak to your office manager, please. Yes, hello. This is Michael Scott. I am the Regional Manager of Dunder Mifflin Paper Products. Just wanted to talk to you manager-a-manger. [quick cut scene] All right. Done deal. Thank you very much, sir. You're a gentleman and a scholar. Oh, I'm sorry. OK. I'm sorry. My mistake. [hangs up] That was a woman I was talking to, so... She had a very low voice. Probably a smoker, so... [Clears throat] So that's the way it's done.",Michael,FALSE,0.7987,91
+1,1,3,"I've, uh, I've been at Dunder Mifflin for 12 years, the last four as Regional Manager. If you want to come through here... See we have the entire floor. So this is my kingdom, as far as the eye can see. This is our receptionist, Pam. Pam! Pam-Pam! Pam Beesly. Pam has been with us for...  forever. Right, Pam?",Michael,FALSE,0.2225,60
+1,1,3,Well. I don't know.,Pam,FALSE,0.2732,4
+1,1,3,"If you think she's cute now, you should have seen her a couple of years ago. [growls]",Michael,FALSE,0.4588,17
+1,1,3,What?,Pam,FALSE,0,1
+1,1,3,Any messages?,Michael,FALSE,0,2
+1,1,3,"Uh, yeah. Just a fax.",Pam,FALSE,0.296,5
+1,1,3,"Oh! Pam, this is from Corporate. How many times have I told you? There's a special filing cabinet for things from corporate.",Michael,FALSE,0.4574,22
+1,1,3,You haven't told me.,Pam,FALSE,0,4
+1,1,3,It's called the wastepaper basket! Look at that! Look at that face.,Michael,FALSE,0,12
+1,1,4,"People say I am the best boss. They go, 'God we've never worked in a place like this before. You're hilarious.' 'And you get the best out of us.' [shows the camera his WORLD'S BEST BOSS mug] I think that pretty much sums it up. I found it at Spencer Gifts.",Michael,FALSE,0.9688,51
+1,1,5,[singing] Shall I play for you? Pa rum pump um pum [Imitates heavy drumming] I have no gifts for you. Pa rum pump um pum [Imitates heavy drumming],Dwight,FALSE,0.0516,28
+1,1,6,"My job is to speak to clients on the phone about... uh, quantities and type of copier paper. You know, whether we can supply it to them. Whether they can pay for it. And... I'm boring myself just talking about this.",Jim,FALSE,-0.4019,41
+1,1,7,Whassup!,Michael,FALSE,0,1
+1,1,7,Whassup! I still love that after seven years.,Jim,FALSE,0.6696,8
+1,1,7,Whassup!,Michael,FALSE,0,1
+1,1,7,Whassup!,Dwight,FALSE,0,1
+1,1,7,Whass...up!,Michael,FALSE,0,1
+1,1,7,Whassup.,Dwight,FALSE,0,1
+1,1,7,"[Strains, grunts] What?",Michael,FALSE,0,3
+1,1,7,Nothing.,Jim,FALSE,0,1
+1,1,7,OK. All right. See you later.,Michael,FALSE,0.4466,6
+1,1,7,All right. Take care.,Jim,FALSE,0.4939,4
+1,1,7,Back to work.,Michael,FALSE,0,3
+1,1,8,[on her cell phone] Just before lunch. That would be great.,Jan,FALSE,0.6249,11
+1,1,9,"Corporate really doesn't really interfere with me at all. Jan Levinson Gould. [walking out of his office] Jan, hello.  I call her Hillary Rodham Clinton. Right? Not to her face, because... well, not because I'm scared of her. Because I'm not. But, um... Yeah.",Michael,FALSE,0.3855,45
+1,1,10,"Alright, was there anything you wanted to add to the agenda?",Jan,FALSE,0.25,11
+1,1,10,Um... Me no get an agenda.,Michael,FALSE,-0.296,6
+1,1,10,What? I'm sorry?,Jan,FALSE,-0.168,3
+1,1,10,I didn't get any agenda.,Michael,FALSE,0,5
+1,1,10,"Well, I faxed one over to you this morning.",Jan,FALSE,0.2732,9
+1,1,10,Really? I didn't... [looks at Pam] Did we get a fax this morning?,Michael,FALSE,0,13
+1,1,10,"Uh, yeah, the one...",Pam,FALSE,0.296,4
+1,1,10,"Why isn't it in my hand? A company runs on efficiency of communication, right? So what's the problem, Pam? Why didn't I get it?",Michael,FALSE,0.5714,24
+1,1,10,You put in the garbage can that was a special filing cabinet.,Pam,FALSE,0.4019,12
+1,1,10,"Yeah, that was a joke. That was a joke that was actually my brother's, and... It was supposed to be with bills and it doesn't work great with faxes.",Michael,FALSE,0.3195,29
+1,1,10,Do you want to look at mine?,Jan,FALSE,0.0772,7
+1,1,10,"Yeah, yeah. Lovely. Thank you.",Michael,FALSE,0.8658,5
+1,1,10,"OK. Since the last meeting, Ellen and the board have decided we can't justify a Scranton branch and a Stamford branch.",Jan,FALSE,0.4466,21
+1,1,10,OK...,Michael,FALSE,0,1
+1,1,10,"Michael, don't panic.",Jan,FALSE,0.4023,3
+1,1,10,"No, no, no, no, this is good. This is good. This is fine. Excellent.",Michael,FALSE,0.5423,14
+1,1,10,"No, no, no, Michael, listen OK. Don't panic. We haven't made... We haven't decided.",Jan,FALSE,0.009,14
+1,1,10,All the alarm bells are kind of going... ringie-dingie-ding!,Michael,FALSE,-0.4003,9
+1,1,10,I've spoken to Josh in Stamford. I've told him the same as you and it's up to either him or you to convince me that your branch can incorporate the other.,Jan,FALSE,0.25,31
+1,1,10,OK. No problem.,Michael,FALSE,-0.2422,3
+1,1,10,"This does, however, mean that there is going to be downsizing.",Jan,FALSE,0,11
+1,1,10,"Me no wanna hear that, Jan. Because downsizing is a bitch. It is a real bitch. And I wouldn't wish that on Josh's men. I certainly wouldn't wish it on my men. Or women, present company excluded. Sorry. Uh, is Josh concerned about downsizing himself? Not downsizing himself but is he concerned about downsizing?",Michael,FALSE,-0.8002,54
+1,1,11,"Question. How long do we have to... [Telephone rings] Oh uh, Todd Packer, terrific rep. Do you mind if I take it?",Michael,FALSE,0.4767,22
+1,1,11,Go ahead.,Jan,FALSE,0,2
+1,1,11,Packman.,Michel,FALSE,0,1
+1,1,11,"Hey, you big queen.",Todd Packer,FALSE,0,4
+1,1,11,"Oh, that's not appropriate.",Michael,FALSE,0,4
+1,1,11,"Hey, is old Godzillary coming in today?",Todd Packer,FALSE,0,7
+1,1,11,"Uh, I don't know what you mean.",Michael,FALSE,0,7
+1,1,11,I've been meaning to ask her one question. Does the carpet match the drapes?,Todd Packer,FALSE,0,14
+1,1,11,"Oh, my God! Oh! That's... horrifying. Horrible. Horrible person.",Michael,FALSE,-0.8802,9
+1,1,11,So do you think we could keep a lid on this for now? I don't want to worry people unnecessarily.,Jan,FALSE,0.2924,20
+1,1,11,"No, absolutely. Under this regime, it will not leave this office. [zips his lips] Like that.",Michael,FALSE,0.1149,16
+1,1,12,So what does downsizing actually mean?,Phyllis,FALSE,0,6
+1,1,12,Well...,Stanley,FALSE,0,1
+1,1,13,You guys better update your resumes just like I'm doing.,Oscar,FALSE,0.6597,10
+1,1,14,I bet it's gonna be me. Probably gonna be me.,Angela,FALSE,0,10
+1,1,14,"Yeah, it'll be you.",Kevin,FALSE,0.296,4
+1,1,15,I have an important question for you.,Pam,FALSE,0.2023,7
+1,1,15,Yes?,Jim,FALSE,0.4019,1
+1,1,15,Are you going to Angela's cat party on Sunday?,Pam,FALSE,0.4019,9
+1,1,15,"Yeah, stop. That is ridiculous.",Jim,FALSE,-0.3612,5
+1,1,16,"Am I going to tell them? No, I am not going to tell them. I don't see the point of that. As a doctor, you would not tell a patient if they had cancer.",Michael,FALSE,-0.765,34
+1,1,17,Hey.,Michael,FALSE,0,1
+1,1,17,Hey.,Ryan,FALSE,0,1
+1,1,17,This is Mr. Scott.,Pam,FALSE,0,4
+1,1,17,Guilty! Guilty as charged!,Michael,FALSE,-0.7896,4
+1,1,17,Ryan Howard from the temp agency. Daniqua sent me down to start today.,Ryan,FALSE,0,13
+1,1,17,"Howard, like Moe Howard. Three Stooges.",Michael,FALSE,0.3612,6
+1,1,17,Yup.,Ryan,FALSE,0,1
+1,1,17,"Watch this. This is Moe. Nyuck-nyuck-nyuck-nyuck-nyuck. Mee! [hold hand up for a high five] Ah, right here. Three Stooges. Oh, Pam. It's a guy thing, Pam. I'm sort of a student of comedy. Watch this. Here we go. [Yelling in cod German] I'm Hitler. Adolf Hitler. [Continues with cod German]",Michael,FALSE,0.7177,50
+1,1,18,"I don't think it would be the worst thing if they let me go because then I might... I don't think it's many little girls' dream to be a receptionist. I like to do illustrations. Um... Mostly watercolor. A few oil pencil. Um, Jim thinks they're good.",Pam,FALSE,0.2551,47
+1,1,18,Dunder Mifflin. This is Pam.,Pam,FALSE,0,5
+1,1,19,"Sure. Mr. Davis, let me call you right back. Yeah, something just came up. Two minutes. Thank you very much. Dwight, what are you doing?",Jim,FALSE,0.7184,25
+1,1,19,What?,Dwight,FALSE,0,1
+1,1,19,What are you doing?,Jim,FALSE,0,4
+1,1,19,Just clearing my desk. I can't concentrate.,Dwight,FALSE,0,7
+1,1,19,It's not on your desk.,Jim,FALSE,0,5
+1,1,19,"It's overlapping. It's all spilling over the edge. One word, two syllables. Demarcation.",Dwight,FALSE,0,13
+1,1,19,You can't do that.,Dwight,FALSE,0,4
+1,1,19,Why not?,Jim,FALSE,0,2
+1,1,19,Safety violation. I could fall and pierce an organ.,Dwight,FALSE,-0.1027,9
+1,1,19,[crosses fingers] We'll see. [Dwight begins smashing pencils with his phone] This is why the whole downsizing thing just doesn't bother me.,Jim,FALSE,0.2584,22
+1,1,19,Downsizing?,Dwight,FALSE,0,1
+1,1,20,"Downsizing? I have no problem with that. I have been recommending downsizing since I first got here. I even brought it up in my interview. I say, bring it on.",Dwight,FALSE,-0.5994,30
+1,1,21,You just still have these messages from yesterday.,Pam,FALSE,0,8
+1,1,21,"Relax. Everything's under control. Uh, yeah. Yeah. That's important. Right. Oh this is so important, I should run to answer it. [Imitating Six-Million Dollar Man sound effect]",Michael,FALSE,0.836,27
+1,1,21,What?,Pam,FALSE,0,1
+1,1,21,"Come on. Six-Million Dollar Man! Steve Austin! Actually, that would be a good salary for me, don't you think? Six million dollars? Memo to Jan. I deserve a raise.",Michael,FALSE,0.5919,29
+1,1,21,Don't we all?,Pam,FALSE,0,3
+1,1,21,I'm sorry?,Michael,FALSE,-0.0772,2
+1,1,21,Nothing.,Pam,FALSE,0,1
+1,1,21,"If you're unhappy with your compensation, maybe you should take it up with HR. OK. Not today, OK? Pam, just be professional. [Sighs]",Michael,FALSE,0.4707,23
+1,1,22,"I think I'm a role model here. I think I garner people's respect. [Imitating a PA] Attention all Dunder Mifflin employees, please. We have a meeting in the conference room, ASAP.",Michael,FALSE,0.6597,31
+1,1,23,"People I respect, heroes of mine, would be Bob Hope... Abraham Lincoln, definitely. Bono. And probably God would be the fourth one. And I just think all those people really helped the world in so many ways that it's really beyond words. It's really incalculable.",Michael,FALSE,0.8807,45
+1,1,24,Now I know there's some rumors out there and I just kind of want to set the record straight.,Michael,FALSE,0.228,19
+1,1,24,I'm Assistant Regional Manager. I should know first.,Dwight,FALSE,0,8
+1,1,24,Assistant to the Regional Manager.,Michael,FALSE,0,5
+1,1,24,"OK, um, can you just tell me please? Just tell me quietly. Can you whisper it in my ear?",Dwight,FALSE,0.6801,19
+1,1,24,I'm about to tell everybody. I'm just about to tell everybody.,Michael,FALSE,0,11
+1,1,24,Can't you just tell us.,Oscar,FALSE,0,5
+1,1,24,"Please, OK? Do you want me to tell 'em?",Dwight,FALSE,0.7089,9
+1,1,24,You don't know what it is. [Laughs],Michael,FALSE,0,7
+1,1,24,OK. You tell 'em. With my permission. Permission granted.,Dwight,FALSE,0.6037,9
+1,1,24,I don't need your permission.,Michael,FALSE,0,5
+1,1,24,Go ahead.,Dwight,FALSE,0,2
+1,1,24,Corporate has deemed it appropriate to enforce an ultimatum upon me. And Jan is thinking about downsizing either the Stamford branch or this branch.,Michael,FALSE,0,24
+1,1,25,I heard they might be closing this branch down. That's just the rumor going around. This is my first day. I don't really know.,Ryan,FALSE,0,24
+1,1,26,"Yeah but Michael, what if they downsize here?",Oscar,FALSE,0.1531,8
+1,1,26,Not gonna happen.,Michael,FALSE,0,3
+1,1,26,It could be out of your hands Michael.,Stanley,FALSE,0,8
+1,1,26,"It won't be out of my hands Stanley, OK. I promise you that.",Michael,FALSE,0.6408,13
+1,1,26,Can you promise that?,Stanley,FALSE,0.3182,4
+1,1,26,On his mother's grave.,Dwight,FALSE,-0.3818,4
+1,1,26,No.,Michael,FALSE,-0.296,1
+1,1,26,What?,Phyllis,FALSE,0,1
+1,1,26,"Well, yeah, it is a promise. And frankly, I'm a little insulted that you have to keep asking about it.",Michael,FALSE,0.3804,20
+1,1,26,It's just that we need to know.,Stanley,FALSE,0,7
+1,1,26,"I know. Hold on a second. I think Pam wanted to say something. Pam, you had a look that you wanted to ask a question just then.",Michael,FALSE,0,27
+1,1,26,I was in the meeting with Jan and she did say that it could be this branch that gets the axe.,Pam,FALSE,-0.1027,21
+1,1,26,Are you sure about that?,Man,FALSE,0.3182,5
+1,1,26,"Well, Pam maybe you should stick to the ongoing confidentiality agreement of meetings.",Michael,FALSE,0.6486,13
+1,1,26,"Pam, information is power.",Dwight,FALSE,0,4
+1,1,26,"You can't say for sure whether it'll be us or them, can you?",Stanley,FALSE,-0.2411,13
+1,1,26,"No, Stanley. No, you did not see me in there with her. I said if Corporate wants to come in here and interfere, then they're gonna have to go through me. Right? You can go mess with Josh's people, but I'm the head of this family, and you ain't gonna be messing with my chillin.",Michael,FALSE,-0.4497,55
+1,1,27,"If I left, what would I do with all this useless information in my head? You know? Tonnage price of manila folders? Um, Pam's favorite flavor of yogurt, which is mixed berry.",Jim,FALSE,-0.1999,32
+1,1,28,"Jim said mixed berries? Well, yeah, he's on to me. Um... [Laughs]",Pam,FALSE,0.5106,12
+1,1,29,"Watch out for this guy. Dwight Schrute in the building. This is Ryan, the new temp.",Michael,FALSE,0,16
+1,1,29,What's up? Nice to meet you.,Ryan,FALSE,0.4215,6
+1,1,29,Introduce yourself. Be polite.,Michael,FALSE,0,4
+1,1,29,"Dwight Schrute, Assistant Regional Manager.",Dwight,FALSE,0,5
+1,1,29,"Assistant to the Regional Manager. So, uh, Dwight tell him about the kung fu and the car and everything.",Michael,FALSE,-0.6908,19
+1,1,29,"Uh... yeah I got a '78 280Z. Bought it for $1,200. Fixed it up. It's now worth three grand.",Dwight,FALSE,0.7269,19
+1,1,29,That's his profit.,Michael,FALSE,0.4404,3
+1,1,29,"New engine, new suspension, I got a respray. I've got some photos.",Dwight,FALSE,0,12
+1,1,30,Damn it! Jim!,Dwight,FALSE,-0.508,3
+1,1,30,"OK. Hold on, hold on. The judge is in session. What is the problem here?",Michael,FALSE,0.0601,15
+1,1,30,He put my stuff in Jell-O again.,Dwight,FALSE,0,7
+1,1,30,[Laughing],Pam,FALSE,0,1
+1,1,30,That's real professional thanks. That's the third time and it wasn't funny the first two times either Jim.,Dwight,FALSE,0.1265,18
+1,1,31,"It's OK here, but people sometimes take advantage because it's so relaxed. I'm a volunteer Sheriff's Deputy on the weekends. And you cannot screw around there. That's sort of one of the rules.",Dwight,FALSE,0.8906,33
+1,1,32,What is that?,Michael,FALSE,0,3
+1,1,32,That is my stapler.,Dwight,FALSE,0,4
+1,1,32,"No, no, no. Do not take it out. You have to eat it out of there, because there are starving people in the world [turns to camera] which I hate, and it is a waste of that kind of food.",Michael,FALSE,-0.9313,40
+1,1,32,"OK you know what, you can be a witness. [points to Ryan] Can you reprimand him?",Dwight,FALSE,0.4466,16
+1,1,32,How do you know it was me?,Jim,FALSE,0,7
+1,1,32,It's always you. Are you going to discipline him or not?,Dwight,FALSE,0,11
+1,1,32,"Discipline. Kinky! [Laughs] All right, here's the deal you guys. The thing about a practical joke is you have to know when to start and as well as when to stop.",Michael,FALSE,0.3382,31
+1,1,32,Yeah.,Dwight,FALSE,0.296,1
+1,1,32,"And yeah, Jim this is the time to stop putting Dwight's personal effects into Jell-O.",Michael,FALSE,0,15
+1,1,32,"OK. Dwight, I'm sorry, because I have always been your biggest flan.",Jim,FALSE,0.3885,12
+1,1,32,[Laughing] Nice. That's the way it is around here. It just kind of goes round and round.,Michael,FALSE,0.4215,17
+1,1,32,You should've put him in custardy.,Ryan,FALSE,0,6
+1,1,32,Hey! Yes! New guy! He scores.,Michael,FALSE,0.5538,6
+1,1,32,"OK, that's great. I guess what I'm most concerned with is damage to company property. That's all.",Dwight,FALSE,0.5904,17
+1,1,32,Pudding. Pudding... I'm trying to think of another dessert to do.,Michael,FALSE,0,11
+1,1,33,Do you like going out at the end of the week for a drink?,Jim,FALSE,0.3612,14
+1,1,33,Yeah.,Pam,FALSE,0.296,1
+1,1,33,That's why we're all going out. So we can have an end-of-the-week-drink.,Jim,FALSE,0,12
+1,1,33,So when are we going out?,Pam,FALSE,0,6
+1,1,33,"Tonight, hopefully.",Jim,FALSE,0.4019,2
+1,1,33,OK. Yeah.,Pam,FALSE,0.6289,2
+1,1,33,"Hey, man.",Roy,FALSE,0,2
+1,1,33,What's going on?,Jim,FALSE,0,3
+1,1,33,"Hey, baby.",Roy,FALSE,0,2
+1,1,33,Hey.,Pam,FALSE,0,1
+1,1,34,Roy's my fiance. We've been engaged about three years. We were supposed to get married in September but I think we're gonna get married in the spring.,Pam,FALSE,0.2144,27
+1,1,35,Do you mind if I go out for a drink with these guys?,Pam,FALSE,0,13
+1,1,35,"No, no. Come on. Let's get out of here and go home.",Roy,FALSE,-0.5267,12
+1,1,35,OK. I'm gonna be a few minutes. So it's only twenty past five. I still have to do my faxes.,Pam,FALSE,0.4466,20
+1,1,35,You know what? You should come with us. Because you know we're all going out and it could be a good chance for you to see what people are like outside the office. I think it could be fun.,Jim,FALSE,0.8658,39
+1,1,35,"It sounds good. Seriously, we've gotta get going.",Roy,FALSE,0.296,8
+1,1,35,"Yeah, yeah.",Jim,FALSE,0.5267,2
+1,1,35,Um... What's in the bag?,Jim,FALSE,0,5
+1,1,35,Just tell her I'll talk to her later.,Roy,FALSE,0,8
+1,1,35,"No, definitely. All right, dude. Awesome. Will do.",Jim,FALSE,0.6808,8
+1,1,36,Do I think I'll be invited to the wedding? [scratches head],Jim,FALSE,0,11
+1,1,37,"So have you felt the vibe yet? We work hard, we play hard. Sometimes we play hard when we should be working hard. Right? I guess the atmosphere that I've created here is that I'm a friend first, and a boss second... and probably an entertainer third. [Knock at door] Just a second. Right? Oh, hey do you like The Jamie Kennedy Experiment? Punk'd and all that kind of stuff?",Michael,FALSE,0.9092,70
+1,1,37,Yeah.,Ryan,FALSE,0.296,1
+1,1,37,"You are gonna be my accomplice. Just go along with it, OK?",Michael,FALSE,0.4466,12
+1,1,37,All right.,Ryan,FALSE,0,2
+1,1,37,"Just follow my lead. Don't pimp me, all right? Come in. So, uh, Corporate just said that I don't want to...",Michael,FALSE,-0.0572,21
+1,1,37,You got a fax.,Pam,FALSE,0,4
+1,1,37,"Oh, thank you. Pam, can you come in here for a sec. Just have a seat. I was gonna call you in anyway. You know Ryan. As you know, there is going to be downsizing. And you have made my life so much easier in that I am going to have to let you go first.",Michael,FALSE,0.6786,56
+1,1,37,What? Why?,Pam,FALSE,0,2
+1,1,37,"Why? Well, theft and stealing.",Michael,FALSE,-0.3818,5
+1,1,37,Stealing? What am I supposed to have stolen?,Pam,FALSE,-0.8053,8
+1,1,37,Post-it Notes.,Michael,FALSE,0,2
+1,1,37,"Post-it Notes? What are those worth, 50 cents?",Pam,FALSE,0.3094,8
+1,1,37,"50 cents, yeah. If you steal a thousand Post-It Notes at 50 cents apiece, and you know,  you've made a profit... margin. You're gonna run us out of business, Pam.",Michael,FALSE,-0.25,31
+1,1,37,Are you serious?,Pam,FALSE,-0.0772,3
+1,1,37,Yeah. I am.,Michael,FALSE,0.296,3
+1,1,37,I can't believe this. I mean I have never even stolen as much as a paperclip and you're firing me.,Pam,FALSE,0.0588,20
+1,1,37,But the best thing about it is that we're not going to have to give you any severance pay. Because that is gross misconduct and... Just clean out your desk. I'm sorry.,Michael,FALSE,0.4767,32
+1,1,37,"[Pam starts crying] You been X'd punk! [Laughing] Surprise! It's a joke. We were joking around. See? OK. He was in on it. He was my accomplice. And it was kind of a morale booster thing. And we were showing the new guy around, giving him the feel of the place. So you... God, we totally got you.",Michael,FALSE,0.9099,58
+1,1,37,You're a jerk.,Pam,FALSE,-0.34,3
+1,1,37,I don't know about that.,Michael,FALSE,0,5
+1,1,38,"What is the most important thing for a company? Is it the cash flow? Is it the inventory? Nuh-uh. It's the people. The people. My proudest moment here was not when I increased profits by 17% or when I cut expenses without losing a single employee. No, no, no, no, no. It was a young Guatemalan guy. First job in the country, barely spoke English. He came to me, and said, 'Mr. Scott, would you be the godfather of my child?' Wow. Wow. Didn't work out in the end. We had to let him go. He sucked.",Michael,FALSE,-0.422,97
+1,1,39,Hey.,Pam,FALSE,0,1
+1,1,39,Hey.,Jim,FALSE,0,1
+1,1,39,How are things?,Jim,FALSE,0,3
+1,1,39,Good. I thought you were going out for a drink with...,Pam,FALSE,0.4404,11
+1,1,39,"Oh no, I just decided not to. How's your headache?",Jim,FALSE,-0.296,10
+1,1,39,"It's better, thanks.",Pam,FALSE,0.7003,3
+1,1,39,Good. Good.,Jim,FALSE,0.7003,2
+1,1,39,Yeah.,Pam,FALSE,0.296,1
+1,1,39,That's great,Jim,FALSE,0.6249,2
+1,1,39,Is...?,Pam,FALSE,0,1
+1,1,39,Yeah?,Jim,FALSE,0.296,1
+1,1,39,Um... Are you...,Pam,FALSE,0,3
+1,1,39,Am I walking out?,Jim,FALSE,0,4
+1,1,39,Yes.,Pam,FALSE,0.4019,1
+1,1,39,"Yes, I... Do you want to...",Jim,FALSE,0.4588,6
+1,1,39,Yeah.,Pam,FALSE,0.296,1
+1,1,39,Great. Let me just...,Jim,FALSE,0.6249,4
+1,1,39,"[Car horn honking] Oh, Roy.",Jim,FALSE,0,5
+1,1,39,"Yeah. Listen, have a nice weekend.",Pam,FALSE,0.6124,6
+1,1,39,"Yeah, definitely. You too. Enjoy it. [looks at camera] You know what, just come here.",Jim,FALSE,0.7964,15
+1,1,40,"Dwight Schrute. My father's name, also Dwight Schrute. My grandfather's name, Dweide Schrude, Amish. That's my family. I don't know where they came, the Amish, came from originally. Uh, Amland.",Dwight,TRUE,0,30
+1,1,40,[holding up a Dundie and pretending it is talking] Hello. I'm Michael Scott. I'm the best boss in the world.,Michael,TRUE,0.6808,20
+1,1,40,"My name is Jim Halpert and I am a sales rep, which is a very important job. Um, without me dozens literally dozens of small businesses would go paperless.  They would have to write on their hands, or bed sheets, or who knows you know. Total chaos, total chaos. I mean or they could get their paper somewhere else. Staples maybe. I don't know.",Jim,TRUE,-0.7436,65
+1,1,41,"Pam! Pam-Pam! Pam has been with us for...  forever. Right, Pam?",Michael,TRUE,0,12
+1,1,41,I guess.,Pam,TRUE,0,2
+1,1,41,"Yeah, at one time or another every guy in the office has sprayed on Pam.",Michael,TRUE,0.296,15
+1,1,41,What?,Pam,TRUE,0,1
+1,1,41,Messages?,Michael,TRUE,0,1
+1,1,42,"People respond to the human touch and that's what I give them. I can look at a client and I can say, 'Hello, how are you? How's business been going?' And we can go back and forth for sometime and uh, then I'll say, How much, how many reams do you want?' And they'll order it and then I'll take care of all the sales. I'll make sure that they get that paper. And they appreciate that.",Dwight,TRUE,0.829,77
+1,1,43,"Ah, right here. Three Stooges. High five. [Michael and Ryan high five] Oh, Pam. It's a guy thing, Pam. [camera cuts to Pam then back to Michael] Now, who was the one before Curly?",Michael,TRUE,-0.296,34
+1,1,43,"Uh, Shemp.",Ryan,TRUE,0,2
+1,1,43,Curly? Very good. Curly Joe DeRita.,Michael,TRUE,0.4927,6
+1,1,43,Just Curly. Joe DeRita was different.,Ryan,TRUE,0,6
+1,1,43,"Well, comedy's kinda my thing. Watch this, here's Curly Joe. Mmm. Me, me, me, me, me, me. Me, me, me, me, me, me. Oh, I forgot. Here we go. [Yelling in cod German] I'm Hitler. Right. [Continues with cod German] Me, me, me, me, me, me. Curly Joe Hitler. [laughs]",Michael,TRUE,0.2732,50
+1,1,44,"All these people are walking around and they're happy and their lives are just going along, ignorance is bliss. But if they knew what was lurking on the other side of that fence that furry monster. [imitating monster] 'I'm gonna get you, downsizing.' No. They wouldn't... They'd freak. And I'm not going to play God. They look to me for support. And they look to me for guidance and leadership. And I think if I could lie to them and it serves them, then that's what I'm going to do.",Michael,TRUE,0.8111,90
+1,1,45,"So this is our sales staff. They are the ones who are making calls and making us lots of money. [comes to a screeching halt and laughs] This is accounting. The numbers dudes. Do not let the job description fool you, they are all completely crazy. Especially that guy, he is a mental patient. [camera zooms in on Kevin] Not literally of course, that wouldn't work. The last place you'd want somebody like that is accounting. [hides behind office plant] 'Very interesting, but stupid.' Artie Johnson. It's a crazy place.",Michael,TRUE,-0.533,90
+1,1,46,"My name is Angela and um, I'm in charge of the accounting department. There are three of us, Kevin and Oscar.",Angela,TRUE,0,21
+1,1,46,"It's my job to keep the books in order. And, um, I... I'm, uh, immediately below my supervisor.",Oscar,TRUE,0,18
+1,1,46,"Oscar, how do I describe him. He's like a stapler. Do I need a stapler? Yes. But, I'm still the one that has to push it down.",Angela,TRUE,0.6369,27
+1,1,46,There's a lot of anxiety. I don't want to get laid off. This place is like five minutes from my house.,Oscar,TRUE,0.1476,21
+1,1,46,I don't wanna be laid off. This is a good job for me. 'Cause I need my nights free. I'm in a band.,Kevin,TRUE,0.7351,23
+1,1,46,"Not very worried about downsizing right now. Because, uh, I think you've met Kevin and um...",Angela,TRUE,0.2743,16
+1,1,46,"Can I just say one thing? Um, my friend is Jewish, Art Geller. And a couple of years ago he, um, showed me how you can plant a tree in Israel, so I planted a tree. So... You know 'cause... Yeah we work in paper. Well, you know, I try to give back.",Oscar,TRUE,0.7579,53
+1,1,46,"I have a lot of cat figurines on my desk. I think cats, really, are old souls. And, uh, Phyllis thinks so too.",Angela,TRUE,0,23
+1,1,47,"What you don't know... Well, it can hurt you, but if you don't know it won't hurt you. Then, you can just be happy for a little while at least.",Michael,TRUE,-0.2862,30
+1,1,48,What's that?,Michael,TRUE,0,2
+1,1,48,Wired.,Pam,TRUE,0,1
+1,1,48,"Oh, John Belushi. What a crazy guy. Phew, freaked myself out this morning.",Michael,TRUE,-0.5574,13
+1,1,48,"Oh, yeah.",Pam,TRUE,0.296,2
+1,1,48,"Yeah. I thought I found a lump. I checked the, uh... I check the jewels every month. This time... You know, it's a little different. It was fine. It was fine. But freaky, man, you know. Testicular cancer, God. Cancer, whoa testicles. So... What's, um... What you eating?",Michael,TRUE,-0.5267,48
+1,1,48,Smoked turkey.,Pam,TRUE,0,2
+1,1,48,"Oh, place around the corner. Nice. All right. See you later.",Michael,TRUE,0.4215,11
+1,1,49,Do I need to speak up? [grabs boom microphone] Hello.,Michael,TRUE,0,10
+1,1,50,[boom microphone drops into the camera shoot] Can you move it out? Can you move it? Is that all right? Can you make that work?,Documentary Crew Member,TRUE,0,25
+1,1,50,That's fine.,Dwight,TRUE,0.2023,2
+1,1,50,"[new take] No, you don't even need ... That's fine. We'll keep it...",Documentary Crew Member,TRUE,-0.1027,13
+1,1,50,I'm sorry it makes me nervous.,Dwight,TRUE,-0.34,6
+1,1,50,"Understood, but it is what we need to capture what you're saying as clearly as possible.",Documentary Crew Member,TRUE,0.5499,16
+1,1,50,"I understand. It's in a blind spot because I'm trained in several martial arts and one of them, uh, includes, uh, an awareness that the masters bring, uh, of anything on all sides of you. It could be behind you or whatever. This is directly in a blind spot, so I'm trained to respond negatively to something right above my head. [new take] This now I have an eye on. You see, it's on my periphery and if I needed to block it, attack it, stop it somehow. [does a martial arts move with his hands] I could come right out. I mean, I know you're doing your job, but... Documentary Crew Member: [talking over Dwight] It's...",Dwight,TRUE,-0.9118,117
+1,1,50,I'm doing my job.,Dwight,TRUE,0,4
+1,1,51,"I think better to be a happy idiot then a, um... Then someone who knows the truth.",Michael,TRUE,0.6808,17
+1,2,1,"Hey, uh, can I help you out in here?",Michael,FALSE,0.4019,9
+1,2,1,"Oh, I'm all set, thanks.",Mr. Brown,FALSE,0.4404,5
+1,2,1,Gotcha. Good. I'd go with the rows. That's a good idea.,Michael,FALSE,0.7003,11
+1,2,2,"Today is diversity day and someone's going to come in and talk to us about diversity. It's something that I've been pushing, that I've been wanting to push, for a long time and Corporate mandated it. And I never actually talked to Corporate about it. They kind of beat me to the punch, the bastards. But I was going to. And I think it's very important that we have this. I'm very, very excited.",Michael,FALSE,0.0166,74
+1,2,3,"That's the thing. It's very sturdy paper and on the back it says, '100% post-consumer content.' What? Hello? Uh-huh. Wait. What? I'm sorry, Mr. Decker. I think I'm losing you. [Shedder whirring] Hello? Hello? Yeah. Hold on one second. I don't know. Hold on one second.",Jim,FALSE,-0.3939,46
+1,2,3,Do you really have to do that right now?,Jim,FALSE,0,9
+1,2,3,Yes I do. I should have done it weeks ago actually.,Dwight,FALSE,0.4019,11
+1,2,3,"Mr. Decker, I'm sorry about that. What were you... Can you hold on one second? Yeah, just one second. Thanks. [Power off, silence] Hello? That's it. Perfect. So what I was saying... [Dialing tone] Hello? Thanks, Dwight.",Jim,FALSE,0.8988,37
+1,2,3,Retaliation. Tit for tit.,Dwight,FALSE,0,4
+1,2,3,That is not the expression.,Jim,FALSE,0,5
+1,2,3,"Well, it should be.",Dwight,FALSE,0.2732,4
+1,2,4,"This is my biggest sale of the year. They love me over there for some reason. I'm not really sure why but I make one call over there every year, just to renew their account, and that one call ends up being 25% of my commission for the whole year, so I buy a mini bottle of champagne, celebrate a little. And this year I'm pushing recycled paper on them for one percent more. I know. I'm getting cocky. Right?",Jim,FALSE,0.8446,80
+1,2,5,Solitaire?,Jim,FALSE,0,1
+1,2,5,"Yeah, Freecell.",Pam,FALSE,0.296,2
+1,2,5,Six on seven.,Jim,FALSE,0,3
+1,2,5,I know. I saw that.,Pam,FALSE,0,5
+1,2,5,"So then, why didn't you do it?",Jim,FALSE,0,7
+1,2,5,I'm saving that 'cause I like it when the cards go T-ts-ts-tch-tch-tch.,Pam,FALSE,0.3612,12
+1,2,5,Who doesn't love that?,Jim,FALSE,-0.5216,4
+1,2,6,"Hey, Oscar! How are you doing, man?",Michael,FALSE,0,7
+1,2,6,All right.,Oscar,FALSE,0,2
+1,2,6,Did you have a good weekend going there?,Michael,FALSE,0.4404,8
+1,2,6,It was fine.,Oscar,FALSE,0.2023,3
+1,2,6,"Oh yeah, I bet it was fun. [to Mr. Brown] Oh, hey! This is Oscar---",Michael,FALSE,0.6996,15
+1,2,6,Martinez.,Oscar,FALSE,0,1
+1,2,6,"Right. See? I don't even know, first-name basis!",Michael,FALSE,0,8
+1,2,6,Great. We're all set.,Mr. Brown,FALSE,0.6249,4
+1,2,6,"Oh hey, well, diversity, everybody, let's do it. Oscar works in... here. Jim, could you wrap it up, please?",Michael,FALSE,0.5267,19
+1,2,6,"Yeah, uh, Mr. Decker, please.",Jim,FALSE,0.5423,5
+1,2,6,"It's diversity day, Jim. I wish every day was diversity day.",Michael,FALSE,0.4019,11
+1,2,6,You know what? I'm actually going to have to call you back. Thank you. Sorry about that.,Jim,FALSE,0.296,17
+1,2,7,Thank you. Thank you. Thank you. Great.,Mr. Brown,FALSE,0.891,7
+1,2,7,"Come on people, let's get 'em in. Get in the cards! Get in the cards!",Michael,FALSE,0,15
+1,2,7,"Thank you. Thank you very much. OK. Thanks for filling these out and I promise this'll be quick. At Diversity Today, our philosophy is about honesty and positive expectations. We believe that 99% of the problems in the workplace arise simply out of ignorance.",Mr. Brown,FALSE,0.9357,44
+1,2,7,"You know what? This is a color-free-zone here. Stanley, I don't look at you as another race.",Michael,FALSE,0,17
+1,2,7,"Uh, see this is what I'm talking about. We don't have to pretend we're color-blind.",Mr. Brown,FALSE,0.0762,15
+1,2,7,"Exactly, were not...",Michael,FALSE,0,3
+1,2,7,That's fighting ignorance with more ignorance.,Mr. Brown,FALSE,-0.7579,6
+1,2,7,With tolerance.,Michael,FALSE,0.296,2
+1,2,7,No. With more ignorance.,Mr. Brown,FALSE,-0.6115,4
+1,2,7,Ignorance.,Michael,FALSE,-0.3612,1
+1,2,7,"Right. Exactly. Uh, instead, we need to celebrate our diversity.",Mr. Brown,FALSE,0.5719,10
+1,2,7,Let's celebrate.,Michael,FALSE,0.5719,2
+1,2,7,Right. OK.,Mr. Brown,FALSE,0.4466,2
+1,2,7,Celebrate good times. Come on! Let's celebrate diversity. Right?,Michael,FALSE,0.8908,9
+1,2,7,"Yes, exactly. Now here's what we're going to do. I've noticed that...",Mr. Brown,FALSE,0.4019,12
+1,2,7,You know what? Here's what we're going to do. Why don't we go around and everybody... everybody say a race that you are attracted to sexually. I will go last. Go.,Michael,FALSE,0.4215,31
+1,2,7,I have two. White and Indian.,Dwight,FALSE,0,6
+1,2,7,"Actually, I'd prefer not to start that way. Michael, I would love to have your permission to run this session. Can I have your permission?",Mr. Brown,FALSE,0.6369,25
+1,2,7,Yes.,Michael,FALSE,0.4019,1
+1,2,7,Thank you very much. And it would also help me if you were seated.,Mr. Brown,FALSE,0.6369,14
+1,2,7,OK.,Michael,FALSE,0.296,1
+1,2,7,"Thank you. OK. Now, at the start of the session, I had you all write down an incident that you found offensive in the workplace. Now, what I'm going to do is choose one and we're going to act it out.",Mr. Brown,FALSE,0.347,41
+1,2,7,A few of the ground rules?,Dwight,FALSE,0,6
+1,2,7,"Hey, hey why don't you run it by me and I'll run it by him.",Michael,FALSE,0,15
+1,2,7,"OK, can we steer away from gay people?",Dwight,FALSE,0.4466,8
+1,2,7,Um...,Mr. Brown,FALSE,0,1
+1,2,7,"I'm sorry. It's an orientation. It's not a race. Plus a lot of other races are intolerant of gays, so...paradox.",Dwight,FALSE,-0.0772,20
+1,2,7,"Well, we only have an hour.",Mr. Brown,FALSE,0.2732,6
+1,2,7,I figured it would save time.,Dwight,FALSE,0.4939,6
+1,2,7,OK. Why don't we just defer to Mr...,Michael,FALSE,0.5888,8
+1,2,7,Mr. Brown.,Mr. Brown,FALSE,0,2
+1,2,7,"Ah. Oh, right! OK. First test. I will not call you that.",Michael,FALSE,0.4981,12
+1,2,7,"Well, it's my name. It's not a test. OK? Um, so looking through the cards, I've noticed that many of you wrote down the same incident, which is ironic, because it's the exact incident I was brought in here to respond to. Now, how many of you are familiar with the Chris Rock routine? Very good. OK.",Mr. Brown,FALSE,-0.1098,57
+1,2,8,"How come Chris Rock can do a routine and everybody finds it hilarious and ground-breaking and then I go and do the exact same routine, same comedic timing, and people file a complaint to Corporate? Is it because I'm white and Chris is black?",Michael,FALSE,0.5514,44
+1,2,9,So we're going to reenact this with a more positive outcome.,Mr. Brown,FALSE,0.5984,11
+1,2,9,I will play the Chris Rock guy. I would like to see someone else pull this off.,Michael,FALSE,0.5994,17
+1,2,9,"Well, let's have someone who wasn't involved in the reenactment.",Mr. Brown,FALSE,0.2732,10
+1,2,9,"OK, I will play guy listening.",Michael,FALSE,0.6523,6
+1,2,9,"Great. Guy listening. Ok, anyone else remember?",Mr. Brown,FALSE,0.743,7
+1,2,9,I remember.,Kevin,FALSE,0,2
+1,2,9,Great. You're the Chris Rock guy and you're guy listening.,Mr. Brown,FALSE,0.6249,10
+1,2,9,OK.,Michael,FALSE,0.296,1
+1,2,10,Kevin is a great guy. He's a great accountant. He is not much of an entertainer.,Michael,FALSE,0.8957,16
+1,2,11,"Basically, there are two types of black people and black people are actually more racist because they hate the other type of black people. Every time the one type wants to have a good time, then the other type comes in and makes a real mess.",Kevin,FALSE,-0.8221,46
+1,2,11,"OK. I'm sorry. I'm sorry. He's ruin... He's butchering it. Could you just let me... [As Chris Rock] Every time... Every time black people want to have a good time, some ignant ass... [Bleep] I take care of my kid!",Michael,FALSE,0.8412,40
+1,2,11,Wait a second.,Mr. Brown,FALSE,0,3
+1,2,11,[Bleep] They always want credit for something they supPOSED to do!,Michael,FALSE,0.4926,11
+1,2,11,Stop it!,Mr. Brown,FALSE,-0.3595,2
+1,2,11,[As Chris Rock] What you want a cookie?,Michael,FALSE,0.0772,8
+1,2,12,"Now, this is a simple acronym. HERO. Uh, at Diversity Today, we believe it is very easy to be a HERO. All you need are honesty, empathy, respect and open-mindedness.",Mr. Brown,FALSE,0.9593,30
+1,2,12,"Excuse me, I'm sorry, but that's not all it takes to be a hero.",Dwight,FALSE,0.7096,14
+1,2,12,"Oh, great. Well, what is a hero to you?",Mr. Brown,FALSE,0.8689,9
+1,2,12,"A hero kills people, people that wish him harm.",Dwight,FALSE,-0.1779,9
+1,2,12,OK.,Mr. Brown,FALSE,0.296,1
+1,2,12,"A hero is part-human and part-supernatural. A hero is born out of a childhood trauma, or out of a disaster that must be avenged.",Dwight,FALSE,0.0772,24
+1,2,12,"Ok, you're thinking of a superhero.",Mr. Brown,FALSE,0.296,6
+1,2,12,We all have a hero in our heart.,Dwight,FALSE,0.5574,8
+1,2,12,"Now, I need you to take these forms. This kind of expresses the joint experience we had today. And I need you to look 'em over and sign them as kind of a group pledge.",Mr. Brown,FALSE,0,35
+1,2,12,[Clears throat] I don't think I can sign this.,Michael,FALSE,0,9
+1,2,12,I can't leave until you do.,Mr. Brown,FALSE,0.0382,6
+1,2,12,"Well, OK, it says here that I learned something and I knew all this stuff already, so... I know, I could sign something that says that I taught something, or that I helped you teach something, so... Pam! Where is she? Pam, could we change something on this?",Michael,FALSE,0.6893,48
+1,2,12,"Michael, can I talk to you candidly?",Mr. Brown,FALSE,0,7
+1,2,12,Sure.,Michael,FALSE,0.3182,1
+1,2,13,We both know that I'm here because of the comments you made.,Mr. Brown,FALSE,0,12
+1,2,13,"Here's the thing. This office, I think this is very advanced in terms of... racial awareness and it's probably more advanced than you're used to. That's probably throwing you off a little bit.",Michael,FALSE,0.5553,33
+1,2,13,"Um, it's not throwing me. I need your signature.",Mr. Brown,FALSE,0,9
+1,2,13,"OK, well I know. You told me that several times.",Michael,FALSE,0.6166,10
+1,2,13,"Yes, but you're not listening to me. Yours is the only signature I need.",Mr. Brown,FALSE,0.2144,14
+1,2,13,OK.,Michael,FALSE,0.296,1
+1,2,13,Those are my instructions from the Corporate offices to put you through this seminar for the comments that you made. The reason I made copies for everyone was so you wouldn't be embarrassed.,Mr. Brown,FALSE,0.2755,33
+1,2,13,"Well, here I am thinking that you actually cared about diversity training. And you don't.",Michael,FALSE,0.5994,15
+1,2,13,Don't worry about dating.,Mr. Brown,FALSE,0.3412,4
+1,2,13,I won't.,Michael,FALSE,0,2
+1,2,13,OK. Thank you.,Mr. Brown,FALSE,0.6633,3
+1,2,13,"Yeah, yeah.",Michael,FALSE,0.5267,2
+1,2,14,"I regret my actions. I regret offending my coworkers. I pledge to bring my best spirit of honesty, empathy, respect and open-mindedness...' Open-mindedness, is that even a word? '...into the workplace. In this way, I can truly be a hero. Signed, Daffy Duck.' [Laughing] He's going to lose it when he reads that.",Michael,FALSE,0.7964,53
+1,2,15,"Yeah, hi. Is Mr. Decker around? Oh, well, could you just have him call me after lunch? Thank you.",Jim,FALSE,0.7319,19
+1,2,15,"I pledge to always keep an open mind and an open heart.' I do believe... in that part of the pledge I that just read. But a pledge? Come on. I mean who are we, the Girl Scouts? No. Look... the guy, 'Mr. Brown,' he got us halfway there. He got us talking. Well, no. I got us talking. He got us nothing. He insulted us and he abandoned us. You call that diversity training? I don't. Were there any connections between any of us? Did anyone look each other in the eye? Was there any emotion going on? No. Where was the heart? I didn't see any heart. Where was my Oprah moment? OK, get as much done as you can before lunch because, afterward, I'm going to have you all in tears.",Michael,FALSE,-0.5754,134
+1,2,16,All right? Everybody pretty? Come on. Here we go. It's time. Let's do some good.,Michael,FALSE,0.755,15
+1,2,16,"Hey, we're not all going to sit in a circle Indian style are we? [Laughing]",Toby,FALSE,0,15
+1,2,16,Get out.,Michael,FALSE,0,2
+1,2,16,I'm sorry.,Toby,FALSE,-0.0772,2
+1,2,16,"No, this is not a joke. OK? That was offensive and lame. So double offensive. This is an environment of welcoming and you should just get the hell out of here. OK, let's go. Let's do it. Come on. Let's have some fun, everybody. Here we go. Take a seat. Cop a squat. And um... thanks for coming in. Um... Diversity... is the cornerstone of progress as I've always said. But don't take my word for it. Let's take a look at the tape.",Michael,FALSE,-0.8573,84
+1,2,17,"[on the tape] Hi. I'm Michael Scott. I'm in charge of Dunder Mifflin Paper Products here in Scranton, Pennsylvania but I'm also the founder of Diversity Tomorrow, because today is almost over. Abraham Lincoln once said that, 'If you're a racist, I will attack you with the North.' And those are the principles that I carry with me in the workplace.",Michael,FALSE,-0.8922,61
+1,2,18,OK. Questions? Comments? Anybody? Jim?,Michael,FALSE,0.5984,5
+1,2,18,": Uh, is that it?",Jim,FALSE,0,5
+1,2,18,Yes. I only had an hour to put it together but I'm going to add on to it later on.,Michael,FALSE,0.2144,20
+1,2,18,It was kind of hard to hear.,Kevin,FALSE,-0.1761,7
+1,2,18,"Uh, yes. That probably had something to do with the camera work. Anybody else? Um...",Michael,FALSE,0.4019,15
+1,2,18,I have a customer meeting.,Kelly,FALSE,0,5
+1,2,18,"Yeah, well, if you leave we'll only have two left. Yes. Enjoy. Absolutely. Namaste. Ok, well since I am leading this, let's get down to business and why don't I just kind of introduce myself, OK? Um. I am Michael and I am part English, Irish, German and Scottish. Sort of a virtual United Nations. But what some of you might not know is that I am also part Native American Indian.",Michael,FALSE,0.9539,72
+1,2,18,What part Native American?,Oscar,FALSE,0,4
+1,2,18,Two fifteenths.,Michael,FALSE,0,2
+1,2,18,"Two fifteenths, that fraction doesn't make any sense.",Oscar,FALSE,0,8
+1,2,18,"Well, you know what, it's kind of hard for me to talk about it. Their suffering. So who else? Let's get this popping. Come on. Who's going? Who's going? Let's go here. Oscar, right here. You're on.",Michael,FALSE,-0.4995,37
+1,2,18,"OK, Michael, um... Both my parents were born in Mexico.",Oscar,FALSE,0.4466,10
+1,2,18,"Oh, yeah...",Michael,FALSE,0,2
+1,2,18,"And, uh, they moved to the United Sates a year before I was born. So I grew up in the United States.",Oscar,FALSE,0.6808,22
+1,2,18,Wow.,Michael,FALSE,0.5859,1
+1,2,18,My parents were Mexican.,Oscar,FALSE,0,4
+1,2,18,"Wow. That is... That is a great story. That's the American Dream right there, right?",Michael,FALSE,0.872,15
+1,2,18,Thank... Yeah...,Oscar,FALSE,0,2
+1,2,18,"Um, let me ask you, is there a term besides Mexican that you prefer? Something less offensive?",Michael,FALSE,-0.4708,17
+1,2,18,Mexican isn't offensive.,Oscar,FALSE,0.357,3
+1,2,18,"Well, it has certain connotations.",Michael,FALSE,0.4939,5
+1,2,18,Like what?,Oscar,FALSE,0.3612,2
+1,2,18,Like... I don't... I don't know.,Michael,FALSE,0,6
+1,2,18,"What connotations, Michael? You meant something.",Oscar,FALSE,0,6
+1,2,18,"No. Now, remember that honesty...",Michael,FALSE,-0.296,5
+1,2,18,I'm just curious.,Oscar,FALSE,0.3182,3
+1,2,18,"...empathy, respect... [Phone ringing] Jim! Jim!",Michael,FALSE,0,6
+1,2,18,Hello? Hello?,Jim,FALSE,0,2
+1,2,19,"I have something here. I want you to take a card. Put it on your fore... Don't look at the card. I want you to take the card and put it on your forehead and... Take a card, take a card, any card. Um... And I want you to treat other people like the race that is on their forehead. OK? So everybody has a different race. Nobody knows what their race is, so... I want you to really go for it, cause this is real. You know, this isn't just an exercise. This is real life. And... I have a dream that you will really let the sparks fly. Get 'er done.",Michael,FALSE,0.8842,113
+1,2,20,Why? Because Martin Luther King is a hero of mine. There's this great Chris Rock bit about how streets named after Martin Luther King tend to be more violent. I'm not going to do it but it's...,Michael,FALSE,0.3901,37
+1,2,21,Oh this is a good one.,Michael,FALSE,0.4404,6
+1,2,21,"Um, hi. How are you?",Pam,FALSE,0,5
+1,2,21,Fine. How are you?,Stanley,FALSE,0.2023,4
+1,2,21,Great.,Pam,FALSE,0.6249,1
+1,2,21,Push it.,Michael,FALSE,0,2
+1,2,21,I admire your culture's success in America.,Stanley,FALSE,0.7783,7
+1,2,21,Thank you.,Pam,FALSE,0.3612,2
+1,2,21,Good. Bom bom bom-bom bom. Come on Olympics of Suffering right here. Slavery versus the Holocaust. Come on.,Michael,FALSE,-0.7184,18
+1,2,21,Who am I supposed to be?,Stanley,FALSE,0,6
+1,2,21,"No, that was inadvertent. We didn't actually plan that.",Michael,FALSE,-0.296,9
+1,2,21,"Lots of cultures eat rice, doesn't help me.",Dwight,FALSE,-0.3089,8
+1,2,21,Um... Shalom. I'd like to apply for a loan.,Dwight,FALSE,0.3612,9
+1,2,21,"That's nice, Dwight.",Pam,FALSE,0.4215,3
+1,2,21,"OK, do me. Something stereotypical so I can get it really quick.",Dwight,FALSE,0.4466,12
+1,2,21,"OK, I like your food.",Pam,FALSE,0.6633,5
+1,2,21,"Outback steakhouse. [Australian accent] I'm Australian, mate!",Dwight,FALSE,0,7
+1,2,21,"Pam, come on. 'I like your food.' Come on stir the pot. Stir the melting pot, Pam! Let's do it. Let's get ugly. Let's get real.",Michael,FALSE,-0.2714,26
+1,2,21,"OK. If I have to do this, based on stereotypes that are totally untrue, that I do not agree with, you would maybe not be  a very good driver.",Pam,FALSE,-0.2022,30
+1,2,21,"Oh, man, am I a woman?",Dwight,FALSE,0,6
+1,2,22,"You'll notice I didn't have anybody be an Arab. I thought that would be too explosive. No pun intended. But I just though. 'Too soon for Arabs.' Maybe next year. Um... You know, the ball's in their court.",Michael,FALSE,-0.296,38
+1,2,23,What are you watching?,Jim,FALSE,0,4
+1,2,23,Chappelle's Show.,Ryan,FALSE,0,2
+1,2,23,Really?,Jim,FALSE,0,1
+1,2,23,I downloaded it on her computer. I hope she doesn't mind. She just had a lot of extra space.,Ryan,FALSE,0.4404,19
+1,2,23,No way. I think she likes this stuff.,Jim,FALSE,0.1531,8
+1,2,23,"Great. She's cute, huh?",Ryan,FALSE,0.7964,4
+1,2,23,"Yeah, you know, she's engaged, but...",Jim,FALSE,0.5994,6
+1,2,23,"Oh, no, the girl in the... sketch.",Ryan,FALSE,-0.296,7
+1,2,23,"Oh, yeah. She's hot.",Jim,FALSE,0.296,4
+1,2,24,Hey.,Kevin,FALSE,0,1
+1,2,24,Hey.,Angela,FALSE,0,1
+1,2,24,You wanna go to the beach?,Kevin,FALSE,0,6
+1,2,24,Sure.,Angela,FALSE,0.3182,1
+1,2,24,You wanna get high?,Kevin,FALSE,0,4
+1,2,24,No.,Angela,FALSE,-0.296,1
+1,2,24,"I think you do, mon.",Kevin,FALSE,0,5
+1,2,24,Stop...,Angela,FALSE,0,1
+1,2,24,OK. All right. No. It's good. You just need to push it. You need to go a little bit further. All right. OK.,Michael,FALSE,0.7626,23
+1,2,25,"[Voice raised, Indian accent] Kelly, how are you?",Michael,FALSE,0,8
+1,2,25,I just had the longest meeting.,Kelly,FALSE,0,6
+1,2,25,"Oh! Welcome to my convenience store. Would you like some googi googi? I have some very delicious googi, googi, only 99 cents plus tax. Try my googi, googi. [Lowering voice] Try my googi, googi. [High-pitched voice] Try my googi, googi. Try my... [slap!]",Michael,FALSE,0.8772,43
+1,2,25,"[trying not to cry] All right! All right! Yes! That was great, she gets it! Now she knows what it's like to be a minority.",Michael,FALSE,0.8877,25
+1,2,26,"[on the phone] Mr. Decker, we didn't lose your sale today, did we? Excellent. OK. Let me just get your... what's that? No, we didn't close last time. I just need your... Oh. W-What code were you given? Oh, OK. That's actually another salesman here. I can redo it if you want to do that. Oh, he gave you a discount? No, I don't blame you.",Jim,FALSE,0.8938,66
+1,2,27,"I just hated it when that guy was in here. Mr. Brown, if that was his real name. I mean, he had never met any of us before, and here he was telling us how to do our thing. I just wanted... I just wanted to do it our way. You know? On our own. Man I should have gotten some food.",Michael,FALSE,-0.6369,62
+1,2,27,[Itialian accent]Maybe some spagh-etti.,Kevin,FALSE,0,4
+1,2,27,"Okay, Kevin. You can take that off that thing, OK? That would really, really have shown him up, wouldn't it? If I'd brought in some burritos or some colored greens. Or some pad Thai. I love pad Thai.",Michael,FALSE,0.8553,38
+1,2,27,It's collard greens.,Stanley,FALSE,0,3
+1,2,27,What?,Michael,FALSE,0,1
+1,2,27,It's collard greens.,Stanley,FALSE,0,3
+1,2,27,"That doesn't really make sense. Because you don't call them collared people, that's offensive. Hmmm... OK, well, it's after five. So... Thank you very much. Buena vista Oscar. Thank you. Good job. Oh, my man. Thank you Brazil. Nice.",Michael,FALSE,0.9222,39
+1,2,28,"[Pam is asleep, resting her head on Jim's shoulder] Um... Hey.",Jim,FALSE,0,11
+1,2,28,[stirs] Mmmm.,Pam,FALSE,0,2
+1,2,28,Hey.,Jim,FALSE,0,1
+1,2,28,Oh.,Pam,FALSE,0,1
+1,2,28,We can go.,Jim,FALSE,0,3
+1,2,28,Sorry.,Pam,FALSE,-0.0772,1
+1,2,28,That's fine.,Jim,FALSE,0.2023,2
+1,2,29,Uh... Not a bad day.,Jim,FALSE,0.431,5
+1,2,30,Thanks for filling these out. I promise this will be quick. We only have about an hour.,Mr. Brown,TRUE,0.6369,17
+1,2,30,Yeah. I would like to see us erase 100 years of racism in an hour.,Michael,TRUE,-0.1027,15
+1,2,30,Does this company have 100 years to erase?,Mr. Brown,TRUE,0,8
+1,2,30,"No, the country.",Michael,TRUE,-0.296,3
+1,2,30,"Oh right, more like 200 years.",Mr. Brown,TRUE,0.4201,6
+1,2,30,"Yeah, more like a 1,000.",Michael,TRUE,0.6115,5
+1,2,30,"Okay, um. Uh, I'll try to make this quick.",Mr. Brown,TRUE,0.2263,9
+1,2,31,"I am a salesman, okay. And I don't think we should be doing this during prime sales hours. If you can prove to me that diversity is going to help my sales, I'll go elephant running with James Earl Jones. I really will, but not on spec.",Dwight,TRUE,0.3182,47
+1,2,32,"HERO, at Diversity Today, we believe it is very easy to be a HERO. All you need are honesty, empathy, respect and open-mindedness.",Mr. Brown,TRUE,0.9593,23
+1,2,32,"I just think that HERO? It's cute, but it's... It's empty, you know? It's easy. Dwight, you know what, I came up with some terms of my own. Could you put these on the board? The first one is Inclusion, New Attitudes, Color-blind...",Michael,TRUE,0.7818,43
+1,2,32,"Oh, nice.",Mr. Brown,TRUE,0.4215,2
+1,2,32,Expectations....,Michael,TRUE,0,1
+1,2,32,Good.,Mr. Brown,TRUE,0.4404,1
+1,2,32,Thank you. Sharing...,Michael,TRUE,0.3612,3
+1,2,32,Great.,Mr. Brown,TRUE,0.6249,1
+1,2,32,And tolerance.,Michael,TRUE,0.296,2
+1,2,32,Beautiful.,Mr. Brown,TRUE,0.5994,1
+1,2,32,"Um, that spells incest.",Pam,TRUE,0,4
+1,2,32,"Oh, my sorry. That is not appropriate.",Mr. Brown,TRUE,-0.0772,7
+1,2,32,"Well, it's not ideal but you have to give me some credit 'cause I made it into a word.",Michael,TRUE,0.47,19
+1,2,32,"Yeah, but it's not appropriate. This is not helpful as a memory aid.",Mr. Brown,TRUE,-0.3395,13
+1,2,32,"I will give you a number of reasons why it is, actually. Okay, first, incest is bad. Racism is bad. No brainer, right? Two, incest. We're all a family, right? We're all brothers and sisters. Racial message? Um? Number three, and this is a fact. The states where they have a lot of racism are the states where they have a lot of incest. Okay? And finally...",Michael,TRUE,-0.9429,67
+1,2,32,"Okay, Michael, I just...",Mr. Brown,TRUE,0.2263,4
+1,2,32,"No, no, no, no, wait. Final one, final one this is important. The more we can encourage interracial dating as a society the further away we get from incest, literally.",Michael,TRUE,-0.3477,30
+1,2,33,"It would've been just as easy for him to spell insect. Of course, that wouldn't have made any sense either.",Pam,FALSE,0.4404,20
+1,2,34,Does anyone have anything else at all? Anyone besides Michael?,Mr. Brown,TRUE,0,10
+1,2,34,I have something.,Ryan,TRUE,0,3
+1,2,34,"Yes, please.",Mr. Brown,TRUE,0.6124,2
+1,2,34,"Um, well I grew up here in Scranton and when I was a kid the guy who lived next door was a former baseball player, who actually played pro ball before the leagues were integrated. And he had the most incredible stories about...",Ryan,TRUE,0.5423,43
+1,2,34,"Okay. I'm sorry, I'm sorry this guy's a temp and I should've told you that.",Michael,TRUE,0.0772,15
+1,2,34,"No, no, no, no. An outsider's perspective would probably be pretty helpful.",Mr. Brown,TRUE,-0.2023,12
+1,2,34,"Yeah, but no, seriously. Uh, you know, he's not a member of the full staff so, uh, Ryan you wanna just step outside?",Michael,TRUE,-0.5023,23
+1,2,34,What do you want me to do?,Ryan,TRUE,0.0772,7
+1,2,34,"Well, maybe you should go down to the parking lot. You know what. Yes, go down to the parking lot and check to se if any of our guests have parked in the handicapped spots. Cool? 'Cause the handicaps get a raw deal. Oh, you know what. That ties right into New Attitudes. New attitudes about handicap people. Very important.",Michael,TRUE,0.8016,60
+1,2,34,"I'm sorry, Michael. We're actually out of time.",Mr. Brown,TRUE,-0.0772,8
+1,2,35,"Yeah, um, there's good things about Michael. He uh, uh... Yeah, definitely. Um...",Pam,FALSE,0.8402,13
+1,2,36,"In this way, I can truly be a hero. Signed, Daffy Duck.' [laughing] He's going to lose it when he reads that. Doh! Hogan! Not again, Hogan! Get Col. Burkhalter on the phone! [laughing] I'm kind of a Hogan around here. And kind of, Jan is kind of Col. Burkhalter, then Dwight is Schultz. But, it's... Oh, God. We have fun. We have fun. 'Cause he's gonna be pissed. [making voice] No doubt about it.",Michael,TRUE,0.6973,75
+1,2,37,What you doing?,Dwight,TRUE,0,3
+1,2,37,Freecell.,Jim,TRUE,0,1
+1,2,37,Solitaire is a one-player game. It can't have two players.,Dwight,TRUE,0,10
+1,2,37,"Well, I mean.",Jim,TRUE,0.2732,3
+1,2,37,What's your win rate?,Dwight,TRUE,0.5859,4
+1,2,37,Seventy-six percent. What's yours?,Pam,TRUE,0,4
+1,2,37,You're not allowed to play two-player. You need to start over.,Dwight,TRUE,-0.2584,11
+1,2,37,You're doing fine.,Pam,TRUE,0.2023,3
+1,2,38,Are we going?  [Dwight puts four fingers in front of the camera to start a countdown] Don't do that. Just say action when we're ready.,Michael,TRUE,0.3612,26
+1,2,38,"Dunder Mifflin, Michael Scott, Diversity Tomorrow, take four. And action.",Dwight,TRUE,0,10
+1,2,38,"[mumbling] Should I... turn, no. Do it again.",Michael,TRUE,-0.296,8
+1,2,38,"Diversity Tomorrow, take five. Action.",Dwight,TRUE,0,5
+1,2,38,"Hi. I'm Michael Scott. I'm in charge of Dunder Mifflin Paper Products here in Scranton, Pennsylvania but I'm also the founder of Diversity Tomorrow, because today is almost over. Abraham Lincoln once said that, 'If you're a racist, I will attack you with the North.' And those are the principles... Damn it. Okay, sorry. Don't laugh; please don't laugh this time Dwight. You're... it's, it's bugging me. Let me give myself a countdown, ready? Three, two, one.",Michael,TRUE,-0.9651,77
+1,2,38,Take six.,Dwight,TRUE,0,2
+1,2,38,"Just let me do it! God! Three, two, one. Hi. I'm Michael Scott. I'm in charge of Dunder Mifflin Paper Products here in Scranton... Keep the camera steady please! People are gonna get sea sick watching this. Ready? Three, two, one.",Michael,TRUE,0.5386,41
+1,2,38,Action.,Dwight,TRUE,0,1
+1,2,38,"Don't. Please don't say anything. [sighs] Oh, God.",Michael,TRUE,0.0356,8
+1,2,38,"And action... Lights, camera, action. Whenever you're ready.",Dwight,TRUE,0.3612,8
+1,2,38,"Could I count myself down please, Dwight. Three, two, one. Hi. I'm Michael Scott. I'm in charge of Dunder Mifflin Paper Products here in Scranton, Pennsylvania but I'm also the founder of Diversity Tomorrow, because today is almost over. Abraham Lincoln once said that, 'If you're a racist, I will attack you with the North.' And those are the principles that I carry with me in the workplace.",Michael,TRUE,-0.875,68
+1,2,38,Cut.,Dwight,TRUE,-0.2732,1
+1,2,39,[wandering around the room during his diversity exercise] I want you to push it. I want you to push 'cause breakthroughs are right around the corner. Something's going to pop here. Something's going to pop between a party. Feel what it's like to be in someone else's skin. What does it feel like to be a different race? It feels pretty bad doesn't it. So let that come out.,Michael,TRUE,0.7906,69
+1,2,40,"Yeah, I marched on Washington back in the day. I went to the Washington Monument and the Lincoln Memorial, U.S. Mint, congressman talked to our class. It was pretty cool.",Michael,TRUE,0.7717,30
+1,2,41,Talk like you're talking to that race. I have a feeling that this could get kind of volatile. So keep it going. [camera shows Devon sitting outside with West Nile],Michael,FALSE,0.4588,30
+1,2,42,"Um, what's going on here?",Jim,TRUE,0,5
+1,2,42,People treat us like the race on our forehead. And then we guess what race we are.,Pam,TRUE,0.6369,17
+1,2,42,"Ah, good. Good luck. Doing good. [goes to the index cards and writes another race down]",Jim,TRUE,0.8934,16
+1,2,42,"Oh, man, am I a woman?",Dwight,TRUE,0,6
+1,2,42,"Yes, yes.",Jim,TRUE,0.6597,2
+1,2,42,God!,Dwight,TRUE,0.3382,1
+1,2,42,How embarrassing is it? That's not fair. Here...,Jim,TRUE,-0.5517,8
+1,2,42,It's not fair.,Dwight,TRUE,-0.2411,3
+1,2,42,Try this. [takes Dwight's 'Asian' race and switches it with the one he wrote],Jim,TRUE,0,14
+1,2,42,Thank you. Thank you very much.,Dwight,TRUE,0.6124,6
+1,2,42,Go get 'em.,Jim,TRUE,0,3
+1,2,42,"Good. [clears throat] So, am I a hunter gather culture?",Dwight,TRUE,0.4404,10
+1,2,42,No.,Pam,TRUE,-0.296,1
+1,2,42,Do I live near a harbor or an ocean?,Dwight,TRUE,0,9
+1,2,42,No.,Pam,TRUE,-0.296,1
+1,2,42,"No, I'm an inland. Am I a mountainous?",Dwight,TRUE,-0.296,8
+1,2,42,No.,Pam,TRUE,-0.296,1
+1,2,42,Am I nomadic?,Dwight,TRUE,0,3
+1,2,42,No.,Pam,TRUE,-0.296,1
+1,2,42,"Okay, okay, okay, okay. I think I got this. Um, I am treated in a foreign way with a great deal of prejudice. Am I one of those tribes in Africa? The piggies, or whatever?",Dwight,TRUE,0.7757,35
+1,2,42,No.,Pam,TRUE,-0.296,1
+1,2,42,"No. But I am, I am human, right? [Pam hesitates]",Dwight,TRUE,-0.296,10
+1,2,43,[Dwight's new race is 'Dwight'] I could be French.,Dwight,FALSE,0,9
+1,2,44,"[takes his 'Dwight' race off his forehead] Damn it, Jim! That's not funny, Jim!",Dwight,FALSE,-0.6898,14
+1,2,44,"Oh, okay. Here we go, breakthrough radar. What happened? What happened here?",Michael,FALSE,0.3094,12
+1,2,44,It didn't have anything to do with race.,Pam,FALSE,0,8
+1,2,44,"Okay, all right. Let's keep on track. Keep on point. Let's do it.",Michael,FALSE,0.2263,13
+1,2,45,One time we had an ethnic festival in Scranton. One time.,Pam,TRUE,0.4939,11
+1,2,46,"Try my googi, googi. [Lowering voice] Try my googi, googi. [High-pitched voice] Try my googi, googi. Try my... [Kelly slaps Michael] All right! All right! Yes! That was great, she gets it! Kelly thank you. [claps] She's not here, but she gets it. That's what we have been looking for. The whole time. [trying not to cry] Oh, man. This is what I thrive on. You know? It's like Don Rickles on acid, man. Right?",Michael,FALSE,0.8729,75
+1,2,46,"Um, why did she slap Martin Luther King?",Jim,FALSE,0.1531,8
+1,2,46,"What, huh?",Michael,FALSE,0,2
+1,2,46,What card was she?,Pam,FALSE,0,4
+1,2,46,I think she wasn't wearing a card.,Jim,FALSE,0,7
+1,2,46,It's good. This is good. We got it happening now. All right? Let's keep it rolling. Let's round it up.,Michael,FALSE,0.7003,20
+1,3,1,Pam. Pamela. Pam-elama-ding-dong. Making copies.,Michael,FALSE,0,5
+1,3,1,I'm not making any copies.,Pam,FALSE,0,5
+1,3,1,"Let's go. Messages. Stat. Lots to do, lots to do. Information superhighway.",Michael,FALSE,0,12
+1,3,1,Nothing new.,Pam,FALSE,0,2
+1,3,1,Lay them on me. What?,Michael,FALSE,0,5
+1,3,1,There's nothing new.,Pam,FALSE,0,3
+1,3,1,That's not what you said earlier.,Michael,FALSE,0,6
+1,3,1,"Oh, do you want me to repeat the messages that I gave you before for the... [nods toward camera]",Pam,FALSE,0.0772,19
+1,3,2,"The most sacred thing I do is care and provide for my workers, my family. I give them money. I give them food. Not directly, but through the money. I heal them. Today, I am in charge of picking a great new health care plan. Right? That's what this is all about. Does that make me their doctor? Um... Yes, in a way. Yeah, like a specialist.",Michael,FALSE,0.972,67
+1,3,3,"So, which health plan have you decided on?",Jan,FALSE,0,8
+1,3,3,"I am going to go with the best, Jan. I am going to go with the one with the acupuncture, therapeutic massage, you know, the works.",Michael,FALSE,0.6369,26
+1,3,3,"Wait, acupuncture? None of the plans have acupuncture. Have you looked at them closely Michael?",Jan,FALSE,0,15
+1,3,3,I think it was you who didn't look closely enough at the Gold Plan.,Michael,FALSE,0,14
+1,3,3,The Gold Plan? I'm not even on that plan.,Jan,FALSE,0,9
+1,3,3,"Well, I'd recommend it. It's very good.",Michael,FALSE,0.7778,7
+1,3,3,Michael.,Jan,FALSE,0,1
+1,3,3,You gotta crack these things open.,Michael,FALSE,0,6
+1,3,3,"You know the whole reason that we're doing this, is to save money. So you just need to pick a provider and choose the cheapest plan.",Jan,FALSE,0.4939,26
+1,3,3,"Well, that is kind of a tough assignment. Um... It won't be popular decision around the old orifice.",Michael,FALSE,-0.2558,18
+1,3,3,It's your job. So...,Jan,FALSE,0,4
+1,3,3,"Well, it's a suicide mission, you know.",Michael,FALSE,-0.5267,7
+1,3,3,Michael... maybe... I mean...,Jan,FALSE,0,4
+1,3,3,"There, there...",Michael,FALSE,0,2
+1,3,3,"Sometimes a manager, like yourself, has to deliver the bad news to the employees. I do it all the time.",Jan,FALSE,-0.25,20
+1,3,3,[scoffs] When have you ever done that?,Michael,FALSE,0,7
+1,3,3,I'm doing it right now. To you.,Jan,FALSE,0,7
+1,3,4,"Last night on Trading Spouses, there's... have you seen it?",Jim,FALSE,0,10
+1,3,4,No. I have a life.,Pam,FALSE,-0.296,5
+1,3,4,"Interesting, what's that like?",Jim,FALSE,0.6369,4
+1,3,4,You should try it sometime.,Pam,FALSE,0,5
+1,3,4,Wow. But then who would watch my TV? That is...,Jim,FALSE,0.5859,10
+1,3,4,[laughs]... your problem.,Pam,FALSE,-0.4019,3
+1,3,4,Jimbo! Ha haaaaa. Ah.,Michael,FALSE,0.4003,4
+1,3,5,"There's a decision that needs to be made, and I'm having an unbelievably a busy day. So I'm going to let you pick a health care plan for our office and then explain it to your co-workers.",Michael,FALSE,0.4939,37
+1,3,5,Gosh.,Jim,FALSE,0,1
+1,3,5,Yeah!,Michael,FALSE,0.3595,1
+1,3,5,That is a great offer. Thank you. I really think I should be concentrating on sales.,Jim,FALSE,0.765,16
+1,3,5,Really?,Michael,FALSE,0,1
+1,3,5,"Yeah. I just don't think this is the kind of task, that I... am going to do. You know who would be great for this?",Jim,FALSE,0.743,25
+1,3,6,"Any time Michael asks me to do anything, I just tell him that Dwight should do it.",Jim,FALSE,0,17
+1,3,7,Yes. I can do it. I'm your man.,Dwight,FALSE,0.4019,8
+1,3,8,"Right now, this is just a job. If I advance any higher in this company then this would be my career. And uh, well, if this were my career, I'd have to throw myself in front of a train.",Jim,FALSE,0.2732,39
+1,3,9,"OK, first, let's go over some parameters. How many people can I fire?",Dwight,FALSE,0.1363,13
+1,3,9,"Ah, none. You're picking a health care plan.",Michael,FALSE,0.4939,8
+1,3,9,"OK, we'll table that for the time being. Two, I'll need an office. I think the conference room should be fine.",Dwight,FALSE,0.5766,21
+1,3,9,You can use the conference room as a temporary workspace.,Michael,FALSE,0,10
+1,3,9,"[to self] Yes, I have an office. [to camera] Bigger than his.",Dwight,FALSE,0.4019,12
+1,3,9,"Nope, you cannot use it.",Michael,FALSE,0,5
+1,3,9,"OK, I take it back, it's a workspace.",Dwight,FALSE,0.4466,8
+1,3,9,Temporary workspace. You can use it.,Michael,FALSE,0,6
+1,3,9,Thank you.,Dwight,FALSE,0.3612,2
+1,3,10,"If Dwight fails, then that is strike two, and good for me for, ah, for giving him a second chance. And if he succeeds, then, you know, no one will be prouder than I am. I groomed him. I made him what he is today. Unless he fails, and we've talked about that already.",Michael,FALSE,0.6597,54
+1,3,11,What did I do? I did my job. I slashed benefits to the bone. I saved this company money. Was I too harsh? Maybe. I don't believe in coddling people.,Dwight,FALSE,0.2406,30
+1,3,11,"In the wild, there is no health care. In the wild, health care is, 'Ow, I hurt my leg. I can't run. A lion eats me and I'm dead.' Well, I'm not dead. I'm the lion. You're dead.",Dwight,FALSE,0.8684,38
+1,3,12,"There's no dental, there's no vision, there's a $1,200 deductible.",Stanley,FALSE,-0.34,10
+1,3,13,"Dunder Mifflin, this is Pam.",Pam,FALSE,0,5
+1,3,13,"[on phone] Pam, Michael Scott. How's tricks?",Michael,FALSE,-0.128,7
+1,3,13,Where are you?,Pam,FALSE,0,3
+1,3,13,"Oh, I am in my office. I am swamped. I have work up to my ears I'm busy, busy, busy. Can't step away. I just wanted to check in and see how everybody's doing. Everybody cool out there?",Michael,FALSE,0.3182,38
+1,3,13,"Actually, people are really unhappy. Um, Dwight sent around this memo and people are freaking out 'cause the...",Pam,FALSE,-0.7089,18
+1,3,13,"Pam! Whoa, whoa, I'm sorry, I'm sorry, I, I, I, I gotta go. I'm getting a call.",Michael,FALSE,-0.2244,17
+1,3,13,No you're not.,Pam,FALSE,-0.296,3
+1,3,13,"I have to make a call after I finish... my work. You know what? Uh, just don't let anybody in my office under any conditions today. I'm just too busy. Too swamped, you know? I am unreachable. I am incommunicado, capisce?",Michael,FALSE,0,41
+1,3,13,OK.,Pam,FALSE,0.296,1
+1,3,13,"Thank you, Oh, gah, here we go again. Gotta go, I have to take this.",Michael,FALSE,0.3612,15
+1,3,13,Still no one calling.,Pam,FALSE,-0.296,4
+1,3,14,"Dwight, what...",Pam,FALSE,0,2
+1,3,14,"Uh, knock, please. Please knock. This is an office.",Dwight,FALSE,0.5574,9
+1,3,14,It says 'workspace'.,Jim,FALSE,0,3
+1,3,14,Same thing.,Dwight,FALSE,0,2
+1,3,14,"If it's the same thing, then why did you write 'workspace'?",Jim,FALSE,0,11
+1,3,14,"Just knock, Please? As a sign of respect for your superior.",Dwight,FALSE,0.836,11
+1,3,14,You are not my superior.,Jim,FALSE,-0.431,5
+1,3,14,"Oh gee, then why do I have an office?",Dwight,FALSE,0,9
+1,3,14,I thought it was a workspace?,Jim,FALSE,0,6
+1,3,14,OK. Dwight. Are you really in charge of picking the health care plan?,Pam,FALSE,0.7297,13
+1,3,14,Yes. And my decision in final.,Dwight,FALSE,0.4019,6
+1,3,14,This is a ridiculously awful plan. Because you cut everything.,Pam,FALSE,-0.7579,10
+1,3,14,"Aww, times are tough, Pam. Deal with it.",Dwight,FALSE,-0.128,8
+1,3,14,"You cut more than you had to, didn't you?",Jim,FALSE,-0.2732,9
+1,3,14,Sure.,Dwight,FALSE,0.3182,1
+1,3,14,"Well, why did you do that? You work here, don't you want good insurance?",Jim,FALSE,-0.2235,14
+1,3,14,Don't need it. Never been sick. Perfect immune system.,Dwight,FALSE,0.2273,9
+1,3,14,"OK, well, if you've never been sick, then you don't have any antibodies.",Jim,FALSE,0.774,13
+1,3,14,"I don't need them. Superior genes. I'm a Schrute. And superior brain power. Through concentration, I can raise and lower my cholesterol at will.",Dwight,FALSE,-0.1406,24
+1,3,14,Why would you want to raise your cholesterol?,Pam,FALSE,0.0772,8
+1,3,14,So I can lower it.,Dwight,FALSE,-0.3566,5
+1,3,15,He literally won't come out of his office.,Oscar,FALSE,0,8
+1,3,15,He's got to come out sometime. To go to the bathroom.,Kevin,FALSE,0,11
+1,3,15,Kevin! That's inappropriate.,Angela,FALSE,0,3
+1,3,16,"Michael, can I talk to you?",Oscar,FALSE,0,6
+1,3,16,"Ah, uh, I would love to, but I am really busy. Rain check?",Michael,FALSE,0.3818,13
+1,3,16,"Michael. Michael, please, can we talk to you about this memo?",Meredith,FALSE,0.3182,11
+1,3,16,"Ah, what? Which memo?",Michael,FALSE,0,4
+1,3,16,Dwight's health care memo. I told you about it.,Pam,FALSE,0.4939,9
+1,3,16,Is it a good plan?,Michael,FALSE,0.4404,5
+1,3,16,It's a great plan. It saves the company a fortune.,Dwight,FALSE,0.6249,10
+1,3,16,It's like a pay decrease.,Oscar,FALSE,0.2732,5
+1,3,16,"Michael, he made huge cuts.",Pam,FALSE,0.0258,5
+1,3,16,"Cuts? What? Wow, Dwight, did you make cuts?",Michael,FALSE,0.2359,8
+1,3,16,"Yeah, you said...",Dwight,FALSE,0.296,3
+1,3,16,"No, no , no, you know what? I said nothing specific because I was so busy. Why don't you go in there and find these people a plan that will work for them? OK?",Michael,FALSE,-0.4951,34
+1,3,16,I can handle that.,Dwight,FALSE,0,4
+1,3,16,"OK? All right. Do we feel good? All right. Good. Plus, there's some other good news. Today, at the end of the day, I will have, for all of you, a big surprise. OK? So hang in there, and I will see you at the end of the day. Right?",Michael,FALSE,0.9487,50
+1,3,17,This is not good.,Oscar,FALSE,-0.3412,4
+1,3,17,It's ridiculous. Did you talk to him?,Angela,FALSE,-0.3612,7
+1,3,17,What was that?,Oscar,FALSE,0,3
+1,3,17,You let him walk all over you. It's just pathetic.,Angela,FALSE,-0.5719,10
+1,3,17,What are you guys talking about?,Kevin,FALSE,0,6
+1,3,17,"Nothing, Kevin.",Angela,FALSE,0,2
+1,3,18,"Do I know what the surprise is? Hell no! It doesn't matter. The point is, they're not unhappy anymore. They're out there thinking, 'Wow, my boss really cares about me. He has a surprise. He's cool. I... what a great guy. I love him. I...",Michael,FALSE,0.916,45
+1,3,19,"OK, everyone. Gather round. Step forward. It has been brought to my attention that some of you are unhappy with my plan. So what I'd like you to do is to fill this out and write down any diseases you have that you might want covered and I'll see what I can do.",Dwight,FALSE,0.4934,53
+1,3,19,"OK, you know what Dwight? We can't write our diseases down for you because that's confidential.",Jim,FALSE,0.4466,16
+1,3,19,"OK, well, I didn't say to write your name down, did I? Fill it out, leave it anonymous. Or, don't write any disease down at all and it won't be covered. Sound fair? Good. I'll be in my office.",Dwight,FALSE,0.8553,39
+1,3,19,Workspace.,Jim,FALSE,0,1
+1,3,20,You know what? Come with me. We are going on a little mission. Operation Surprise.,Michael,FALSE,0.2111,15
+1,3,20,Where are you going?,Pam,FALSE,0,4
+1,3,20,"Um, headed out. Part of my busy day, you know. Meetings. [Giggles] Couldn't find the knob.",Michael,FALSE,0,16
+1,3,21,"So, basically, I want to do something nice for my employees. Atlantic City, OK? They have this thing where they send a bus, right, for free. Picks everybody up, you head down there, get to the hotel, room is comped, they give you a pile of chips, and your food, everything just kind of all-inclusive, free kind of weekend.",Michael,FALSE,0.9171,59
+1,3,21,"I don't know of anything like that, but, um, you know what you might want to do, is just call those casinos directly. Um, maybe?",Travel Agent,FALSE,0.296,25
+1,3,21,"Yeah, yeah, yeah. I did, so...",Michael,FALSE,0.6808,6
+1,3,22,Wait. What are you writing? Don't write Ebola or mad cow disease. Right? 'Cause I'm suffering from both.,Jim,FALSE,-0.7691,18
+1,3,22,I'm inventing new diseases.,Pam,FALSE,0,4
+1,3,22,"Oh, great.",Jim,FALSE,0.6249,2
+1,3,22,"So, let's say my teeth turn to liquid and then, they drip down the back of my throat. What would you call that?",Pam,FALSE,0,23
+1,3,22,I thought you said you were inventing diseases? That's spontaneous dental hydroplosion.,Jim,FALSE,0,12
+1,3,22,Nice.,Pam,FALSE,0.4215,1
+1,3,22,Thank you.,Jim,FALSE,0.3612,2
+1,3,23,"[on his cell phone] Calling you to ask you a little favoroonie my friend. Um, trying to give the troops around here a little bit of a boost. And I was thinking that maybe we could take them down to take a spin on your big ride.",Michael,FALSE,0.6567,47
+1,3,23,You mean the elevator that takes you down into the mineshaft? It's not really a ride.,Man on Phone,FALSE,0,16
+1,3,23,Its says here that it's a 300ft drop.,Michael,FALSE,-0.2732,8
+1,3,23,"It goes 300 feet into the earth, but it moves really slowly.",Man on Phone,FALSE,0,12
+1,3,23,So it's not a free fall?,Michael,FALSE,-0.4526,6
+1,3,23,It's an industrial coal elevator.,Man on Phone,FALSE,0,5
+1,3,23,"Uh, all right. Well, once you get down into the mine, what... you got laser tag or something?",Michael,FALSE,0.2732,18
+1,3,24,"OK, so I don't know what the surprise is. Am I worried? No. No way. See, I thrive on this. This is my world. This is improv. This is Whose Line is it Anyway?",Michael,FALSE,-0.2328,34
+1,3,25,Damnit! Damnit Jim!,Dwight,FALSE,-0.8118,3
+1,3,25,"All right, who did this? I'm not mad. I just want to know who did it so I can punish them.",Dwight,FALSE,-0.3121,21
+1,3,25,What are you talking about?,Jim,FALSE,0,5
+1,3,25,"Uh, someone forged, uh, medical information and that is a felony.",Dwight,FALSE,-0.5423,11
+1,3,25,"OK, whoa. 'Cause that is a pretty intense accusation. How do you know that they're fake?",Jim,FALSE,0.3254,16
+1,3,25,"Uh, leprosy? Flesh eating bacteria. Hot-dog fingers. Government-created killer nanorobot infection.",Dwight,FALSE,-0.6486,11
+1,3,25,"You did this, didn't you?",Dwight,FALSE,0,5
+1,3,25,Absolutely not.,Jim,FALSE,0,2
+1,3,25,Yes you did.,Dwight,FALSE,0.4019,3
+1,3,25,No I didn't.,Jim,FALSE,-0.296,3
+1,3,25,"I know it was you. Fine. You know what? I'll have to interview each and every one of you until the perpetrator makes him or herself known. And until that time, there will be no health care coverage for any one!",Dwight,FALSE,-0.1759,41
+1,3,26,Killer nanorobots?,Jim,FALSE,-0.6486,2
+1,3,26,It's an epidemic.,Pam,FALSE,0,3
+1,3,27,"The problem, Jim, is that people who are really suffering from a medical condition won't receive the care they need, because someone in this office is coming up with all this ridiculous stuff. [reads off of paper] 'Count Choculitis'",Dwight,FALSE,-0.8909,39
+1,3,27,Sounds tough.,Jim,FALSE,-0.128,2
+1,3,27,Why did you write that down Jim? Is it because you know I love Count Chocula?,Dwight,FALSE,0.6767,16
+1,3,27,Do you?,Jim,FALSE,0,2
+1,3,27,I think you need to confess...,Dwight,FALSE,0,6
+1,3,27,Mmm hmm.,Jim,FALSE,0,2
+1,3,27,...the fact...,Dwight,FALSE,0,2
+1,3,27,Yep.,Jim,FALSE,0.296,1
+1,3,27,What are you doing? Those are my keys.,Dwight,FALSE,0,8
+1,3,27,Good luck. [closes door and locks it],Jim,FALSE,0.7096,7
+1,3,27,"Jim! Damnit! No! Jim! Let me out! Jim! Let... [Without looking, Jim throws his keys to his left, they land on a shelf next to Stanley]",Dwight,FALSE,-0.7762,26
+1,3,27,"[looks at keys, continues talking on phone] ...the light green or green...",Stanley,FALSE,0,12
+1,3,28,[answering phone] Jim Halpert.,Jim,FALSE,0,4
+1,3,28,Let me out.,Dwight,FALSE,0,3
+1,3,28,Who is this?,Jim,FALSE,0,3
+1,3,28,Let me out or you're fired.,Dwight,FALSE,-0.5574,6
+1,3,28,"No, you can't fire me.",Jim,FALSE,-0.0423,5
+1,3,28,Yes I can. I'm manager for the day. Clean out your desk.,Dwight,FALSE,0.6597,12
+1,3,28,"OK, can you hold on? I'm getting the, ah, beep. [presses button on phone]] Jim Halpert.",Jim,FALSE,0.4466,16
+1,3,28,"[on phone] Hey, Jim. It's Pam.",Pam,FALSE,0,6
+1,3,28,Hey Pam! How are you?,Jim,FALSE,0,5
+1,3,28,Jim! Open the door!,Dwight,FALSE,0,4
+1,3,28,"Good, how are you? Busy?",Pam,FALSE,0.504,5
+1,3,28,I'm doing OK. Getting excited for the weekend though. What are you up to?,Jim,FALSE,0.6523,14
+1,3,28,Jim!,Dwight,FALSE,0,1
+1,3,28,"Um, I'm not bothering you, am I?",Pam,FALSE,0.2924,7
+1,3,28,"No, not at all.",Jim,FALSE,-0.296,4
+1,3,28,You don't have anything you're doing?,Pam,FALSE,0,6
+1,3,28,I have nothing to do.,Jim,FALSE,0,5
+1,3,28,Jim!,Dwight,FALSE,0,1
+1,3,28,"Oh great. Um, no, this weekend? Nothing. I'm not really doing anything.",Pam,FALSE,0.4404,12
+1,3,28,Jim!,Dwight,FALSE,0,1
+1,3,28,Oh yeah?,Jim,FALSE,0.296,2
+1,3,28,I might go to the mall.,Pam,FALSE,0,6
+1,3,28,The mall?,Jim,FALSE,0,2
+1,3,28,Jim!,Dwight,FALSE,0,1
+1,3,28,I need new shoes.,Pam,FALSE,0,4
+1,3,28,"Oh, interesting, what kind of shoes?",Jim,FALSE,0.4019,6
+1,3,29,Hello?,Jan,FALSE,0,1
+1,3,29,"Uh, hello. Uh, this is Dwight Schrute calling for Jan Levenson-Gould.",Dwight,FALSE,0,11
+1,3,29,This is Jan.,Jan,FALSE,0,3
+1,3,29,"Hi. Dwight Schrute calling, acting manager, Scranton branch. Listen, I needed your permission to fire Jim Halpert.",Dwight,FALSE,-0.34,17
+1,3,29,Who is this?,Jan,FALSE,0,3
+1,3,29,Dwight Schrute.,Dwight,FALSE,0,2
+1,3,29,From sales?,Jan,FALSE,0,2
+1,3,29,Well...,Dwight,FALSE,0,1
+1,3,29,Where's Michael Scott?,Jan,FALSE,0,3
+1,3,29,He is not here right now. He put me in charge of the office.,Dwight,FALSE,0,14
+1,3,29,"Dwight, listen to me very carefully. You are not a manager of anything. Understand?",Jan,FALSE,0.2006,14
+1,3,29,"That's not entirely true, because he put me in charge of picking the health care plan.",Dwight,FALSE,0.1658,16
+1,3,29,Really?,Jan,FALSE,0,1
+1,3,29,Yeah.,Dwight,FALSE,0.296,1
+1,3,29,"OK, when Michael gets back, you tell him to call me immediately.",Jan,FALSE,0.4466,12
+1,3,29,"Call you immediately. Good. Oh, hey, listen, um, since I have you on the phone, um, can I fire Jim?",Dwight,FALSE,0.128,20
+1,3,29,No. Please don't use my cell phone ever again.,Jan,FALSE,0.0258,9
+1,3,29,"Oh, this is your cell, I thought this was your... [dial tone]",Dwight,FALSE,0,12
+1,3,30,"Hey, hey, everybody, Ice-cream sandwiches! Aaaahh! [laughs] Here you go. Take one, take one. It's all good. Phyllis, think fast. Ya-bome! Oh, oh, I see Angela. Angela? Right? Waaaaah! Oh, hey temp. Why don't you take two? Because you don't get health care. And uh, faster metabolism.",Michael,FALSE,0.4552,47
+1,3,30,Did you get the kind with the cookies? Instead of the...,Ryan,FALSE,0.5267,11
+1,3,30,"Why don't you just eat it, OK? And here you go, Stanley the manly.",Michael,FALSE,0.4466,14
+1,3,30,"Oh, thanks.",Stanley,FALSE,0.4404,2
+1,3,30,There you go.,Michael,FALSE,0,3
+1,3,30,"This isn't the big surprise, is it? Because we've been having a pretty horrible day.",Stanley,FALSE,-0.2764,15
+1,3,30,"Uh, nope. Nope. This isn't the surprise. It's surprising, um... because you didn't expect it. But you will... you'll know it when you see it.",Michael,FALSE,0.0736,25
+1,3,30,Michael. Michael?,Dwight,FALSE,0,2
+1,3,30,"[under his breath] Oh, Christ.",Michael,FALSE,0,5
+1,3,31,"I tried being rational, OK? And what happened? The employees went crazy, I got no help from corporate. That leaves me with no options.",Dwight,FALSE,-0.1348,24
+1,3,32,"I'm now going to read out loud your submitted medical conditions. When you hear yours read, please raise your hand to indicate that it is real. If you do not raise your hand, it will not be covered.",Dwight,FALSE,0.8271,38
+1,3,32,What about confidentiality?,Stanley,FALSE,0,3
+1,3,32,"You know what? You have forfeited that privilege. I have tried to treat you all as adults, but obviously I am the only adult here. Number one, inverted penis.",Dwight,FALSE,0.4678,29
+1,3,32,"Could you mean vagina? Because if you do, I want that covered.",Meredith,FALSE,0.0772,12
+1,3,32,I thought your vagina was removed during your hysterectomy?,Dwight,FALSE,0,9
+1,3,32,A uterus is different from a vagina. I still have a vagina.,Meredith,FALSE,0,12
+1,3,33,"OK, great. Dermatitis. Thank you Angela. I'll make sure that's covered. OK, now. Who wrote this, hysterical one? Anal fissures?",Dwight,FALSE,0.9325,20
+1,3,33,That's a real thing.,Kevin,FALSE,0,4
+1,3,33,"Yeah, but no one here has it.",Dwight,FALSE,-0.296,7
+1,3,33,Someone has it.,Kevin,FALSE,0,3
+1,3,34,Do you think we should go ?,Kevin,FALSE,0,7
+1,3,34,"I don't know, Kevin. This is important. I don't want... [spots Michael through the blinds] There he is.",Oscar,FALSE,0.2023,18
+1,3,34,What is he doing?,Kevin,FALSE,0,4
+1,3,34,I don't know.,Oscar,FALSE,0,3
+1,3,35,Well?,Oscar,FALSE,0.2732,1
+1,3,35,"Well, what? You could be referring to anything.",Michael,FALSE,0.2732,8
+1,3,35,"OK, the health care plan.",Oscar,FALSE,0.7297,5
+1,3,35,Why did you put Dwight in charge of that? He did a horrible job.,Pam,FALSE,-0.5423,14
+1,3,35,"Uh, Dwight? Did you raise benefits?",Michael,FALSE,0.4515,6
+1,3,35,I most certainly did not.,Dwight,FALSE,0.4005,5
+1,3,35,"Oh come on! That's horrible! Aaah... Thanks, Dwight, for a crappy plan. Ah, Damn! Oh, mmm, I wish I had time to change it, but Jan needs it by five, and... what time is it, what time is it? [looks at watch] Ah, it's after five. Oh, oh it's awful. So, well, OK. See you guys on Monday.",Michael,FALSE,0.3985,58
+1,3,35,What about the surprise?,Angela,FALSE,0.2732,4
+1,3,35,"Oh... Yes. Exactly. Thank you Angela, for reminding me. Terrific. Um, before I tell everybody what the big surprise is, would you like to tell me what you think the big surprise is?",Michael,FALSE,0.9186,33
+1,3,35,We all think you don't have a surprise.,Stanley,FALSE,-0.2057,8
+1,3,35,"All right, I have some news for you. There is a big surprise. And... here it is. Here we go. And the big surprise is... Brrrrrrrr! Drum roll... Brrrrrrrr! Brrrrrrrr!",Michael,FALSE,0.6219,30
+1,3,36,"When I am backed into a corner, that is when I come alive. See I learned improve from the greats, like, um, Drew Carey and Ryan Stiles.",Michael,FALSE,0.7964,27
+1,3,37,"[clapping hands] God, yeah... Ah! This...",Michael,FALSE,0.3382,6
+1,3,38,"Robin Williams. Oh, man, would I love to go head-to-head with him. Oh! That would be exciting. [as Robin Williams] 'Hi. I'm Mork from Ork.' Well, I'm Bork from Spork. Nanoo, nanoo. Jibelee, baloobaloo.",Michael,FALSE,0.8687,34
+1,3,39,"Oh, um... Jan wants you to call her.",Dwight,FALSE,0,8
+1,3,40,"[heated discussion in the 'Dwight Schrute Workspace', door opens] I did not dismiss you.",Dwight,TRUE,0,14
+1,3,40,"Well, you have no right to ask those questions.",Oscar,TRUE,-0.0258,9
+1,3,40,You came into my office voluntarily.,Dwight,TRUE,0,6
+1,3,40,Because I don't want my benefits slashed.,Oscar,TRUE,-0.5116,7
+1,3,40,"Well, maybe they won't get slashed if you answer all my questions.",Dwight,TRUE,0.4149,12
+1,3,40,I'm reporting you.,Oscar,TRUE,0,3
+1,3,41,"You know when ever a worker is promoted above their peers there's always going to be a little bit of jealousy. Uh, it's natural. And that's going to lead to goofing off and that's okay that's fine. As long as they are willing to suffer the consequences.",Dwight,TRUE,0.3535,47
+1,3,42,Michael I need to talk to you.,Oscar,TRUE,0,7
+1,3,42,"Sorry, too busy can't even come to the door.",Michael,TRUE,-0.0772,9
+1,3,42,[opens door] Michael.,Oscar,TRUE,0,3
+1,3,42,"Yeah, no... [hurries to get up from chair]",Michael,TRUE,0.296,8
+1,3,42,"Michael, Michael I... [blinds rustle] ... inside.",Oscar,TRUE,0,7
+1,3,42,"You know what. I, um, I'm out the door. I'm going to a meeting. Pam, I'm headed out to another meeting. So see you later. Uh, here we go.",Michael,TRUE,0,29
+1,3,43,We stole Dwight's trashcan and she found some of his early attempts at his sign.,Pam,TRUE,0,15
+1,3,43,"Okay, here's uh, this is very simple. 'Dwight's Workspace,' nice.",Jim,TRUE,0.5719,10
+1,3,43,Mmm hmm.,Pam,TRUE,0,2
+1,3,43,"Um, this one interesting the power comes from the font in this one. 'Schrute Space,' very medieval, very England. Um, this one's forceful, this one's very Dwight. 'Quiet! Dwight Schrute Working,' it's good.",Jim,TRUE,0.7088,33
+1,3,43,Mmm hmm.,Pam,TRUE,0,2
+1,3,43,"I really heard him on that. This one's interesting I'm not really sure what he meant by this. Um, 'Dwight Schrute Privates.' Tough to say.",Jim,TRUE,0.0055,25
+1,3,43,Yeah.,Pam,TRUE,0.296,1
+1,3,44,"Okay, you know what, Dwight. What if you got a really serious disease like Ebola.",Jim,TRUE,0.4715,15
+1,3,44,"Psssh, no.",Dwight,TRUE,-0.296,2
+1,3,44,"Well, it could happen. Have you ever seen the movie Outbreak?",Jim,TRUE,0.2732,11
+1,3,44,"Yeah. Well, have you ever seen the movie Unbreakable? 'Cause that guy couldn't get sick, just like me.",Dwight,TRUE,0.8177,18
+1,3,44,Okay. Have you ever seen the movie Sixth Sense? Maybe you are already dead.,Jim,TRUE,-0.5267,14
+1,3,44,Unlikely.,Dwight,TRUE,0,1
+1,3,45,You promise these are confidential?,Pam,TRUE,0.3182,5
+1,3,45,100%.,Dwight,TRUE,0,1
+1,3,45,Did you just mark on that?,Pam,TRUE,0,6
+1,3,45,"I don't think so, no.",Dwight,TRUE,-0.4341,5
+1,3,45,You made a 'P.',Pam,TRUE,0,4
+1,3,45,"Wrong. [walks away] Thank you Jim. Kevin. Stanley. [whispering] Pam, Jim, Kevin, Stanley. Pam, Jim, Kevin, Stanley. You finished?",Dwight,TRUE,-0.1531,19
+1,3,45,"Oh, yeah. Here's the rest of them.",Oscar,TRUE,0.296,7
+1,3,45,That was... unauthorized.,Dwight,TRUE,0,3
+1,3,46,"Well, it is time to call in a little favor. A buddy of mine runs this tourist attraction, actually it's big. It's probably one of the most popular in the state. So...",Michael,TRUE,0.8625,32
+1,3,46,Hello.,Man on Phone,TRUE,0,1
+1,3,46,"[on his cell phone] Hey, hey Craigers, my man! It is Michael Scott here. [silence] Dunder Mifflin, we supply your office paper.",Michael,TRUE,0,22
+1,3,46,"Oh, I think we already did our order this month.",Man on Phone,TRUE,0,10
+1,3,46,"No, no, no, no. No, actually to ask you a little favoroonie my friend. Um, here's the deal. Um, trying to give the troops here a little bit of a boost. And I was thinking that maybe we could bring them down to go on your big ride.",Michael,TRUE,-0.5614,48
+1,3,46,You mean the elevator that takes you down into the mineshaft? It's not really a ride.,Man on Phone,TRUE,0,16
+1,3,46,"Well, it says here that it's a 300ft drop.",Michael,TRUE,0,9
+1,3,46,"Well, it goes 300 feet into the earth, but it moves really slowly.",Man on Phone,TRUE,0.1406,13
+1,3,46,So it's not a free fall?,Michael,TRUE,-0.4526,6
+1,3,46,It's an industrial coal elevator.,Man on Phone,TRUE,0,5
+1,3,46,"Uh, okay. So um, once you get down into the mine, what do you do? Is it like, uh... Do you have laser tag down there or something?",Michael,TRUE,0.5803,28
+1,3,46,"No, you just look around. It's a historically preserved coal mine.",Man on Phone,TRUE,-0.296,11
+1,3,46,That's it?,Michael,TRUE,0,2
+1,3,46,"Well, there's the adjacent Anthracite Heritage Museum. They got some really interesting old mining tools. There's also a photo mural exhibit. Uh, bat guano sculpture. [Michael hangs up cell phone]",Man on Phone,TRUE,0.624,30
+1,3,46,"Uh, he's a small client. They don't really buy much.",Michael,TRUE,0,10
+1,3,47,"Why do you want health care, Pam? Hmm? Why do you want it?",Dwight,TRUE,0.6531,13
+1,3,47,In case I get sick.,Pam,TRUE,-0.5106,5
+1,3,47,"Why don't you just go ahead and use Roy's health care plan, huh?",Dwight,TRUE,0.4939,13
+1,3,47,Because we're not married.,Pam,TRUE,0,4
+1,3,47,"But you're engaged. Aren't you and maybe you've set a date for the wedding, hmm? And because you know you're going to get married you don't have to take our health care plan seriously.",Dwight,TRUE,0.6369,34
+1,3,47,We haven't set a date. [Dwight laughs],Pam,TRUE,0,7
+1,3,47,"You really expect me to believe you haven't set a date? I think you have. Sure Pam, sure. But you know what, you've been engaged for three years and I know you've set a date. And you know what else, I know you've got coverage under Roy and I know that you wrote down those fake diseases. Admit it. Admit it, Pam.",Dwight,TRUE,0.7003,62
+1,3,47,"Shut up, Dwight.",Pam,TRUE,0,3
+1,3,47,You wrote down... I didn't give you permission to.. I didn't...,Dwight,TRUE,0,11
+1,3,47,I'm not talking to you anymore.,Pam,TRUE,0,6
+1,3,47,"Dwight, I uh, I have something to confess.",Jim,TRUE,0,8
+1,3,47,You're doing the right thing. Go ahead. What 's your confession?,Dwight,TRUE,0,11
+1,3,47,Um...,Jim,TRUE,0,1
+1,3,47,Let it out.,Dwight,TRUE,0,3
+1,3,47,You're a jackass.,Jim,TRUE,-0.4215,3
+1,3,47,Okay. You wanna do this the hard way. We'll do this the hard way. You wrote down those fake diseases didn't you?,Dwight,TRUE,-0.4588,22
+1,3,47,No. Was that the hard way?,Jim,TRUE,-0.3818,6
+1,3,47,I know you did.,Dwight,TRUE,0,4
+1,3,47,"Well, then why are you wasting everybody else's time interrogating them?",Jim,TRUE,-0.1531,11
+1,3,47,"Well, because I want to know who wrote those diseases down.",Dwight,TRUE,0.34,11
+1,3,47,Right.,Jim,TRUE,0,1
+1,3,47,You want you to take this pen and this piece of paper and write this down. Write this down.,Dwight,TRUE,0.0772,19
+1,3,47,Okay.,Jim,TRUE,0.2263,1
+1,3,47,"I, Jim Halpert...",Dwight,TRUE,0,3
+1,3,47,"Wait, slow down.",Jim,TRUE,0,3
+1,3,47,...confess to health care fraud.,Dwight,TRUE,-0.1531,5
+1,3,47,"One second 'cause that sounds really good. Is jackass one word or two? [Dwight sighs] One, right? 'Cause, 'cause of the show, it's one.",Jim,TRUE,0.1253,24
+1,3,47,One word.,Dwight,TRUE,0,2
+1,3,48,"I've really learned from the greats. The great improvisers, Drew Carey, Ryan Stiles, uh, the Brady guy not so much. He's more the signing, Wayne Brady. Um, Robin Williams. Oh, man, would I love to go head-to-head with him. Oh! That would be exciting. [as Robin Williams] 'Hi. I'm Mork from Ork.' Well, I'm Bork from Spork. Nanoo, nanoo. Jibelee, baloobaloo. [as Robin Williams] 'That's Good morning, Vietnam!' Well, hello to you. You know it would be... God. And you know what, sometimes when I'm watching somebody like um, like Jay Leno. He'll be half way through his step [snaps his fingers] And I will already be laughing at the punch line. He hasn't even gotten to it. He doesn't even know what it is it. So it's fun, you know it's fun having a mind that works like that. That is just a few steps ahead of... comedically ahead of like what's going on. Like I'll watch T.V. and I'll be watching a show and I will think, oh, I know someone's gonna walk in here right now and say something funny. And then they do. Or, um, I know they'll be like oh boy that person deserved to be slammed down. There's going to be some sort of insult. And there is. You know, there's like, 'Oh you're... God your butt is fat.' And I knew it. I know it's like I knew they were going to say that. I knew they were gonna go there. Don't go there. Um, but other... You know it's like uh, you know Leno, um and Letterman, Carson, you know. Need I say more? No.",Michael,TRUE,0.9785,273
+1,3,49,"Oh, um... Jan wants you to call her.",Dwight,TRUE,0,8
+1,3,49,We're all going bowling!,Michael,TRUE,0,4
+1,4,1,Michael!?,Dwight,FALSE,0,1
+1,4,1,"Oh! God. Dwight, come on...",Michael,FALSE,0.3382,5
+1,4,1,I wanted to talk to you about the downsizing?,Dwight,FALSE,0,9
+1,4,1,There's no downsizing.,Michael,FALSE,-0.296,3
+1,4,1,"I, but if there were, I'd be protected as assistant regional manager?",Dwight,FALSE,0.5927,12
+1,4,1,Assistant to the regional manager Dwight.,Michael,FALSE,0,6
+1,4,1,"Yeah, so I don't have to worry?",Dwight,FALSE,0.5583,7
+1,4,1,"Look, look, look. I talked to corporate, about protecting the sales staff. And they said they couldn't guarantee it if there's downsizing, okay?",Michael,FALSE,0.0413,23
+1,4,1,"But there's no downsizing, so just don't...",Michael,FALSE,-0.296,7
+1,4,1,Bottom line. Do I need to be worried?,Dwight,FALSE,-0.296,8
+1,4,1,"Mmm, mm, mm. Maybe.",Michael,FALSE,0,4
+1,4,2,"It looks like there's gonna be downsizing. And it's part of my job, but... blah! I hate it. I think the main difference between me and Donald Trump is that, uh, I get no pleasure out of saying the words, 'You're fired.' [as Donald Trump] 'You're foir-ed. Uh, you're foir-ed.' It just makes people sad, and an office can't function that way. No way. [as Donald Trump] 'You're foir-ed.'  I think if I had a catchphrase it would be, 'You're hired, and you can work here as long as you want.' But that's unrealistic, so...",Michael,FALSE,-0.69,96
+1,4,3,"It's a real shame, 'cause studies have shown that more information gets passed through water-cooler gossip than through official memos. Which puts me at a disadvantage, because I bring my own water to work.",Dwight,FALSE,-0.765,34
+1,4,4,Why'd you do this?,Stanley,FALSE,0,4
+1,4,4,"I didn't do it. What do you mean? Oh, the water cooler was brought over here for... maintenance. So what do you guys hear? What's the scuttlebutt?",Dwight,FALSE,0,27
+1,4,5,"Get set for Operation Morale Improvement starring Michael Scott. Now, I think I have had a little stroke of genius in that I have had my assistant Pam... Smile, Pam. I have had her go out and find out whose birthday is coming up, so we can have a little celebration for it. Not bad, not bad at all. All right. And the birthday person is... drum roll please. Here we go, who is the birthday, birthday person?",Michael,FALSE,0.91,78
+1,4,5,Who is it? Who's the birthday?,Michael,FALSE,0,6
+1,4,5,"Um... Actually, we don't have any staff birthdays coming up.",Pam,FALSE,0,10
+1,4,5,Next person on the...,Michael,FALSE,0,4
+1,4,5,Oh.,Pam,FALSE,0,1
+1,4,5,...calendar.,Michael,FALSE,0,1
+1,4,5,"Okay, umm... that would be Meredith.",Pam,FALSE,0.2263,6
+1,4,5,"Yes! All right, come on down Meredith!",Michael,FALSE,0.508,7
+1,4,5,But it's not until next month.,Pam,FALSE,0,6
+1,4,5,"Um... uh, OK. Well, great, well, you know, it'll be a surprise.",Michael,FALSE,0.9068,12
+1,4,5,You still want to have a party?,Pam,FALSE,0.4588,7
+1,4,5,"Yeah, why not? Sure. Go ahead, live a little. Come on, Pam. Come on, shake it up. Shake it up! Shake it up!",Michael,FALSE,-0.534,23
+1,4,5,"[grabs cell phone off desk] Brrrp! Uh, Spock, are there any signs of life down there? Well, let me check Captain. Eeee. Eeee. Eeee. Eeee. No, Captain. No signs of life down here. Just a wet blanket named Pam. Brr-rrrp. Star Trek.",Michael,FALSE,-0.3802,42
+1,4,6,"Well, uh, for decorations, maybe we could... it's stupid, forget it.",Phyllis,FALSE,-0.4939,11
+1,4,6,What?,Angela,FALSE,0,1
+1,4,6,"I was just going to say, maybe we could have streamers, but that's dumb, everybody has streamers. Never mind.",Phyllis,FALSE,-0.6652,19
+1,4,6,"No, yeah, I think that's a good idea.",Angela,FALSE,0.4404,8
+1,4,6,Yeah?,Phyllis,FALSE,0.296,1
+1,4,6,What color do you guys think?,Angela,FALSE,0,6
+1,4,6,"Well, there's green, um, blue... yellow... red...",Phyllis,FALSE,0.2732,7
+1,4,6,How about green?,Pam,FALSE,0,3
+1,4,6,I think green is kind of whoreish.,Angela,FALSE,0,7
+1,4,7,This was tough. I suggested we flip a coin. But Angela said she doesn't like to gamble. Of course by saying that she was gambling that I wouldn't smack her.,Pam,FALSE,-0.3839,30
+1,4,8,These are my party-planning beeyatches. Pulled off an amazing '80s party last year. Off the hook!,Michael,FALSE,0.7777,16
+1,4,8,"So I was thinking, if you haven't already got a cake, um, maybe going for one of those ice-cream cakes from Baskin-Robbins. Those are very good. Very Delicious.",Michael,FALSE,0.8151,28
+1,4,8,"Meredith's allergic to dairy, so...",Angela,FALSE,-0.296,5
+1,4,8,"She's not the only one that's going to be eating it, right? I think everybody likes ice-cream cake. It's not, uh, it's not just about her, so...",Michael,FALSE,0.4215,27
+1,4,8,It is... her birthday.,Pam,FALSE,0,4
+1,4,8,"Mint chocolate chip! That'd be good, how about some, mint chocolate chip?",Michael,FALSE,0.4926,12
+1,4,9,"Hey, so listen, I was thinking that it might be a good idea if you and I formed an alliance. 'Cause of the downsizing? I think an alliance might be a good idea, you know. Help each other out.",Dwight,FALSE,0.8176,39
+1,4,9,"Do you want to form, an alliance, with me?",Dwight,FALSE,0.0772,9
+1,4,9,"Absolutely, I do.",Jim,FALSE,0,3
+1,4,9,"Good, good. Excellent, OK. Now we need to figure out who's vulnerable and who's protected...",Dwight,FALSE,0.8893,15
+1,4,10,"At that moment, I was so happy. I mean, everything Dwight does annoys me.",Jim,FALSE,0.4481,14
+1,4,11,Did you get your tickets?,Dwight,FALSE,0,5
+1,4,11,To what?,Jim,FALSE,0,2
+1,4,11,The gun show. [Rolls up his sleeve and kisses his bicep],Dwight,FALSE,0.2263,11
+1,4,12,"And I spend hours thinking of ways to get back at him, but only in ways that could get me arrested. And then here he comes and he says 'No, Jim, here's a way.'",Jim,FALSE,-0.631,34
+1,4,13,There's one other thing and this is important. Let's keep this alliance totally a secret. Don't tell anyone.,Dwight,FALSE,0.2023,18
+1,4,14,An alliance?,Pam,FALSE,0,2
+1,4,14,Oh yeah.,Jim,FALSE,0.296,2
+1,4,14,What does that even mean?,Pam,FALSE,0,5
+1,4,14,"I think it has something to do with Survivor, but I'm not sure.",Jim,FALSE,-0.1761,13
+1,4,14,"Um, I know that it involves spying on people and we may build a fort, underground.",Jim,FALSE,0,16
+1,4,14,"Jim! Hey. Hi, Pam. Listen, could I talk to you a second about the... paper products?",Dwight,FALSE,0,16
+1,4,15,Did you tell Pam about the alliance?,Dwight,FALSE,0,7
+1,4,15,What? No.,Jim,FALSE,-0.296,2
+1,4,15,Just now.,Dwight,FALSE,0,2
+1,4,15,"What? Oh no no no. Dwight, no. I'm using her, for the alliance. Who knows the most information about this office? Pam.",Jim,FALSE,-0.7998,22
+1,4,15,"Right, that's good, good, pursue this.",Dwight,FALSE,0.7003,6
+1,4,15,Well I'm trying to. Do you see what I'm doing?,Jim,FALSE,0.2732,10
+1,4,15,Mmm hmm.,Dwight,FALSE,0,2
+1,4,15,"But listen, I'm going to have to talk to her a lot. All right? And there may be chatting, and giggling. And you gotta just pretend to ignore it. Wipe it away.",Jim,FALSE,-0.1027,32
+1,4,15,Done.,Dwight,FALSE,0,1
+1,4,15,All right.,Jim,FALSE,0,2
+1,4,16,"[to the camera] Can you get her? She's right there. [camera zooms in on Meredith at here desk] That is Meredith, the birthday girl. And this... is Meredith's card. Happy Bird-Day. [laughs] Um, let's see. Jim, Jim wrote, 'Meredith, I heard you're turning 46, but, come on, you're an accountant. Just fudge the numbers.' Not bad, pretty funny, I don't appreciate condoning corporate fraud though. Uh, here's the thing. Whatever I write here has to be really, really funny. Because people out there are expecting it. I've already set the bar really high. And they're all worried about their jobs, you know. It's kinda dark out there. Can you imagine if I wrote something like, uh, 'Oh, Meredith. Happy Birthday. You're great. Love, Michael.' [pretends to vomit and laughs]",Michael,FALSE,0.8089,129
+1,4,17,"They seem awfully chummy, don't you think?",Dwight,FALSE,0,7
+1,4,17,"Yeah, what do you think that's about?",Jim,FALSE,0.296,7
+1,4,17,Only one way to find out.,Dwight,FALSE,0,6
+1,4,17,I'm on it.,Jim,FALSE,0,3
+1,4,18,You are not going to believe this.,Jim,FALSE,0,7
+1,4,18,What? I believe it.,Dwight,FALSE,0,4
+1,4,18,"Well, tensions were high in the kitchen.",Jim,FALSE,-0.1531,7
+1,4,18,"I could tell, from the body language.",Dwight,FALSE,0,7
+1,4,19,"Hey Kev, that looks good. What is it? Turkey?",Jim,FALSE,0.504,9
+1,4,19,Italian.,Kevin,FALSE,0,1
+1,4,19,"Oh, Italian. Nice. Wow! You got the works there. Red onion, provolone...",Jim,FALSE,0.784,12
+1,4,19,Yeah.,Kevin,FALSE,0.296,1
+1,4,20,"Toby and Kevin, they're trying to get Angela kicked off.",Jim,FALSE,0,10
+1,4,20,"Good, let 'em. It helps our cause.",Dwight,FALSE,0.6705,7
+1,4,20,"Well, I don't know, if Kevin's in accounting, and Toby's in Human Resources and they're talking...",Jim,FALSE,0.2732,16
+1,4,20,"Oh, they're forming an alliance",Dwight,FALSE,0,5
+1,4,21,I love their sandwiches.,Toby,FALSE,0.6369,4
+1,4,21,I love their sandwiches too.,Jim,FALSE,0.6369,5
+1,4,21,Their bread's really good.,Kevin,FALSE,0.4927,4
+1,4,21,Their bread is very good.,Jim,FALSE,0.4927,5
+1,4,22,Damn it. God!,Dwight,FALSE,-0.2244,3
+1,4,22,"OK, listen, we need to assume that everyone in the office is forming an alliance and is therefore trying to get us kicked off.",Jim,FALSE,0.4466,24
+1,4,22,God... Damn it! Why us?,Dwight,FALSE,-0.4574,5
+1,4,22,"Because we're strong, Dwight. Because we're strong.",Jim,FALSE,0.765,7
+1,4,23,"[staring at birthday card] Meredith, Meredith... Meri... Mary had a little lamb. Mary... Meredith had a little lamb. Don't bring that lamb to work or it'll poop on the floor.",Michael,FALSE,0,30
+1,4,23,"Hey, Oscar! Come on in. What's up?",Michael,FALSE,0,7
+1,4,23,"Uh, I'm sorry to bother you.",Oscar,FALSE,-0.4019,6
+1,4,23,"Oh, not at all. Come on in. What's going on?",Michael,FALSE,0,10
+1,4,23,"My nephew is involved with, um, a charity for cerebral palsy, and I was wondering if maybe you'd like to... you know... if...",Oscar,FALSE,0.6486,23
+1,4,23,What?,Michael,FALSE,0,1
+1,4,23,Donate to the charity?,Oscar,FALSE,0.4215,4
+1,4,23,"Oh, God. Of course I would. Get it over here. Get that over here.",Michael,FALSE,0.2732,14
+1,4,23,Thank you.,Oscar,FALSE,0.3612,2
+1,4,23,"No, I'm always good... for some serious buckage. Wow. Two dollars, three dollars? People out here do not care about diseases. I am going to give you... $25.",Michael,FALSE,-0.0844,28
+1,4,23,That's... that's... that's very generous.,Oscar,FALSE,0.5563,5
+1,4,23,"Oh, my gosh, well... Listen, Oscar, generosity and togetherness and community all convalescences into... morale. That's what I say, so...",Michael,FALSE,0.5106,20
+1,4,24,"[whispering] Hey, Jim, can I talk to you for a second?",Pam,FALSE,0,11
+1,4,24,"Sure, what's up?",Jim,FALSE,0.3182,3
+1,4,24,"Um, I don't know, I'm just like, I'm going a little crazy 'cause I keep overhearing all these conversations between Michael and corporate about like, staff issues?",Pam,FALSE,0.4391,27
+1,4,24,Oh no?,Jim,FALSE,-0.296,2
+1,4,24,"Yeah, he's making me take notes on these meetings and I'm, like, 'These people are my friends.' But he's all like, 'This is confidential. You can't tell anybody.' But I just feel like I want to... aaah. Just promise me you're not gonna say anything.",Pam,FALSE,0.8834,45
+1,4,24,"No, will not, I'm not going to tell anybody. This is between you and me.",Jim,FALSE,-0.296,15
+1,4,24,"OK, yeah.",Pam,FALSE,0.6289,2
+1,4,24,Jackpot.,Dwight,FALSE,0,1
+1,4,25,That was beautiful. All her idea too. Awesome. She is so great.,Jim,FALSE,0.9353,12
+1,4,26,"[looking at birthday card] Meredith, bad breath. Meredith has bad breath.",Michael,FALSE,-0.7906,11
+1,4,26,"Hey, you wanted to see me?",Dwight,FALSE,0,6
+1,4,26,Yeah. What do you know about Meredith?,Michael,FALSE,0.296,7
+1,4,26,I don't think she'd be missed.,Dwight,FALSE,-0.296,6
+1,4,26,"There's not going to be downsizing Dwight, OK? I just, I need to know a little bit more about my friend.",Michael,FALSE,0.7504,21
+1,4,26,"Name, Meredith Palmer. Uh, personal information, divorced twice, two kids. Uh, Employer, Dunder Mifflin Paper Incorporated. Awards, multiple Dundies.",Dwight,FALSE,0.4588,19
+1,4,26,"I know all that. I know all that. I just, I need something kind of embarrassing, you know. Kind of fun, inside.",Michael,FALSE,0.1045,22
+1,4,26,She had a hysterectomy.,Dwight,FALSE,0,4
+1,4,26,[laughs] Which one is that again?,Michael,FALSE,0,6
+1,4,26,That's where they remove the uterus.,Dwight,FALSE,0,6
+1,4,26,"Oh God! Dwight, no. I'm trying to write something funny. What am I going to do with a removed uterus?",Michael,FALSE,0.4753,20
+1,4,26,It could be kind of funny.,Dwight,FALSE,0.3832,6
+1,4,26,"You know what, I am on a deadline here, and just... OK. Thanks, thanks for your help. I'll work it out. Thank you Dwight. That was a waste of time.",Michael,FALSE,0.8788,30
+1,4,27,"OK, here's the deal. All right? Pam says that one of the alliances is meeting in the warehouse during Meredith's birthday.",Jim,FALSE,0.4466,21
+1,4,27,"Oh my God, we have to be there.",Dwight,FALSE,0.2732,8
+1,4,27,"I know, but it's gonna be a little tough because there's no good place to hide there.",Jim,FALSE,-0.0799,17
+1,4,27,"No no, yes there is. Behind the shelves. Oh my God.",Dwight,FALSE,0.1027,11
+1,4,27,What? What?,Jim,FALSE,0,2
+1,4,27,I know. I know exactly what to do.,Dwight,FALSE,0,8
+1,4,27,[gives Dwight a high five] Great.,Jim,FALSE,0.6249,6
+1,4,28,"I'm a deer hunter. I go all the time with my dad. One thing about deer, they have very good vision. One thing about me, I am better at hiding than they are... at vision.",Dwight,FALSE,0.8151,35
+1,4,29,"This is going to be perfect, OK? Centrally located. Perfect cover. I can hear and see everything.",Dwight,FALSE,0.8842,17
+1,4,29,Good.,Jim,FALSE,0.4404,1
+1,4,30,Michael? Are you done yet?,Ryan,FALSE,0,5
+1,4,30,"Almost there. Just a sec. Just a second. It is perfect, thank you. Excellent, here we go. It is time, thank you. OK, come on. Let's go! Get the cake. Here we go. Come on! Shhh. Be quiet.",Michael,FALSE,0.9424,38
+1,4,31,"Wait, this isn't gonna work. The lid's open.",Jim,FALSE,0,8
+1,4,31,So tape it down.,Dwight,FALSE,0,4
+1,4,31,I can't do that. You won't be able to breathe.,Jim,FALSE,0,10
+1,4,31,"Look, I can breathe just fine. OK, but if it makes you feel better, I'll poke holes in the box.",Dwight,FALSE,0.7365,20
+1,4,31,"Thank you, thank you. OK.",Jim,FALSE,0.7865,5
+1,4,32,Surprise!,Everybody,FALSE,0.3382,1
+1,4,32,Oh! Surprise.,Meredith,FALSE,0.3382,2
+1,4,32,"No, it's ah...",Angela,FALSE,-0.296,3
+1,4,32,"It's surprise Meredith. One, two...",Michael,FALSE,0.2732,5
+1,4,32,[tunelessly] Happy birthday to you.,Everybody,FALSE,0.5719,5
+1,4,32,Find a key.,Michael,FALSE,0,3
+1,4,32,Happy birthday...,Everybody,FALSE,0.5719,2
+1,4,33,"So do you want me to stay here and, you know, stand next to the box?",Jim,FALSE,0.144,16
+1,4,33,"No, you need to go upstairs to the party so people don't notice we're both gone.",Dwight,FALSE,0.128,16
+1,4,33,Right... That's good.,Jim,FALSE,0.4404,3
+1,4,34,"Can I trust Jim? I don't know. Do I have a choice? No, frankly, I don't. Will I trust Jim? Yes. Should I trust Jim? You tell me.",Dwight,FALSE,0.9074,28
+1,4,35,"[singing] ... birthday, dear Meredith Happy birthday to you...",Everybody,FALSE,0.743,9
+1,4,35,And many more!,Michael,FALSE,0,3
+1,4,36,"Last year, five years ago...",Stanley,FALSE,0,5
+1,4,36,"You were surprised, weren't you?",Michael,FALSE,0.2263,5
+1,4,36,Yes.,Meredith,FALSE,0.4019,1
+1,4,36,"You looked freaked, man. We said 'Surprise.' You were, like, 'What?' 'What the hell's goin' on here?' Good cake. Why don't you have some?",Michael,FALSE,0.5775,24
+1,4,36,"Uh, I can't. Um...",Meredith,FALSE,0,4
+1,4,36,Come on. A little bit.,Michael,FALSE,0,5
+1,4,36,I can't eat dairy.,Meredith,FALSE,0,4
+1,4,36,"Oh, right. God, too bad. It's so good.",Michael,FALSE,0.2006,8
+1,4,36,"Yeah, it makes me sick.",Meredith,FALSE,-0.2732,5
+1,4,36,"You know what? If I were allergic to dairy, I think I'd kill myself. 'Cause this is way, way too good.",Michael,FALSE,-0.6124,21
+1,4,37,He's in a box?,Pam,FALSE,0,4
+1,4,37,"Pam, he's in a box. He's downstairs, in a box, on the floor, near the shelves. I'm serious. Go down there and work your magic.",Jim,FALSE,-0.0772,25
+1,4,38,"[on her cell phone] Hey where are you? Yeah, we were supposed to meet here. What? Oh my gosh! That ties in perfectly with something that Michael was telling me earlier! I just don't know what some of the people in, like, accounting are going to do? It said specifically that...",Pam,FALSE,0.8757,51
+1,4,38,[box falls over] Oh.,Dwight,FALSE,0,4
+1,4,39,"Jim, good party, huh? Just a little something I whipped up. You know, a little morale boost. No big deal.",Michael,FALSE,0.7257,20
+1,4,39,"Speaking of which, I meant to tell you. Very impressive, the uh, donation you gave to Oscar's charity. What was it? 25 bucks?",Jim,FALSE,0.7752,23
+1,4,39,"Well, you know, money isn't everything Jim. It's not the key to happiness. You know what is? Joy. You should remember that. Maybe you'll give more than three dollars next time.",Michael,FALSE,0.8591,31
+1,4,39,"Yeah, well, three dollars a mile. It's gonna end up being like 50 bucks. So... God, I can't even calculate what you're gonna have to give.",Jim,FALSE,0.7845,26
+1,4,39,Is Oscar around?,Michael,FALSE,0,3
+1,4,40,"I just thought it was kind of a flat, you know... 25 dollar, one-time donation. I didn't think it was per mile kinda deal. You know, so...",Michael,FALSE,0,27
+1,4,40,"Well, that's what a walk-a-thon is.",Oscar,FALSE,0.2732,6
+1,4,40,I know...,Michael,FALSE,0,2
+1,4,40,"It says it right on the sheet. Look, look at the sheet. It says, 'However many dollars per mile.'",Oscar,FALSE,0,19
+1,4,40,Right. Got it. Yes. So it does. Um...,Michael,FALSE,0.4019,8
+1,4,40,I just think it's kind of cheap to un-donate money to a charity.,Oscar,FALSE,0.4215,13
+1,4,40,"No, no, no, no, no. That wasn't what I wasn't, that wasn't... No. It-it-it's not about the money. It's just... it... it's the ethics of the thing, Oscar. How's your nephew? Is he in good shape?",Michael,FALSE,-0.8253,36
+1,4,40,Yeah.,Oscar,FALSE,0.296,1
+1,4,40,How many miles did he do last year?,Michael,FALSE,0,8
+1,4,40,"Last year, he walked 18 miles.",Oscar,FALSE,0,6
+1,4,40,Son of a bitch. That is impressive.,Michael,FALSE,-0.128,7
+1,4,41,Happy Birthday. [gives Meredith her card],Pam,FALSE,0.5719,6
+1,4,41,Read it out loud. And say who wrote everything so we know whose is the best.,Michael,FALSE,0.6369,16
+1,4,41,"Happy Bird-day' Um... 'Meredith, good news. You're not actually a year older because you work here, where time stands still.'",Meredith,FALSE,0.765,20
+1,4,41,[under his breath] I don't know about that.,Michael,FALSE,0,8
+1,4,41,"That was Stanley. 'Meredith, happy birthday, you're the best. Love, Pam.'",Meredith,FALSE,0.9201,11
+1,4,41,"[pretends to vomit] Huh! Thanks, downer.",Michael,FALSE,0.4926,6
+1,4,41,"This is from Michael. 'Meredith, let's hope the only downsizing that happens to you is that someone downsizes your age.'",Meredith,FALSE,0.4404,20
+1,4,41,Because of the downsizing. Rumors. And because you're gettin' old.,Michael,FALSE,0,10
+1,4,41,"No, I... I get it. It's funny.",Meredith,FALSE,0.1779,7
+1,4,41,"[laughs] You didn't get the joke. So, that's cool. That's, you know what? Actually... I have a bunch of these, good ones, that I didn't use. Um... Oh, where's that? Oh, OK, here's a good one. Um... 'Hey Meredith, Liz Taylor called, she wants her age back and her divorces back.' 'Cause Meredith's been divorced like, twice. Is that right?",Michael,FALSE,0.9093,60
+1,4,41,You're right. You're right. Yes.,Meredith,FALSE,0.4019,5
+1,4,41,"Divorce. Um... OK, 'Meredith is so old...'",Michael,FALSE,0.4466,7
+1,4,41,How old is she?,Oscar,FALSE,0,4
+1,4,41,Everybody? If... could do it? 'Meredith is so old...',Michael,FALSE,0,9
+1,4,41,How old is she?,Everybody,FALSE,0,4
+1,4,41,"She's so old, she went into an antique store and they kept her.'",Michael,FALSE,0,13
+1,4,41,"That wasn't even mine. I got that off the Internet. Website. Um, don't get mad at me.",Michael,FALSE,0.3875,17
+1,4,41,"Uh, nice party Michael.",Oscar,FALSE,0.6705,4
+1,4,41,"This isn't my fault. Ladies, not your best effort. The streamers?  I think we could have done better than that.",Michael,FALSE,0.1999,21
+1,4,41,"Phyllis wanted red, I didn't.",Angela,FALSE,0,5
+1,4,41,"Oh, boy... You...",Phyllis,FALSE,0,3
+1,4,41,"OK, we... all right. People, hold on, hold on. Just a second. OK, I think we're losing sight of what is really important here. And that is that we are... a group of people... who work together. I was... I really wasn't gonna flaunt this. I have made a very sizable donation to Oscar's nephew's... walkathon. $25.",Michael,FALSE,0.6552,57
+1,4,41,Per mile.,Oscar,FALSE,0,2
+1,4,41,"Per mile, yes.",Michael,FALSE,0.4019,3
+1,4,42,"When I retire, I... don't want to just disappear to an island somewhere. I wanna be the guy who gives everything back.",Michael,FALSE,-0.2783,22
+1,4,43,"A check for the kids, and for the team.",Michael,FALSE,0,9
+1,4,44,"I want it to be like... 'Hey, who donated that hospital wing that is saving so many lives?' 'Um, well, I don't, I don't know. It was anonymous.' 'Well, guess what, [whispering] that was Michael Scott.'  'But it was anonymous, how do you know?' 'Because I'm him.'",Michael,FALSE,0.4137,48
+1,4,45,"Thank you, Michael.",Oscar,FALSE,0.3612,3
+1,4,45,"Come here. [hugs Oscar and In a low voice] Don't cash that till Friday, OK?",Michael,FALSE,0.2103,15
+1,4,46,Really? Today?,Toby,FALSE,0,2
+1,4,46,Yeah.,Ryan,FALSE,0.296,1
+1,4,46,"Oh, Happy Birthday.",Toby,FALSE,0.5719,3
+1,4,46,Thanks.,Ryan,FALSE,0.4404,1
+1,4,46,"Yeah, I could say something.",Toby,FALSE,0.296,5
+1,4,46,"No, don't. Don't do that.",Ryan,FALSE,-0.296,5
+1,4,47,"OK, OK. I have something that totally tops the box.",Jim,FALSE,0.8576,10
+1,4,47,"Oh, tell me, tell me.",Pam,FALSE,0,5
+1,4,47,OK. I have just convinced Dwight that he needs to go to Stamford and... [Pam starts laughing]... spy on our other branch. No no no.,Jim,FALSE,0.0085,25
+1,4,47,"But before he does so, I told him that he should dye his hair to go undercover.",Jim,FALSE,0,17
+1,4,47,[laughing] That's perfect!,Pam,FALSE,0.6114,3
+1,4,47,If we can get him to drive to Connecticut... and put peroxide in his hair...,Jim,FALSE,0,15
+1,4,47,[yelling] What the hell is this? What are you trying to cop a feel or something? Huh Halpert?,Roy,FALSE,-0.7303,18
+1,4,47,"No, no, dude, no.",Jim,FALSE,-0.6808,4
+1,4,47,"Hey, Hey!",Pam,FALSE,0,2
+1,4,47,"No, dude, no, I was just, listen! Whoa.",Jim,FALSE,-0.5707,8
+1,4,47,Come on.,Pam,FALSE,0,2
+1,4,47,"God, I don't even, I don't even know how to explain this. Uh, um... Dwight, uh, asked me to be in an alliance. And then um... um... we were... we've just been messing with him. Uh, because of the whole alliance thing. Um...",Jim,FALSE,0.2732,43
+1,4,47,It's just office pranks.,Pam,FALSE,0,4
+1,4,47,"It's stupid. It's, it's just office pranks.",Jim,FALSE,-0.5267,7
+1,4,47,[looking at Dwight] An alliance? What the hell is he talking about?,Roy,FALSE,-0.7149,12
+1,4,47,I have absolutely no idea.,Dwight,FALSE,-0.3597,5
+1,4,47,Come on.,Roy,FALSE,0,2
+1,4,48,"Do I feel bad about betraying Jim? Not at all. That's the game. Convince him we're in an alliance, get some information, throw him to the wolves.",Dwight,FALSE,-0.7184,27
+1,4,48,"[With blonde hair] That's politics baby. Get what you can out of someone, then crush them. I think Jim might have learned a very valuable lesson.",Dwight,FALSE,0.4201,26
+1,4,49,"Good, excellent, and file sharing off and done. Security software, 128-bit encryption, firewalls. Get up, I'll install it on your computer.",Dwight,TRUE,0.8957,21
+1,4,49,No thanks.,Jim,TRUE,0.1779,2
+1,4,49,"Pssh, stupid. Identity theft happens all the time. I can become you like that. [snaps fingers] But no one can become me.",Dwight,TRUE,-0.4767,22
+1,4,49,"No one wants to be you, Dwight.",Jim,TRUE,-0.296,7
+1,4,49,"Not true. And if they did, they couldn't because I'm password protected.",Dwight,TRUE,0.1451,12
+1,4,49,Is your password Frodo?,Jim,TRUE,0,4
+1,4,49,No. [typing on keyboard],Dwight,TRUE,-0.296,4
+1,4,49,Did you just change it to Gollum?,Jim,TRUE,0,7
+1,4,49,No. [typing on keyboard],Dwight,TRUE,-0.296,4
+1,4,50,"[telephone rings] Dunder Mifflin, this is Pam. Hold please.",Pam,TRUE,0.3182,9
+1,4,50,"All righty then, well I see you're going for the whole bored supermodel thing. 'Dunder Mifflin, this is Pam. May I help you?' [takes a drag from an imaginary cigarette] Smoke, smoke, smoke, smoke.",Michael,TRUE,0.2023,34
+1,4,50,I wasn't really going for anything.,Pam,TRUE,0,6
+1,4,50,"No, no. I get it, I get it, I get it. A child is born, 'Oh, oh-hum.' A beautiful sunset, 'No, I'll catch the next one.' Right? Unicorn walks into the office, 'Oh, do you have an appointment?' [laughs] Okay, look Pam this is not meant as a criticism, but let me tell you what you're doing wrong. You are the voice of this company, right? And when clients call and you're not smiling they can hear that in your voice. It is a real turnoff.",Michael,TRUE,-0.7584,86
+1,4,50,Are you being serious?,Pam,TRUE,-0.0772,4
+1,4,50,"Yes, I am, absolutely. So, the next call we get I'd like you to smile. I'd like to see a big smile.",Michael,TRUE,0.8934,22
+1,4,50,Okay.,Pam,TRUE,0.2263,1
+1,4,50,Okay. [waits for call],Michael,TRUE,0.2263,4
+1,4,50,No one's calling.,Pam,TRUE,-0.296,3
+1,4,50,"I know, somebody will. And we'll wait.",Michael,TRUE,0,7
+1,4,50,Sometimes there's a lot of time between the calls.,Pam,TRUE,0,9
+1,4,50,"I know, I know, we will wait.",Michael,TRUE,0,7
+1,4,50,Okay.,Pam,TRUE,0.2263,1
+1,4,50,"We will wait for the call and you will smile.  Let me try something, just while we're waiting.",Michael,TRUE,0.3612,19
+1,4,50,Okay.,Pam,TRUE,0.2263,1
+1,4,50,"Tell me if I'm smiling or not. [covers face with hands] Hi Pam, how are you? Was I smiling?",Michael,TRUE,0.7476,19
+1,4,50,Yes.,Pam,TRUE,0.4019,1
+1,4,50,"Okay, let me try this one. [covers face with hands] Hi Pam, how are you?",Michael,TRUE,0.2263,15
+1,4,50,No.,Pam,TRUE,-0.296,1
+1,4,50,I mean you can tell.,Michael,TRUE,0,5
+1,4,50,"Yeah, I could tell.",Pam,TRUE,0.296,4
+1,4,50,I wasn't smiling that time and they can tell too.,Michael,TRUE,-0.357,10
+1,4,50,That was a good example.,Pam,TRUE,0.4404,5
+1,4,50,"Thank you. All right, when we get a call I'll come back and you'll do the smile.",Michael,TRUE,0.6124,17
+1,4,50,Okay. [telephone rings],Pam,TRUE,0.2263,3
+1,4,50,Show time! It's show time!,Michael,TRUE,0,5
+1,4,50,"[smiling] Dunder Mifflin, this is Pam. One moment I'll transfer you.",Pam,TRUE,0,11
+1,4,50,Okay.,Michael,TRUE,0.2263,1
+1,4,51,"[throwing away a banana, mayonnaise, and a sandwich from the refrigerator, smells the mayonnaise] God. [drinks from the milk carton and puts it back] Mmm.",Dwight,TRUE,0.2732,25
+1,4,51,"[looks in  the refrigerator] Hey Dwight, my tuna sandwich isn't in the refrigerator. You wouldn't know anything about that would you?",Jim,TRUE,0,22
+1,4,51,It was rotting.,Dwight,TRUE,0,3
+1,4,51,It was not rotting.,Jim,TRUE,0,4
+1,4,51,Any employee may dispose a food item...,Dwight,TRUE,0,7
+1,4,51,"Stop. Dwight, stop.",Jim,TRUE,-0.5267,3
+1,4,51,...that risks contaminating the other food item. Read the official kitchen regulations memo.,Dwight,TRUE,-0.2732,13
+1,4,51,"Dwight, you wrote that memo. Okay, it's not an official memo.",Jim,TRUE,0.2263,11
+1,4,51,"Uh, uh, not my problem. Okay, this is a paper factory not a bacteria factory.",Dwight,TRUE,0.1511,15
+1,4,51,"Dwight, it's not a factory at all. Do you have to do what you are doing? [Dwight is tapping each of the bobble heads on his desk and making them bobble]",Jim,TRUE,0,31
+1,4,51,"Uh, if they don't bobble, what's the point?",Dwight,TRUE,0,8
+1,4,52,What is this?,Angela,TRUE,0,3
+1,4,52,My nephew does it every year. Anything you could give would be fantastic.,Oscar,TRUE,0.5574,13
+1,4,52,"Okay, but I don't want to be put on a mailing list.",Angela,TRUE,0.0302,12
+1,4,53,We need to assume that everyone in the office is forming an alliance and is therefore trying to get us kicked off.,Jim,TRUE,0,22
+1,4,53,God... Damn it! Why us?,Dwight,TRUE,-0.4574,5
+1,4,53,"Because we're strong, Dwight. Because we're strong. God, it's freezing, I gotta go in. You stay though for like five minutes.",Jim,TRUE,0.8689,21
+1,4,53,[talking over Jim] Okay.,Dwight,TRUE,0.2263,4
+1,4,53,You don't want to arouse suspicion.,Jim,TRUE,-0.4257,6
+1,4,53,I'll stay for ten.,Dwight,TRUE,0,4
+1,4,53,Good. I like it. You know what. Pretend to smoke. [Dwight pretends to smoke],Jim,TRUE,0.5574,14
+1,4,54,"Do a poem for Meredith's birthday or uh, limerick. Limerick. Um, [knock on  door] there was a girl from Dunder Mifflin. Come on in. Who had a big, smifflin.",Michael,TRUE,0,30
+1,4,54,"Hi, do you mind if I sign the card real quick?",Toby,TRUE,0,11
+1,4,54,"No, not at all come on in. [Toby signing the birthday card] No, no. You can't. No, red hair is my area. We have it on tape, so...",Michael,TRUE,-0.7783,28
+1,4,54,It's just a birthday card.,Toby,TRUE,0,5
+1,4,54,"I was going to put that in my message, Toby. All right? So just cross it off. Cross it off, now. [Toby writes on birthday card] What are you doing? Oh come on, you're ruining it. Toby, come on.  Just, look at that. That's wrecked. Ass. Get some white out.",Michael,TRUE,-0.7059,51
+1,4,54,There's some right there.,Toby,TRUE,0,4
+1,4,54,"That's my white out. Get your own white out. Just... what's the matter with you? God. [Toby leaves] Okay, um, there was a girl from Dunder Mifflin. Who had a big, puttifflin. [thinking out loud] Mifflin, spifflin.",Michael,TRUE,0.4767,37
+1,4,55,"Uh, by the way. Have you heard Dwight say the word immunity, yet? Because if I can get Dwight to say the word immunity, it might be the greatest day of my life.",Jim,TRUE,0.6369,33
+1,4,56,Hey.,Dwight,FALSE,0,1
+1,4,56,Hey.,Michael,FALSE,0,1
+1,4,56,You wanted to see me?,Dwight,FALSE,0,5
+1,4,56,"Uh, yeah. What do you know about Meredith?",Michael,FALSE,0.296,8
+1,4,56,I don't think she'd be missed.,Dwight,FALSE,-0.296,6
+1,4,56,"There's not going to be downsizing Dwight, OK? I just, I need to know a little bit more about my friend.",Michael,FALSE,0.7504,21
+1,4,56,"Name, Meredith Palmer. Uh, personal information, divorced twice, two kids. Uh, Employer, Dunder Mifflin Paper Incorporated. Awards, multiple Dundies.",Dwight,FALSE,0.4588,19
+1,4,56,"I know all that. I know all that. I just, I need something kind of embarrassing, you know. Kind of fun, inside.",Michael,FALSE,0.1045,22
+1,4,56,She had a hysterectomy.,Dwight,FALSE,0,4
+1,4,56,Which one is that again?,Michael,FALSE,0,5
+1,4,56,That's where they remove the uterus.,Dwight,FALSE,0,6
+1,4,56,"Oh God! Dwight, no. I'm trying to write something funny here, okay. What am I going to do with a removed uterus?",Michael,FALSE,0.6114,22
+1,4,56,It could be kind of funny.,Dwight,FALSE,0.3832,6
+1,4,56,"[sighs] Come up with a joke that I can use, okay?",Michael,FALSE,0.4767,11
+1,4,56,Mmm-hmm.,Dwight,FALSE,0,1
+1,4,56,Help me out here.,Michael,FALSE,0.4019,4
+1,4,56,"Okay. Hey Meredith, where's your uterus?",Dwight,FALSE,0.2263,6
+1,4,56,"No, not a uterus joke Dwight. Please. Something useable. A joke.",Michael,FALSE,-0.3971,11
+1,4,56,"If I find a joke for you, will you grant me immunity? [cut to Jim holding his hands up like a champion]",Dwight,FALSE,0.7351,22
+1,4,56,What?,Michael,FALSE,0,1
+1,4,56,From the downsizing.,Dwight,FALSE,0,3
+1,4,56,"There's not going to be downsizing, Dwight. You know what, I am on a deadline here and just, okay. Thanks. Thanks for your help. I'm... I'll work it out. Thank you Dwight. [Dwight leaves] Thanks for coming in, that's always... Always helpful when I give him a call. Call him in.",Michael,FALSE,0.9485,51
+1,4,57,"Meredith. Oh, oh man, ah gosh. I can't remember why I came over here. Ha, ha.",Michael,TRUE,0.5859,16
+1,4,57,I hate that.,Meredith,TRUE,-0.5719,3
+1,4,57,"I know. Ugh, that is so annoying. [makes fart noise] Brain fart. By the way, do you remember any funny interactions we may have had recently that I've forgotten about? Just, you know we  bumped into each and you said, 'Brr, brr.' And I went, 'Argh, Argh.' You know? Anything? [shakes her head 'no'] Well, if you think of something, let me know. 'Cause I like to know. 'Cause I'm going crazy.",Michael,TRUE,-0.562,73
+1,4,58,"Oscar, uh for future reference just think you should know, that you should probably make it clear that your nephew is doing the walkathon and that he doesn't actually have cerebral palsy. Okay.",Michael,TRUE,0.5423,33
+1,4,58,I never suggested...,Oscar,TRUE,0,3
+1,4,58,"No, no. I know you didn't intend to, but I just I got the idea and I, uh, I just don't it has a lot of ethical merit to make people think something. You know? And then prey on their emotions.",Michael,TRUE,0.7876,41
+1,4,58,"Michael, if I gave you...",Oscar,TRUE,0,5
+1,4,58,"No, hey  it's just kinda uncool, okay? I, just... Play fair, you know, play fair.",Michael,TRUE,0.7796,16
+1,4,58,Thank you.,Oscar,TRUE,0.3612,2
+1,4,58,Thank you.,Michael,TRUE,0.3612,2
+1,4,58,Okay.,Oscar,TRUE,0.2263,1
+1,4,59,"Meredith, let's hope the only downsizing that happens to you is that someone downsizes your age.'",Meredith,TRUE,0.4404,16
+1,4,59,Because of the downsizing. Rumors. And because you're gettin' old.,Michael,TRUE,0,10
+1,4,59,"No, I...I get it. It's funny.",Meredith,TRUE,0.1779,6
+1,4,59,"[laughs] You didn't get the joke. So, that's cool. That's, you know what? Actually... I have a bunch of these, good ones, that I didn't use. Um... Oh, where's that? Oh, Okay, here's a good one. Um...'Hey Meredith, Liz Taylor called, she wants her age back and her divorces back.' 'Cause Meredith's been divorced like, twice. Is that right?",Michael,TRUE,0.8868,59
+1,4,59,You're right. You're right. Yes.,Meredith,TRUE,0.4019,5
+1,4,59,"Divorce. Um... Okay, 'Meredith is so old...'",Michael,TRUE,0.2263,7
+1,4,59,How old is she?,Oscar,TRUE,0,4
+1,4,59,If everybody... could do it? 'Meredith is so old...',Michael,TRUE,0,9
+1,4,59,How old is she?,Everybody,TRUE,0,4
+1,4,59,"She's so old, she went into an antique store and they kept her.'",Michael,TRUE,0,13
+1,4,59,[clears throat] What's the difference between Meredith and Michael Jackson? Michael Jackson's surgery was unnecessary.,Michael,TRUE,0,15
+1,4,59,You're talking about my hysterectomy.,Meredith,TRUE,0,5
+1,4,59,Yes! Thank you. God. She gets it. [laughs] We just picked the best one right? Just had it.,Michael,TRUE,0.8955,18
+1,4,59,"[whispering] I'm so sorry. [Angela, Phyllis, and Pam all whispering] ... seriously, we're just...",Pam,TRUE,-0.3488,14
+1,4,59,"Um, no, no. Come on. No. Don't comfort... don't comfort her, that's not... She doesn't need comforting. We're just joking around. I think she's... No that's very unprofessional. I think she's being very unprofessional over there.",Michael,TRUE,-0.9263,36
+1,4,60,I'm only going to ask you this once. Are you part of an alliance?,Dwight,TRUE,0,14
+1,4,60,What?,Ryan,TRUE,0,1
+1,4,60,Well played.,Dwight,TRUE,0.5423,2
+1,5,1,"[to Jim]: Hey, you ready?",Michael,FALSE,0.3612,5
+1,5,1,"All right, all right, secret sign. Hey, Ryan. [Ryan holds up his bag] Very good. Excellent, excellent.",Michael,FALSE,0.9029,17
+1,5,1,Michael!,Dwight,FALSE,0,1
+1,5,2,"Today at lunchtime we're going to be playing the warehouse staff at a friendly little game of basketball. My idea.  Last time I was down there, I noticed they'd put up a couple of hoops, and I play basketball every weekend. So I thought, 'This might be kinda fun.'  And so I started messing around and... I'm sinking a few, you know. Swish, swish, swish. Nothing but net. And their jaws just dropped to the floor. African-Americans! So... you know, it's really just a good friendly game, a reason to get together.",Michael,FALSE,0.9195,94
+1,5,3,"Pam, Pam, thank you ma'am. Messages, please. Thank you.",Michael,FALSE,0.743,9
+1,5,3,"Michael, can I talk to you, please? Privately? In your office? I think I should be on the team.",Dwight,FALSE,0.4291,19
+1,5,3,"No. And that's not me being mean, Dwight. That is based on your past behavior.",Michael,FALSE,-0.296,15
+1,5,3,"Oh, please.",Dwight,FALSE,0.3182,2
+1,5,3,[to camera] When I let him come to my pick-up game...,Michael,FALSE,0,11
+1,5,3,I apologized for that.,Dwight,FALSE,0.3182,4
+1,5,3,[to Dwight] I vouched for you.,Michael,FALSE,0,6
+1,5,3,"Michael, I...",Dwight,FALSE,0,2
+1,5,3,"I vouched for you in front of Todd Packer, Dwight.  All right, here's what I'm going to do. The hand strikes and gives a flower. You are not going to play basketball. But I need somebody to come in and take over the holiday and weekend work calendar.",Michael,FALSE,0.3322,49
+1,5,3,I can handle that.,Dwight,FALSE,0,4
+1,5,3,"Good. Excellent, it'll be fun. Because corporate, uh, wants someone to be here on Saturday. And so we're going to have to have some people come in on the weekend, and I know nobody's gonna want to do it and I know everybody's gonna complain and bitch and I don't want to have to deal with that.",Michael,FALSE,0.6369,57
+1,5,3,And that's why you have an assistant regional manager.,Dwight,FALSE,0,9
+1,5,3,Yes it is. Assistant to  the regional manager.,Michael,FALSE,0.4019,9
+1,5,3,[to camera] Same thing.,Dwight,FALSE,0,4
+1,5,3,"No, it's not. It's lower, so...",Michael,FALSE,-0.0803,6
+1,5,3,It's close.,Dwight,FALSE,0,2
+1,5,4,"So we need someone to work this Saturday and I think that, that should be...Jim.",Dwight,FALSE,0,15
+1,5,4,"God, this is so sad. This is the smallest amount of power I've ever seen go to someone's head. Phyllis, can you believe this?",Jim,FALSE,-0.4388,24
+1,5,4,Keep me out of it.,Phyllis,FALSE,0,5
+1,5,5,"My fiance has plans for us this Saturday.  So I really hope that Dwight doesn't make me work. Maybe I should sleep with him? I'm kidding, kidding. Totally kidding.",Pam,FALSE,0.688,30
+1,5,6,"All right, managing by walking around. This is our warehouse. Or, as I like to call it, the whorehouse. But don't you call it that, I've earned the right.",Michael,FALSE,0.1027,29
+1,5,6,"Fine, don't worry about that.",Ryan,FALSE,0.4949,5
+1,5,6,"And here we have 'Mister Roger's Neighborhood.' Come on over here. Hey, this is Ryan. He's temping upstairs.",Michael,FALSE,0,18
+1,5,6,What's up?,Lonny,FALSE,0,2
+1,5,6,And this is the foreman. Mista Ra-jahs.,Michael,FALSE,0,7
+1,5,6,It's not my real name.,Darryl,FALSE,0,5
+1,5,6,"No, it's Darryl. Darryl is Mista Ra-jahs.",Michael,FALSE,-0.296,7
+1,5,6,Darryl Rogers?,Ryan,FALSE,0,2
+1,5,6,"Darryl Philbin. Then Regis, then Rege, then Roger, then Mister Rogers.",Darryl,FALSE,0,11
+1,5,6,"[laughs] And that is Lonny. And this is Roy. Roy dates Pam. You know, the uh, the best looking one upstairs.",Michael,FALSE,0.6369,21
+1,5,6,"Yeah, yeah.",Ryan,FALSE,0.5267,2
+1,5,6,"You still getting it regular man? Huh? I mean, I can tell her it's part of the job!  Rapport!",Michael,FALSE,0,20
+1,5,7,"[on the phone] No, no, I know that the warranty's expired, but isn't it supposed to last longer than two years if it isn't defective? OK, fine, three years.",Pam,FALSE,-0.481,29
+1,5,8,"Pam gets a little down.  Her toaster oven broke. Um, which she got at her engagement shower. Um, for a wedding that still has yet to be set... and that was three years ago.",Jim,FALSE,0.0516,35
+1,5,9,"So, um, one o'clock sharp and we've got a game on.",Michael,FALSE,0,11
+1,5,9,We're loading at one.,Darryl,FALSE,0,4
+1,5,9,"Oh, I see, you're chickening out on me. You're bailing on me.",Michael,FALSE,0,12
+1,5,9,"No, we got a truck going out at 1:15. So, that's the busy time.",Darryl,FALSE,-0.296,14
+1,5,9,"Oh, well, I'm glad that some time is a busy time because whenever I'm down here it doesn't seem too busy to me. Oh, oh. You can dish it out, but you can't take it. OK, fine, have it your way. [clucking and dancing like a chicken]",Michael,FALSE,0.5933,47
+1,5,9,"All right, fine, you know what? One o'clock.",Darryl,FALSE,0.2023,8
+1,5,9,"All right, see you at one.",Michael,FALSE,0,6
+1,5,10,Are we ready for the game?,Michael,FALSE,0.3612,6
+1,5,10,[half-heartedly] Yeah.,Everybody,FALSE,0.296,2
+1,5,10,"I... yeah, yeah. I know, grumble, grumble. But you would follow me to the ends of the earth, grumbling all the way. Like that, uh, dwarf from Lord of the Rings.",Michael,FALSE,0.7096,31
+1,5,10,Gimli.,Dwight,FALSE,0,1
+1,5,10,Nerd. That is why you're not on the team.,Michael,FALSE,-0.296,9
+1,5,10,Just trying to be helpful.,Dwight,FALSE,0.4215,5
+1,5,10,"Uh, [in a nerdy voice] 'I'll help, Elwyn Dragonslayer, uh, ten points, power sword.'",Michael,FALSE,0.3612,14
+1,5,10,That's him.,Jim,FALSE,0,2
+1,5,10,"OK, so, let's put together a starting line-up, shall we? Stanley of course.",Michael,FALSE,0.4466,13
+1,5,10,I'm sorry?,Stanley,FALSE,-0.0772,2
+1,5,10,"Um, what do you play? Center?",Michael,FALSE,0.4137,6
+1,5,10,Why 'of course'?,Stanley,FALSE,0,3
+1,5,10,Uh...,Michael,FALSE,0,1
+1,5,10,What's that supposed to mean?,Stanley,FALSE,0,5
+1,5,10,"Uh, I don't know. I don't remember saying that.",Michael,FALSE,0,9
+1,5,10,"Uh, I heard it.",Jim,FALSE,0,4
+1,5,10,"Well, people hear a lot of things, man. Um... other starters... Me, of course. I heard it that time.",Michael,FALSE,0.2732,19
+1,5,10,I'd like to play if it's just for fun. I played basketball in school.,Phyllis,FALSE,0.8625,14
+1,5,10,"[ignores Phyllis)] Um... Yeah. Who else? We have Jim. We have Ryan, the new guy, right? Untested. Willing to prove himself now. A lot of passion, a lot of heart.",Michael,FALSE,0.6767,30
+1,5,10,"But, I'm getting paid to skip lunch?",Ryan,FALSE,0,7
+1,5,10,Yes.,Michael,FALSE,0.4019,1
+1,5,10,OK.,Ryan,FALSE,0.296,1
+1,5,10,"Yes, this is business. The, uh, business of team building and morale boosting. Uh, who else?",Michael,FALSE,0.6249,16
+1,5,10,"I can help out, if you need me.",Oscar,FALSE,0.4019,8
+1,5,10,"I will use your talents come baseball season, my friend. Or if we box.",Michael,FALSE,0.7351,14
+1,5,10,I have a hoop in my driveway.,Kevin,FALSE,0,7
+1,5,10,No.,Michael,FALSE,-0.296,1
+1,5,10,I have a sports bra.,Phyllis,FALSE,0,5
+1,5,10,"No, no, ridiculous.",Michael,FALSE,-0.7096,3
+1,5,10,"Michael, look. [Dwight throws paper at the garbage can]",Dwight,FALSE,0,9
+1,5,10,"Close. All right, uh... Me, Stan the man, Jim, Ryan and Dwight.",Michael,FALSE,0,12
+1,5,10,Yes!,Dwight,FALSE,0.4574,1
+1,5,10,Sorry Phyllis.,Michael,FALSE,-0.0772,2
+1,5,10,Can I be team captain?,Dwight,FALSE,0,5
+1,5,10,"No, I'm team captain.",Michael,FALSE,-0.296,4
+1,5,10,Can I be team manager?,Dwight,FALSE,0,5
+1,5,10,"No, I am the team manager. You can be assistant to the team manager.",Michael,FALSE,-0.296,14
+1,5,10,Assistant team manager?,Dwight,FALSE,0,3
+1,5,10,No.,Michael,FALSE,-0.296,1
+1,5,10,"OK, we'll see who's working this weekend then.",Dwight,FALSE,0.4466,8
+1,5,10,"Jim, you're in charge of the vacation schedule now.",Michael,FALSE,0,9
+1,5,10,Oh my God.,Jim,FALSE,0.2732,3
+1,5,10,Threat neutralized.,Michael,FALSE,-0.5267,2
+1,5,11,[hits Pam in the head with a piece of paper] Off the backboard!,Michael,FALSE,0,13
+1,5,11,Please don't throw garbage at me.,Pam,FALSE,0.3182,6
+1,5,11,"Oh, Pam with a zinger. Hey, Pam, how would you, like to be our cheerleader today? You know, some, ah, pigtails? A little, ah, halter top, you could tie that up. And you know, something a little, just, youthful, for a change. Just this once?",Michael,FALSE,0.7578,45
+1,5,11,"I don't think so Michael. Besides, I can't cheer against my fiance.",Pam,FALSE,-0.4023,12
+1,5,11,"I'll do it. Wear a little flouncey skirt if you want, and...",Jim,FALSE,0.0772,12
+1,5,11,"Yeah, I bet you would. Just try not to be too gay on the court. And by gay I mean, um, you know, not in a homosexual way at all. I mean the uh, you know, like the bad-at-sports way. I think that goes without saying.",Michael,FALSE,0.5719,46
+1,5,11,Maybe Angela would cheerlead.,Pam,FALSE,0.4019,4
+1,5,11,"Oh, yeah right.",Michael,FALSE,0.296,3
+1,5,11,I'll do it.,Phyllis,FALSE,0,3
+1,5,11,"Oh, yuck, that's worse than you playing. ... 'Cause we need you as an alternate in case somebody gets hurt. That's where we need you. Blessed be those who sit and wait. You made it, suit up, you're on the team! All right, cool! Very good.",Michael,FALSE,0.6459,46
+1,5,12,"Oh-oh. Oh-oh. A spy from the warehouse. Trying to figure out our plays, huh, man?",Michael,FALSE,0.25,15
+1,5,12,Just getting a tea bag.,Darryl,FALSE,0,5
+1,5,12,"Oh ho, oh, he's running. He's running. He's running, but he can't hide because you know what? One o'clock, you better bring your 'A' game. Because me, and my, posse guys are gonna be in your face. Right in your face!",Michael,FALSE,0.7113,41
+1,5,12,Why don't we make it more interesting? Loser buys dinner at Farley's.,Darryl,FALSE,-0.1742,12
+1,5,12,"Whoa-ho. I like the way you think. You know what, I'm gonna take that one step further. Loser, works, on Saturday.",Michael,FALSE,-0.2263,21
+1,5,12,"No, that's not as much fun. You know what?",Darryl,FALSE,-0.5996,9
+1,5,12,What?,Michael,FALSE,0,1
+1,5,12,You're on.,Darryl,FALSE,0,2
+1,5,12,"OK. Cool, you're on. [to Dwight] Don't screw this up.",Michael,FALSE,0.6735,10
+1,5,13,"[to camera] Classic beginner's mistake, eating before a game.",Michael,FALSE,-0.34,9
+1,5,14,"Has anyone seen the first-aid kit? [Dwight holds the kit up] How many times have I told you? I'm the safety officer, not you.",Angela,FALSE,0.4871,24
+1,5,15,"Basketball? It was kind of my thing in high school. And I'm, yeah, I'm looking forward to playing. You know, I think I'm gonna impress a few people in here.",Jim,FALSE,0.7096,30
+1,5,16,You coming down?,Jim,FALSE,0,3
+1,5,16,"Yeah, I'm just forwarding the phones.",Pam,FALSE,0.296,6
+1,5,16,You gonna wish me luck?,Jim,FALSE,0.6908,5
+1,5,16,"Yeah, you're gonna need it.",Pam,FALSE,0.296,5
+1,5,16,Whoa.,Jim,FALSE,0,1
+1,5,16,Is that trash talk from Pam?,Jim,FALSE,0,6
+1,5,16,"[laughing] I'm just saying, Roy is very competitive.",Pam,FALSE,0.2484,8
+1,5,16,Oh.,Jim,FALSE,0,1
+1,5,16,And he wants to take the WaveRunners to the lake this Saturday so...,Pam,FALSE,0,13
+1,5,16,"Well, I'm going to the outlet mall on Saturday, so if you wanna save big on brand names and Roy has to work, which he will, because I'm also competitive, you should feel free to come along.",Jim,FALSE,0.8519,37
+1,5,16,"Um, I think I'm gonna be up at the lake.",Pam,FALSE,0,10
+1,5,16,I think I'll see you at the mall. Yeah.,Jim,FALSE,0.296,9
+1,5,17,"Hey, there he is! Secret weapon! All right, guys, come on, let's bring it in! Here we go!  OK, listen, this is just going to be a friendly game, right? We are all on the same team here, the Dunder Mifflin team. Of course, if you beat us, you're fired. That's a joke.  OK, let's do it.",Michael,FALSE,0.7673,59
+1,5,17,Have a good game man.,Jim,FALSE,0.4404,5
+1,5,17,"Yeah, you too. Should be fun.",Roy,FALSE,0.6705,6
+1,5,17,"All right, everybody stretch out a little bit. Stretch it. Full stretch. Ryan, you wanna stretch?",Michael,FALSE,0,16
+1,5,17,I stretched before I came.,Ryan,FALSE,0,5
+1,5,17,OK.,Michael,FALSE,0.296,1
+1,5,18,"OK, Ryan, you have Darryl. I have Roy.",Michael,FALSE,0.4466,8
+1,5,18,Really? I thought I'd take Roy.,Jim,FALSE,0,6
+1,5,18,"Actually, I think Roy is their best player not Lonny. So, Dwight, you uh, have the East German gal. Uh, who else we got... Um...OK, all right, you guys.",Michael,FALSE,0.6369,29
+1,5,18,"[taking off his shirt] OK, we'll be skins!",Dwight,FALSE,0.4981,8
+1,5,18,"Aw, come on Dwight.",Michael,FALSE,0,4
+1,5,18,What? Shirts on or off?,Dwight,FALSE,0,5
+1,5,18,On. Just put it on.,Michael,FALSE,0,5
+1,5,18,You sure?,Dwight,FALSE,0.3182,2
+1,5,18,"Yes. Uh, Pam? You kind of have your foot in both camps, why don't you do the uh, jump ball OK?",Michael,FALSE,0.7178,21
+1,5,18,"Don't listen to him Pam. Trust me, tip it my way or you're sleeping in the car.",Roy,FALSE,0.5106,17
+1,5,18,"Stanley!  What? You gotta be kidding me! !?! [Roy steals the ball, and goes for a lay up] Oh... Here we go! [Lonny shoots and makes it] Who's on him? Somebody get him!",Michael,FALSE,-0.6816,34
+1,5,18,Yeah!,Teammates,FALSE,0.3595,1
+1,5,18,That's what I'm talking about.,Roy,FALSE,0,5
+1,5,18,"Yeah, yeah, yeah. Over here, over here. [Jim saves the ball from going out of bounds and passes to Michael] Here we go. Three! [Shoots and misses] Let's go to the zone! We're going to zone!",Michael,FALSE,0.7562,36
+1,5,18,"De-fense! [clap, clap] [Michael joins in] De-fense! [clap clap]",Dwight,FALSE,0,9
+1,5,18,De-fense! De-fense!,Michael and Dwight,FALSE,0,2
+1,5,18,[Roy scores] Well done team.,Warehouse worker,FALSE,0.2732,5
+1,5,18,Who's got Roy? [Jim does a behind the back move around Roy for the basket],Michael,FALSE,0,15
+1,5,18,Woo!,Pam,FALSE,0.5255,1
+1,5,19,"[misses a half court shot] Aw, come on! What is wrong with me today!? Usually hit those. [Dwight scores] Dwight, I was open. All right, let's go.",Michael,FALSE,-0.5696,27
+1,5,20,"[Roy bumps Michael to get around him] OK, foul. Charging. Charging. That's a foul.",Michael,FALSE,0.4466,14
+1,5,20,OK.,Roy,FALSE,0.296,1
+1,5,20,"OK, I'll take it. [misses free throw] OK.",Michael,FALSE,0.8468,8
+1,5,21,"When I am playing hoops all of the stress and responsibility of my job here just melts away. It's gone, I'm in the zone.",Michael,FALSE,-0.25,24
+1,5,22,[misses another shot] What is wrong with me today?!,Michael,FALSE,-0.5255,9
+1,5,23,"Who am I? Am I Michael Scott? I don't know... I might just be a basketball machine. What's Dunder Mifflin? I've never heard of it. Filing? Paperwork? Who cares? Possible downsizing? Um... well, that's probably gonna happen, actually.",Michael,FALSE,0.7236,38
+1,5,24,"Jim! Jim! Jim, right here, Jim! Give me the ball! Ryan, cut! [Michael looks away and misses Jim's pass] Whoa!",Michael,FALSE,-0.6331,20
+1,5,24,My bad.,Jim,FALSE,-0.5423,2
+1,5,24,[scores] Here we go. Here we go. Here we go.,Darryl,FALSE,0,10
+1,5,24,[dancing] Where you at? Where you at? You over there? I'm over there.,Lonny,FALSE,0,13
+1,5,24,That is cool. Is that like the Robot?,Michael,FALSE,0.5859,8
+1,5,25,[Ryan scores] Nice! Come here! [gives Ryan a chest bump],Michael,FALSE,0.5242,10
+1,5,25,"Can we just do one? That's cool, that's fine.",Ryan,FALSE,0.4767,9
+1,5,25,You have one more free throw shoot. Come on.,Darryl,FALSE,0.2333,9
+1,5,25,"All right, let's go.",Roy,FALSE,0,4
+1,5,26,Watch your back Madge.,Warehouse worker,FALSE,0,4
+1,5,26,Hey! Come on man!,Madge,FALSE,0,4
+1,5,26,"Come on! Hey, Dwight. Dwight!",Michael,FALSE,0,5
+1,5,26,[scores] Yeah! [points to Madge] In your face!,Dwight,FALSE,0.4184,8
+1,5,26,"Yeah, like that counts.",Madge,FALSE,0.5719,4
+1,5,26,"You know what? Dwight, Dwight...",Michael,FALSE,0,5
+1,5,27,"Football is like rock and roll, it's just bam-bam-boo... And basketball is like jazz, you know? You're kind of... Dupee-doo, dupee-do. It's all downbeat, it's in the pocket, it's like... [singing] Dupee-do, dupee-do, dapee-dah...",Michael,FALSE,0.8126,34
+1,5,28,"[singing] Du-du-du-du-dupee-do, de-do-do-do. Du-du-du-du-dupee-do, de-do-do-do. Harlem Globetrotter...",Michael,FALSE,0,7
+1,5,28,"[steals the ball, scores, mimics singing] Du-du-du-du-dupee-do. Your ball.",Roy,FALSE,0,9
+1,5,28,"All right, time, time out. Come on, sales, over here. Bring it in! Come on!",Michael,FALSE,0,15
+1,5,28,What's going on? What's going on? You're playing like a bunch of girls.,Michael,FALSE,0.5661,13
+1,5,28,You know what? Let me take Roy.,Jim,FALSE,0,7
+1,5,28,"All right, switch. Take it up a notch, come on.",Michael,FALSE,0,10
+1,5,29,"Shoot, shoot it.  [Roy hits Jim in the mouth with his elbow] Whoa, whoa, whoa, whoa! Foul! Naked aggression!  Oh, that is... You all right Jim? Suck it up.",Michael,FALSE,-0.8682,31
+1,5,30,"Block, block, block!",Darryl,FALSE,-0.8398,3
+1,5,30,He's afraid of you now.,Madge,FALSE,0,5
+1,5,30,"[Jim makes a shot after pushing off Roy] Ouch! Oh, how much does it hurt? How much does it hurt?",Michael,FALSE,-0.8152,20
+1,5,31,[Jim pushes Roy to the ground and makes another shot] Yes!,Michael,FALSE,0.4574,11
+1,5,31,What the hell man?,Roy,FALSE,-0.6808,4
+1,5,31,Take it easy.,Jim,FALSE,0.4404,3
+1,5,31,"No, you take it easy.",Roy,FALSE,0.1779,5
+1,5,32,"[Darryl scores] Watch the long passes, you guys!",Michael,FALSE,0,8
+1,5,33,"[Dwight steals the ball from Ryan] Same team, Dwight.",Ryan,FALSE,-0.5106,9
+1,5,33,Dwight!,Michael,FALSE,0,1
+1,5,33,[scores] Yes!,Dwight,FALSE,0.4574,2
+1,5,34,"[Phyllis scores] Yeah! Yeah! Yeah! In, your, face! Angela, what's the score?",Michael,FALSE,0.7762,12
+1,5,34,You're ahead.,Angela,FALSE,0,2
+1,5,34,"Yeah, baby, here we go!",Michael,FALSE,0.3595,5
+1,5,34,[Jim has the ball] Jim! Jim! Right here! [runs into the elbow of the guy guarding him] Ow! God! Hold it!,Michael,FALSE,0.5053,21
+1,5,34,I'm sorry.,Worker,FALSE,-0.0772,2
+1,5,34,Foul! Foul!,Michael,FALSE,0,2
+1,5,34,I'm sorry. You all right?,Worker,FALSE,-0.0772,5
+1,5,34,"Oh, that hurts.",Michael,FALSE,-0.4767,3
+1,5,34,"Sorry, I didn't mean to do that.",Worker,FALSE,-0.0772,7
+1,5,34,"What's your problem man? Gah, just clocking me for no reason?",Michael,FALSE,-0.644,11
+1,5,34,Take your shot man!,Darryl,FALSE,0,4
+1,5,34,"No, no, no, no. That was a flagrant, personal, intentional foul. Right there.",Michael,FALSE,-0.7783,13
+1,5,34,No it wasn't.,Worker,FALSE,-0.296,3
+1,5,34,"[mocking voice] Yes, it was. You know what, I'm just being fair.",Michael,FALSE,0.6124,12
+1,5,34,"Oh, really? No, I just put my arm up...",Worker,FALSE,-0.3597,9
+1,5,34,"Game over. Game over. That is it! I'm sorry, you know? I hate to do it this way but, you know, that's just... we're having a friendly game. It's a shame. This is a damn shame, but we're like a family here and that just, that won't fly.",Michael,FALSE,-0.7959,48
+1,5,34,This is a cold pack...,Angela,FALSE,0,5
+1,5,34,"Here, give me that. You have to break the interior bag. [bag explodes]",Dwight,FALSE,0,13
+1,5,34,Thanks Dwight.,Michael,FALSE,0.4404,2
+1,5,34,"Wait, what does that mean? What is it, a tie? What's going on?",Lonny,FALSE,0,13
+1,5,34,"Well, let's just say whoever was ahead won.",Michael,FALSE,0.7003,8
+1,5,34,That was you.,Darryl,FALSE,0,3
+1,5,34,"It was us? Really? I didn't, I didn't know. Great, I mean, I guess you guys are working Saturday. Your face.",Michael,FALSE,0.4692,21
+1,5,34,"No, no, no, I'm not coming in on Saturday.",Roy,FALSE,-0.6808,9
+1,5,34,"Yeah, this isn't happening.",Darryl,FALSE,0.296,4
+1,5,34,"Um... well, you guys, you know, I'm the boss so...",Michael,FALSE,0.2732,10
+1,5,34,"So what's that? We're coming in on Monday, right?",Lonny,FALSE,0,9
+1,5,34,"Hey, hey...",Michael,FALSE,0,2
+1,5,34,Monday?,Lonny,FALSE,0,1
+1,5,34,"[laughing] You guys believed me? Come on. Dogs, you know, you should know me better than that. No, oh, do you think that would've been good for morale? No. No. No. Exactly, no. I'm embarrassed it was even that close though. So... nah, of course, we're coming in Saturday. Good game. Word.",Michael,FALSE,-0.5514,52
+1,5,35,"[to Pam] ...so I talked to the scout, it looks good.",Jim,FALSE,0.4404,11
+1,5,35,Mmm-hmm.,Pam,FALSE,0,1
+1,5,35,I didn't sign anything.,Jim,FALSE,0,4
+1,5,35,Hey baby.,Roy,FALSE,0,2
+1,5,35,Hey.,Pam,FALSE,0,1
+1,5,35,[to Jim] Look at Larry Bird. Larry Legend.,Roy,FALSE,0,8
+1,5,35,"Yeah, he's, uh, pretty good, huh? [to Roy] Let's get you into a tub.",Pam,FALSE,0.8074,14
+1,5,35,Yeah? Let's get you into a tub.,Roy,FALSE,0.296,7
+1,5,36,"Hey, what a game, huh? What a game.",Michael,FALSE,0,8
+1,5,36,What time do we have to come in?,Oscar,FALSE,0,8
+1,5,36,"Come on. Let's not be gloomy here man. We're all in this together. We're a team. You know what? Screw corporate, nobody's coming in tomorrow. You have the day off. Like coming in an extra day is gonna prevent us from being downsized. Have a good weekend.",Michael,FALSE,0.6751,47
+1,5,37,The great thing about sports is that it is all about character. And you can learn lessons about life even if you don't win. But we did because we were ahead.,Michael,FALSE,0.2565,31
+1,5,38,"[slams palms on desk] Pam, Pam, thank you ma'am. Messages, please. Thank you.",Michael,TRUE,0.743,13
+1,5,38,New pants?,Pam,TRUE,0,2
+1,5,38,"Uh, yes. Thank you for noticing.",Michael,TRUE,0.6369,6
+1,5,38,Abercrombie & Fitch?,Pam,TRUE,0,3
+1,5,38,"Uh, they look that good? Wow. [Mike Myers voice] Oh, Pam please behave. Mike Myers, genius. Um, no actually I got them at a fancier place. Target.",Michael,TRUE,0.7783,27
+1,5,38,"Michael, could I talk to you for a second, please?",Dwight,TRUE,0.3182,10
+1,5,38,Uh...,Michael,TRUE,0,1
+1,5,38,In your office? [in Michael's office] You know that is why you have an assistant regional manager.,Dwight,TRUE,0,17
+1,5,38,"Yes, yes. Assistant to  the regional manager.",Michael,TRUE,0.6597,8
+1,5,38,[to camera] Same thing.,Dwight,TRUE,0,4
+1,5,38,"No, it's not. It's lower.",Michael,TRUE,-0.0803,5
+1,5,38,It's close.,Dwight,TRUE,0,2
+1,5,38,What was that?,Michael,TRUE,0,3
+1,5,38,What?,Dwight,TRUE,0,1
+1,5,38,That look?,Michael,TRUE,0,2
+1,5,38,What look?,Dwight,TRUE,0,2
+1,5,38,"Like trying to find the camera, to give the camera a look. Okay, we're done. Is that your stomach? I keep hearing somebody's stomach. [whispers] God.",Michael,TRUE,0.6705,26
+1,5,39,"So, you uh, see the Sixers game last night?",Michael,TRUE,0,9
+1,5,39,Yeah.,Darryl,TRUE,0.296,1
+1,5,39,[howls like a wolf] Oww whoo whoo! The Answer was on fire!,Michael,TRUE,0.1739,12
+1,5,39,"Iverson. Yeah, always man. It's very important.",Darryl,TRUE,0.5095,7
+1,5,39,"Oh, man! Man I tell ya. Iverson has maybe got me beat by like 20 pounds, 3 inches. [makes 'pop' noise with his mouth]",Michael,TRUE,0.4199,24
+1,5,39,What? Iverson's not fat.,Roy,TRUE,0,4
+1,5,39,"No, neither am I. We both look good.",Michael,TRUE,0.1779,8
+1,5,40,"Do I have a nickname on the court, um? Well, The Answer would be nice, but it's taken. So, uh, probably The Question. The Answer dishes to The Question. The Question back to The Answer. Answer over to The Question. The Answer, whew, [makes shooting motion] three points. The Question, whew, whew, [makes shooting motion] six points. Nothing but net. Question, who's the best player in the league? Answer, The Question. Or the Drunkmeister.",Michael,FALSE,0.8628,74
+1,5,41,I can't work Saturday.,Kevin,TRUE,0,4
+1,5,41,"Please, have a seat. [Kevin sits down] Okay, why not?",Dwight,TRUE,0.4939,10
+1,5,41,I'm in a band.,Kevin,TRUE,0,4
+1,5,41,Marching or garage?,Dwight,TRUE,0,3
+1,5,41,It's a Steve Miller Tribute Band.,Kevin,TRUE,0,6
+1,5,41,I tell you what. You give me a tape of your band and a tape of the Steve Miller Band and I'll get back to you. That is all.,Dwight,TRUE,0,29
+1,5,42,[on the phone] Mello.,Todd Packer,TRUE,0,4
+1,5,42,Packer. Pac-man.,Michael,TRUE,0,2
+1,5,42,Whoa. Hey.,Packer,TRUE,0,2
+1,5,42,Pac-man [imitating the noises of the video game Pac-man eating dots],Michael,TRUE,0,11
+1,5,42,"[on the phone] Is this Michael Scott? My secret lover. My intercom, I told you never to call me here. Never! [Michael's laughing]",Todd Packer,TRUE,0.6239,23
+1,5,42,"I'm not your lover! I'm am not Michael Scott, I am Dr. Bergerstein. Your proctologist.",Michael,TRUE,-0.521,15
+1,5,42,[on the phone] Bergerstein!,Todd Packer,TRUE,0,4
+1,5,42,"Ah, yes. Ah. [laughs]",Michael,TRUE,0.4019,4
+1,5,42,[on the phone] Bergerstein!,Todd Packer,TRUE,0,4
+1,5,42,"It's not a Jewish joke, so don't worry.",Michael,TRUE,0.2014,8
+1,5,42,[on the phone] I want my money back you greedy Hebrew. Bergerstein!,Todd Packer,TRUE,-0.3164,12
+1,5,42,"[clears throat] No, hey, hey , hey. You know what I just wanted to remind you about the game today. One 'o clock. Big game, big game.",Michael,TRUE,-0.296,27
+1,5,42,[sounds sick on the phone] I can't make it.,Todd Packer,TRUE,-0.5106,9
+1,5,42,"Mmm. No, you said you could man. We're counting on ya. You know you're playing point guard.",Michael,TRUE,-0.1027,17
+1,5,42,[on the phone] I... I'm not coming.,Todd Packer,TRUE,0,7
+1,5,42,"No. Hey... I mean, although it's just for fun, you know we want... I was counting on you man.",Michael,TRUE,0.2732,19
+1,5,42,"[on the phone] Oh, God! Stop whining. You know, you only come to the pick up game once a year. You little bitch. [Michael picks up phone, takes it off speakerphone] All right, yup. Hey, okay. No problem, you know, best you can do. Hey, you know. Hey, nice talking to you too. All right take care. [sighs] Michael Scoot. That's funny. He's a good friend.",Todd Packer,TRUE,0.8997,66
+1,5,43,[eating Tootsie Rolls from Angela's candy on her desk] Mmm. Good. Mmm.,Dwight,TRUE,0.4404,12
+1,5,43,They're one per person. [points to sign 'Please take one!!],Angela,TRUE,0.4374,10
+1,5,43,"Would you like to have a vacation this year? That's what I thought. [continues eating Tootsie Rolls] Mmm, delicious.",Dwight,TRUE,0.7351,19
+1,5,44,"Well, I though we were saving money for the wedding, but apparently Roy thought it was more important to buy two WaveRunners. I don't really ever get to use the other WaveRunner that's supposed to be mine because his brother uses it and they race.",Pam,TRUE,0.4921,45
+1,5,45,"Jim, you're the new schedule guy, huh?",Dwight,TRUE,0,7
+1,5,45,"I'm trying, yup.",Jim,TRUE,0,3
+1,5,45,"Yeah, I hear that. You know what? This little baby might come in handy.",Dwight,TRUE,0.296,14
+1,5,45,"Great, thanks.",Jim,TRUE,0.7906,2
+1,5,45,On one condition. You...,Dwight,TRUE,0,4
+1,5,45,Forget it. It's just a dry erase board.,Jim,TRUE,-0.2263,8
+1,5,45,"Oh, no it's not. Okay, check it out.",Dwight,TRUE,-0.434,8
+1,5,45,"Okay, that's insanely complicated and the first thing I'm going to do is erase it.",Jim,TRUE,0.2263,15
+1,5,45,"No, you're not because I spent hours on it.",Dwight,TRUE,-0.296,9
+1,5,45,"Well, then keep it.",Jim,TRUE,0.2732,4
+1,5,45,"Okay, I will. Okay, fine. You'll be back.",Dwight,TRUE,0.5574,8
+1,5,46,"[misses a  free throw badly] I... I think you can play. Like you could when you were a kid. I think you can never give up the play. Because if people stop playing, then they stop living. It's like a shark. If a shark stops playing he stops living. And sharks are very playful creatures.",Michael,TRUE,0.9061,56
+1,5,47,"[Dwight holds the first aid kit up] I'm the safety officer, not you.",Angela,TRUE,0.4215,13
+1,5,47,"Isn't that crazy? I'm a Volunteer Sheriff's Deputy. Lackawanna County says that it's okay for me to perform CPR, but for Michael my lips aren't qualified enough for his perfect little face. It's nuts.",Dwight,TRUE,0.6666,34
+1,5,47,Is that really necessary?,Angela,TRUE,0,4
+1,5,47,[wearing a face guard] I've almost had my nose broken a dozen times.,Dwight,TRUE,-0.4767,13
+1,5,48,"You know what. I think most basketball movies are great movies. Because it's a great subject. There's one about a little kid who, um, joins a professional basketball team and he's really, really good and he can dunk and he's like 3 feet tall. And he can dunk the ball. That, oh, I love that movie. That movie kind of, that movie makes me cry. I don't like to cry on camera, but that movie makes me cry. Um, because it touches a cord in me about hoops. [Michael's free throw is really short] Short, short, short! And basketball is like jazz, you know. To like pertipify it there's a jazz musician, a guy, you know... if you know jazz you know who I mean. He's uh, God what was his name? Um, he plays one of those curly horns, like those really shiny curly horns that's used in jazz a lot.",Michael,TRUE,0.9713,152
+1,5,49,[back to the basketball game] Let's go Lonny.,Warehouse Worker,FALSE,0,8
+1,5,49,"[Michael steals the ball] Yeah, Michael. Go Michael. [makes shot]",Jim,FALSE,-0.2732,10
+1,5,49,Yes!,Dwight,FALSE,0.4574,1
+1,5,50,"Birdie. He's not the guy with the cheeks. Kenny G. Is... if you knew jazz, you'd know who I mean. Kenny G. God. Glad I remembered that. Jazz people know who he is.",Michael,FALSE,0.6249,33
+1,5,51,"[back to the basketball game] Dwight, pass it to Jim! Pass it to Ryan!",Michael,TRUE,0,14
+1,5,51,"Oh, my ankle!",Stanley,TRUE,0,3
+1,5,51,"Stanley, gotta play hurt.",Michael,TRUE,-0.25,4
+1,5,51,"Oh, actually no I don't Michael.",Stanley,TRUE,-0.296,6
+1,5,51,"I just want you know, you've been a big disappointment to me today, okay.",Michael,TRUE,-0.2732,14
+1,5,51,[in pain] Oh. Go away.,Stanley,TRUE,0,5
+1,5,51,"I'm in. I'm in. Here we go. [Lonny gets around Michael to score and he ends up in front of Phyllis] Zone, Phyllis! We're playing zone!",Michael,TRUE,0.3365,26
+1,5,53,[Michael hits a half court shot] Ah! [clapping],Everybody,TRUE,0,8
+1,5,53,Yes! Yes! All right. We got game!,Michael,TRUE,0.7412,7
+1,6,1,Are you listening to me Michael?,Jan,FALSE,0,6
+1,6,1,Affirmative.,Michael,FALSE,0,1
+1,6,1,What did I just say?,Jan,FALSE,0,5
+1,6,1,"You just said, let me uh... check my notes.  You just said...",Michael,FALSE,0,13
+1,6,1,Alan and I have created an incentive program to increase sales.,Jan,FALSE,0.7003,11
+1,6,1,"Hey, hey how is Alan?  Tell Alan that the Mets suck! Okay? From me, big time. Go Pirates!",Michael,FALSE,-0.4486,19
+1,6,1,I'm not going to do that Michael.,Jan,FALSE,0,7
+1,6,1,Okay,Michael,FALSE,0.2263,1
+1,6,1,We've created an incentive program to increase sales.,Jan,FALSE,0.7003,8
+1,6,1,"Uh, huh.",Michael,FALSE,0,2
+1,6,1,At the end of the month you can reward your top seller with a prize worth up to a thousand dollars.,Jan,FALSE,0.8658,21
+1,6,1,"Whoa. Howdy-ho. Wow, a thousand big ones. That's cool. Do I uh, do I get to pick the prize?",Michael,FALSE,0.8555,19
+1,6,1,"Uh, yes. Yes you can.",Jan,FALSE,0.6597,5
+1,6,1,"Um, question: Does top salesman include uh, people who were at one time such outstanding salesman that've been promoted to...",Michael,FALSE,0.8225,20
+1,6,1,"No, Michael. No. You can't win this prize.",Jan,FALSE,-0.3812,8
+1,6,1,I didn't mean me!,Michael,FALSE,0,4
+1,6,2,"Well, first what we have to do is find out what motivates people more than anything else.",Michael,FALSE,0.2732,17
+1,6,2,Sex.,Dwight,FALSE,0,1
+1,6,2,It's illegal. Can't do that.  Next best thing.,Michael,FALSE,0.1531,9
+1,6,2,Torture.,Dwight,FALSE,-0.5994,1
+1,6,2,"Tah, come on Dwight. Just help me out here. That's just stupid.",Michael,FALSE,-0.1779,12
+1,6,2,"Uh, Michael?",Pam,FALSE,0,2
+1,6,2,Pam!,Michael,FALSE,0,1
+1,6,2,"Hey, there's a...",Pam,FALSE,0,3
+1,6,2,Burger with cheese!,Michael,FALSE,0,3
+1,6,2,There's a person here...,Pam,FALSE,0,4
+1,6,2,And fries!,Michael,FALSE,0,2
+1,6,2,There's...,Pam,FALSE,0,1
+1,6,2,And shake! What? Go ahead.,Michael,FALSE,-0.2481,5
+1,6,2,There's a person here who wants to sell handbags.,Pam,FALSE,0,9
+1,6,2,"No, no, no. No vendors in the office. That is a distraction.",Michael,FALSE,-0.8555,12
+1,6,2,"Okay, I told her you'd talk to her.",Pam,FALSE,0.2263,8
+1,6,2,"Pam. Pam. Come on, I'm busy. So just tell her to go away.",Michael,FALSE,0,13
+1,6,2,Okay.,Pam,FALSE,0.2263,1
+1,6,2,"[exhales loudly, looks out window and sees Katy] Oooh, alright I'll talk to her.",Michael,FALSE,0.25,14
+1,6,3,This one is hand embroidered.,Katy,FALSE,0.4939,5
+1,6,3,"All right girls break it up, you're being infiltrated. Cock in the henhouse.",Michael,FALSE,-0.1531,13
+1,6,3,Cocks in the henhouse.,Dwight,FALSE,0,4
+1,6,3,"Don't say cocks. Oh, what is your name, my fair lass?",Michael,FALSE,0.3182,11
+1,6,3,Katy.,Katy,FALSE,0,1
+1,6,3,"Ah, Katy. Wow. Look at you. You are, uh you're like the new and improved Pam. Pam 6.0.",Michael,FALSE,0.8555,18
+1,6,3,"Oh, look. Oh hey, no catfights you two. I'm  against violence in the workplace.",Michael,FALSE,-0.743,15
+1,6,3,So am I.,Dwight,FALSE,0,3
+1,6,3,Nobody cares what you think.,Michael,FALSE,0.4588,5
+1,6,3,Doesn't matter.,Dwight,FALSE,-0.0191,2
+1,6,3,"So uh, you know what? I usually don't allow solicitors in the office but today I am going to break some rules, and you can have the conference room. It's yours. All day.",Michael,FALSE,-0.0857,33
+1,6,3,"Wow, thanks.",Katy,FALSE,0.7717,2
+1,6,3,There's an HR meeting in there at 11:30.,Pam,FALSE,0,8
+1,6,3,"Well, lets put 'em in the hallway. Give 'em some chairs. Right? Decisiveness. One of the keys to success according to Small Businessman.",Michael,FALSE,0.7003,23
+1,6,4,"I do. I read Small Business man. I also uh, subscribe to USA Today and American Way Magazine, that's the in-flight magazine. Some great articles in that. They did this great profile last month of Doris Roberts and where she likes to eat when she's in Phoenix. Illuminating.",Michael,FALSE,0.9001,48
+1,6,5,"This is my conference room. So please, uh, make yourself at home. Whatever you need, I'm right on the other side of this wall. [knocks on wall]  used to be a window here. There's not anymore. So, that's where I will be.",Michael,FALSE,0.3804,43
+1,6,5,"So if you need anything else, something to make you more confortable just don't hesitate to ask. I'm right here.",Michael,FALSE,0.2057,20
+1,6,5,I guess a cup of coffee would be great.,Katy,FALSE,0.6249,9
+1,6,5,"Wait a second. I should have spotted another addict. Uh, gotta love the 'bucks.",Michael,FALSE,0.6369,14
+1,6,5,What?,Katy,FALSE,0,1
+1,6,5,"It's like a slang for Starbucks. They're all over the place. Oh, man, that place is like the promised land to me. What a business model too. Ah, too bad we don't have the good stuff here.",Michael,FALSE,0.1516,37
+1,6,5,Regular coffee is fine.,Katy,FALSE,0.2023,4
+1,6,5,"Nah, it's not. it's spppplllibbb",Michael,FALSE,-0.1027,5
+1,6,5,No really it is.,Katy,FALSE,-0.296,4
+1,6,5,"No, here's the thing. Y'know I do my best to be my own man and go by the beat of a different drummer and nobody gets me, and they're always putting up walls and I'm always tearing 'em down, just breakin' down barriers, that's what I do all day.  So a coffee, regular coffee for you. High test, or unleaded?",Michael,FALSE,0.4588,61
+1,6,5,Bring it on.,Katy,FALSE,0,3
+1,6,5,"Oh. Woo, I will. I will bring it on. Ah, all right.",Michael,FALSE,0.4767,12
+1,6,6,So are you jealous 'cause there's another girl around?,Kevin,FALSE,-0.5046,9
+1,6,6,No.,Pam,FALSE,-0.296,1
+1,6,6,She's prettier than you though.,Kevin,FALSE,0.4767,5
+1,6,6,"That's a very rude thing to say, Kevin.",Pam,FALSE,-0.5095,8
+1,6,6,[nods],Kevin,FALSE,0,1
+1,6,7,So do you like the periwinkle and the purples?,Katy,FALSE,0.4144,9
+1,6,8,"The purse girl hits everything on my checklist. Creamy skin. Straight teeth. Curly hair. Amazing breasts. Not for me, for my children. The Schrutes produce very thirsty babies.",Dwight,FALSE,0.6908,28
+1,6,9,[handing Katy a mug of coffee] There ya go. Nice steaming cup o'joe.,Michael,FALSE,0.4215,13
+1,6,9,Thank you.,Katy,FALSE,0.3612,2
+1,6,9,"I have an idea.  Why don't I introduce you around, you know you can kind of get your foot in the door, meet potential clientele, right?",Michael,FALSE,0,27
+1,6,9,"Gosh, I would love to but, my purses, I should, um...",Katy,FALSE,0.3818,11
+1,6,9,"Oh, um, well, we could have Ryan take a look. Ryan, would you look after the purses, please?",Michael,FALSE,0.5267,18
+1,6,9,I'm installing File Share on all the computers.,Ryan,FALSE,0.296,8
+1,6,9,"Yeah, well, bladdy-bluda-blah-blah. Techno-babble. Just do it, okay. We have company. Right?",Michael,FALSE,0.6369,12
+1,6,10,"You should sell a lot here because this branch made over a million dollars last year. Not that we're all millionaires. I'm probably closest. So here's Oscar. Oscar, this is Katy.",Michael,FALSE,0,31
+1,6,10,I'm on the phone.,Oscar,FALSE,0,4
+1,6,10,Oooh-ooh. Oscar the grouch. Right? I thought of that.,Michael,FALSE,-0.4939,9
+1,6,10,That was on Sesame Street.,Katy,FALSE,0,5
+1,6,10,I know. I know. I made the connection. Can you believe he'd never heard that before he worked here?,Michael,FALSE,0,19
+1,6,10,"No, I don't believe that.",Katy,FALSE,-0.296,5
+1,6,10,"I know, it's unbelievable.",Michael,FALSE,0.2023,4
+1,6,11,"It's nice having Katy around. It's another person for Michael to um, interact with.",Pam,FALSE,0.4215,14
+1,6,12,"Here is Toby from Human Resources. Katy, Toby.",Michael,FALSE,0,8
+1,6,12,Hi,Katy,FALSE,0,1
+1,6,12,"Hi, nice to meet you.",Toby,FALSE,0.4215,5
+1,6,12,"Toby, Katy.",Michael,FALSE,0,2
+1,6,12,"Hey, um did you go to uh, Bishop O'Hara?",Toby,FALSE,0,9
+1,6,12,Yeah.,Katy,FALSE,0.296,1
+1,6,12,"Yeah, me too.",Toby,FALSE,0.296,3
+1,6,12,Cool. What year were you there?,Katy,FALSE,0.3182,6
+1,6,12,Eighty-nine.,Toby,FALSE,0,1
+1,6,12,"Toby's divorced. He uh, guh recently, right?",Michael,FALSE,0,7
+1,6,12,Yeah.,Toby,FALSE,0.296,1
+1,6,12,"You and your wife, and you have kids.",Michael,FALSE,0,8
+1,6,12,A girl.,Toby,FALSE,0,2
+1,6,12,Oh that so - that was really messy. He slept one night in your car too?,Michael,FALSE,-0.4201,16
+1,6,12,[looks resigned],Toby,FALSE,0,2
+1,6,12,I should probably get back to my table.,Katy,FALSE,0,8
+1,6,12,"Okay. Alright. Cool.  See ya in a bit. [looks at picture on Toby's desk] Oh, she's cute.  Cutie-pie. Back to work.",Michael,FALSE,0.802,23
+1,6,13,"I live by one rule. No office romances. No way. Very messy. Inappropriate. No. But, I live by another rule: Just do it. Nike.",Michael,FALSE,-0.7264,24
+1,6,14,"Hey, Jimmy what do you think of that little purse girl, huh?",Roy,FALSE,0,12
+1,6,14,"Cute, sure, yeah.",Jim,FALSE,0.7579,3
+1,6,14,Why don't you get on that?,Roy,FALSE,0,6
+1,6,14,She's not really my type.,Jim,FALSE,0,5
+1,6,14,What are you gay?,Roy,FALSE,0,4
+1,6,14,"Hmmm, I don't think so. Nope.",Jim,FALSE,0,6
+1,6,14,What is your type?,Kevin,FALSE,0,4
+1,6,14,"[glances at Pam] Moms, primarily. Yep. Soccer moms. Single moms. NASCAR moms. Any type of moms, really.",Jim,FALSE,0.296,17
+1,6,14,That's disgusting.,Roy,FALSE,-0.5267,2
+1,6,14,Stay away from my mom.,Kevin,FALSE,0,5
+1,6,14,"Too late, Kev.",Jim,FALSE,0,3
+1,6,14,"[Katy walks through breakroom] Man, I would be all over that if I wasn't dating Pam.",Roy,FALSE,0,16
+1,6,14,"We're not dating, we're engaged.",Pam,FALSE,-0.3089,5
+1,6,14,"Engaged, yeah.",Roy,FALSE,0.5994,2
+1,6,15,"Pam and I are good buddies.  I'm sort of Pam's go-to guy for her problems. You know with stuff like work, or uh, her fiance Roy. Or uh... Nope, those are pretty much her only two problems.",Jim,FALSE,-0.3875,38
+1,6,16,She'd be perfect for you.,Jim,FALSE,0.5719,5
+1,6,16,Hmmm... she's been talking to Michael a lot.,Dwight,FALSE,0,8
+1,6,16,"So, what? You're Assistant Regional Manager.",Jim,FALSE,0,6
+1,6,16,Assistant to the Regional Manager.,Dwight,FALSE,0,5
+1,6,16,"Well, you know what Dwight? He's your work boss, okay? He is not your relationship boss.",Jim,FALSE,0.5204,16
+1,6,16,That's true.,Dwight,FALSE,0.4215,2
+1,6,16,"Plus you have so much more to talk to this girl about, You're both um, salesmen. I mean that's something right there.",Jim,FALSE,0,22
+1,6,16,True. Plus I can talk to her about the origins of my last name.,Dwight,FALSE,0.4215,14
+1,6,16,It's all gold.,Jim,FALSE,0,3
+1,6,17,"Guys are usually my best customers, they buy the high end stuff like the beads and the sequins and stuff. For gifts, you know?  They don't know what they are looking at. So I make suggestions.",Katy,FALSE,0.7717,37
+1,6,18,"Alright. Here's the thing okay, you just keep talking to her.  If you hit a stall you have a perfect fall back.",Jim,FALSE,0.7003,23
+1,6,18,What's that?,Dwight,FALSE,0,2
+1,6,18,You buy a purse.,Jim,FALSE,0,4
+1,6,18,I don't want a purse. Purses are for girls.,Dwight,FALSE,-0.0572,9
+1,6,18,"Dwight, that's not necessarily true. Do you read GQ?",Jim,FALSE,-0.3252,9
+1,6,18,No.,Dwight,FALSE,-0.296,1
+1,6,18,"Okay, I do. There like mini briefcases, alright?  Lots of guys have them.",Jim,FALSE,0.6597,14
+1,6,18,Like those?,Dwight,FALSE,0.3612,2
+1,6,18,"Yes. Listen, you are spending way too much time talking to me, when you could be talking to her.",Jim,FALSE,0.4019,19
+1,6,18,"Okay, I'm just going to use the bathroom, and then I'm going...",Dwight,FALSE,0.2263,12
+1,6,18,No. You don't need the bathroom. You've got it. Go.,Jim,FALSE,-0.296,10
+1,6,19,"Okay, shhhh stop... stop whatever you're doing because this is going to be good.",Jim,FALSE,0.3818,14
+1,6,19,[smiles],Pam,FALSE,0,1
+1,6,19,"[mimicing Dwight in high-falsetto voice] Hi my name's Dwight Schrute and I would like to buy a purse from you. Good lord, look at these purses! This is something special. Oh my God is this Salvatore Di-chini-asta?",Jim,FALSE,0.8588,37
+1,6,19,"[mimicing Katy] Oh definitely, definitely step in and out of it like that.",Pam,FALSE,0.7845,13
+1,6,19,"Yes, well I want to stress test it. You know, in case anything happens.",Jim,FALSE,0.3182,14
+1,6,19,Oh!,Pam,FALSE,0,1
+1,6,19,Oh! That was really. [Dwight hits purse against table] This is necessary to do to really give it a good workout. This is the ooooh... This is the prettiest one of all.,Jim,FALSE,0.7995,32
+1,6,19,Oh...,Pam,FALSE,0,1
+1,6,19,"I'm going to be the prettiest girl in the ball.  Oh, how much?",Jim,FALSE,0.5719,14
+1,6,19,"Oh, God. It's sad. It's so sad.",Pam,FALSE,-0.6249,7
+1,6,19,"[whispering] Here he comes, shhh...",Jim,FALSE,0,5
+1,6,19,[gives Dwight a thumbs-up - mouths the word] Good.,Jim,FALSE,0.4404,9
+1,6,19,[smiles in agreement],Pam,FALSE,0,3
+1,6,19,He did pick a good one.,Jim,FALSE,0.4404,6
+1,6,19,You're horrible.,Pam,FALSE,-0.5423,2
+1,6,20,This one's really good for a hot date.,Katy,FALSE,0.4927,8
+1,6,20,"Yeah, what's that?",Pam,FALSE,0.296,3
+1,6,20,[laughs],Katy,FALSE,0,1
+1,6,20,I'm engaged. So...,Pam,FALSE,0.4019,3
+1,6,20,Congratulations.  You need a hot date more than anyone.,Katy,FALSE,0.5994,10
+1,6,20,"I wished, right?",Pam,FALSE,0,3
+1,6,20,"Giggle-giggle, juji-juji, I get it, I get it. Divine Secrets of the Ya Ya Sisterhood over here right?  [to Katy] So how's that uh, coffee from earlier?",Michael,FALSE,0.6072,28
+1,6,20,Good.,Katy,FALSE,0.4404,1
+1,6,20,"Ah, I knew it. Guzzled it down. You greedy little thing.  So, uh, Pam is this your lunch break, or was that earlier when you were eating in the kitchen with those guys?",Michael,FALSE,-0.3182,34
+1,6,20,[whispers] Sorry.,Katy,FALSE,-0.0772,2
+1,6,20,Busted.,Michael,FALSE,0,1
+1,6,20,[to Pam] Come back...,Katy,FALSE,0,4
+1,6,20,"Oh hey, I want to show you something. Come here I want to show you something.  I know you are going to like this. Picked it up today. A thousand big ones.",Michael,FALSE,0.4767,33
+1,6,20,Is that from Starbucks?,Katy,FALSE,0,4
+1,6,20,Yes. This is a Starbucks digital barista. This is the mack daddy of espresso makers.,Michael,FALSE,0.4019,15
+1,6,20,Wow. Is that for the office?,Katy,FALSE,0.5859,6
+1,6,20,"Oh, I know what you're thinking. You're not prying this out of my hands, but don't tempt me because I'll give it to you!",Michael,FALSE,0,24
+1,6,20,I wouldn't think of it.,Katy,FALSE,0,5
+1,6,21,"Coffee is the great incentivizer in the office. It's a drug. It is quite literally a drug that speeds people up. It's not the only drug that speeds people up. You hear stories about Dunder Mifflin in the eighties before everybody knew how bad cocaine was. Guh. Man, did they move paper!",Michael,FALSE,0.2244,52
+1,6,22,"[Katy reading text message on her phone] Oh the rotating um, steam wand. [Katy looks annoyed] What? What's the matter?",Michael,FALSE,0.1179,20
+1,6,22,"Oh, nothing.  My ride just bailed on me.",Katy,FALSE,0,9
+1,6,22,"Oh, oh! God. I'm sorry. Is there...?",Michael,FALSE,0.2714,7
+1,6,22,"Oh no, it's um...",Katy,FALSE,-0.296,4
+1,6,22,Where you going? Nearby? Because I can give you a ride.,Michael,FALSE,0,11
+1,6,22,No...,Katy,FALSE,0,1
+1,6,22,"Seriously. No, really.",Michael,FALSE,-0.4404,3
+1,6,22,No. I really don't want to inconvenience you.,Katy,FALSE,-0.1507,8
+1,6,22,"God! No, no, no, no. No inconvenience. I mean I'm out of here at five sharp.",Michael,FALSE,-0.8655,16
+1,6,22,At five?,Katy,FALSE,0,2
+1,6,22,"I can go earlier. 'Cause I'm the boss. You know, whatever. I'm out of here slaves.",Michael,FALSE,0,16
+1,6,22,Okay.,Katy,FALSE,0.2263,1
+1,6,22,What?,Michael,FALSE,0,1
+1,6,22,"Okay, I guess that would be, I guess that would be okay.",Katy,FALSE,0.4215,12
+1,6,22,Okay. Sounds good. Sounds good.  Five o'clock sharp.  I will give you and your purses a ride home.,Michael,FALSE,0.7717,20
+1,6,22,Okay. Cool.,Katy,FALSE,0.4939,2
+1,6,22,Excellent.,Michael,FALSE,0.5719,1
+1,6,22,Cool.,Katy,FALSE,0.3182,1
+1,6,22,"Great. Cool. Cool. [takes deep breath - looks at camera] Yeah, okay.",Michael,FALSE,0.8957,12
+1,6,23,I should have never let the Temp touch this thing. I had all these great icons and now I have four folders. So..,Michael,FALSE,0.6249,23
+1,6,23,It's actually better this way.,Dwight,FALSE,0.4404,5
+1,6,23,No it's not. Because I could just click on the icon and then I'm onto---,Michael,FALSE,-0.296,15
+1,6,23,Michael could I ask you something? I wanted to ask your permission to ask out Katy. I know it's against the rules and everything. Because...,Dwight,FALSE,0,25
+1,6,23,"No, no, no it's not against the rules.  She's not a permanent employee so it's not.",Michael,FALSE,-0.6808,17
+1,6,23,"Thank you, Michael. I appreciate this so much.",Dwight,FALSE,0.6369,8
+1,6,23,But I think you should just know that I am going to be giving her a ride home later.,Michael,FALSE,0.34,19
+1,6,23,What?,Dwight,FALSE,0,1
+1,6,23,She asked me for a ride and so I am going to give her a ride home.,Michael,FALSE,0,17
+1,6,23,Is that all it is? Just a ride home? Like a taxicab?,Dwight,FALSE,0.466,12
+1,6,23,"Well, might be a ride home.  Might be a ride home and we stop for coffee and dot-dot-dot...",Michael,FALSE,-0.0258,19
+1,6,23,"Please. Please, I am your inferior and I'm asking you this favor. Can you promise me that it will just be a ride home?",Dwight,FALSE,0.745,24
+1,6,23,No. I cannot promise you that.,Michael,FALSE,-0.4874,6
+1,6,23,"You cannot promise me, or you won't promise me?",Dwight,FALSE,-0.4449,9
+1,6,23,"Listen, Dwight.",Michael,FALSE,0,2
+1,6,23,Do you love her?,Dwight,FALSE,0.6369,4
+1,6,23,"[laughs] Dwight, no. I don't know. It's too early to tell. I don't know how I feel. [Dwight sadly looks away]",Michael,FALSE,-0.6124,21
+1,6,24,"I think you've made a really good choice, she's really going to like that.",Katy,FALSE,0.7146,14
+1,6,24,Hmmm...,Stanley,FALSE,0,1
+1,6,24,Espresso?,Michael,FALSE,0,1
+1,6,24,"Oh, thank you.",Katy,FALSE,0.3612,3
+1,6,24,You're welcome. Thank you.  Hmmm-hmm-hmm.,Michael,FALSE,0.6705,6
+1,6,24,Is that from the machine that was in your office?,Stanley,FALSE,0,10
+1,6,24,Ummm-hmmm...,Michael,FALSE,0,1
+1,6,24,I thought that was the incentive prize for the top salesperson.,Stanley,FALSE,0.765,11
+1,6,24,Very easy to clean.,Michael,FALSE,0.7316,4
+1,6,24,"Okay. Like he's going to win anyway, right? [laughs]",Michael,FALSE,0.802,9
+1,6,25,Did we get any mail?,Michael,FALSE,0,5
+1,6,25,"Yeah, I gave it to you.",Pam,FALSE,0.296,6
+1,6,25,"Yes you did. Yes, you did. Just checkin'. Just checkin', double checkin', checkin' on the check. Thoroughness is very important in an office and...",Michael,FALSE,0.7574,24
+1,6,25,"So, can I..? [points to the door]",Pam,FALSE,0,7
+1,6,25,"Yeah, yeah, of course. Uh, Pam, one more thing. Um, how do girls your age feel about futons?",Michael,FALSE,0.5267,18
+1,6,26,A futon?,Jim,FALSE,0,2
+1,6,26,[nods],Pam,FALSE,0,1
+1,6,26,He's a grown man,Jim,FALSE,0,4
+1,6,26,That's what he said.,Pam,FALSE,0,4
+1,6,26,"That's sad. Or it's innovative. Well, you know the futon is a bed and couch all rolled into one. [Jim sees Roy and trails off]",Jim,FALSE,0.2263,25
+1,6,26,What's up?,Roy,FALSE,0,2
+1,6,26,[not looking at Roy] Hi.,Pam,FALSE,0,5
+1,6,26,Are you still mad at me?,Roy,FALSE,-0.4939,6
+1,6,26,Roy...,Pam,FALSE,0,1
+1,6,26,Come on [begins to tickle Pam],Roy,FALSE,0,6
+1,6,26,Cut it out.,Pam,FALSE,-0.2732,3
+1,6,26,"Come on, you mad at me?",Roy,FALSE,-0.4939,6
+1,6,26,Stop it. [laughing],Pam,FALSE,-0.296,3
+1,6,26,Are you still mad at me now?,Roy,FALSE,-0.4939,7
+1,6,26,[giggling] Cut it out.,Pam,FALSE,-0.2732,4
+1,6,26,Are you mad at me now?,Roy,FALSE,-0.4939,6
+1,6,26,Stop. [giggling],Pam,FALSE,-0.296,2
+1,6,26,"Huh? huh?  Come on... Come on, Pammy I was just kidding.",Roy,FALSE,0.1926,12
+1,6,26,"[breathless] Stop, I can't breathe.",Pam,FALSE,-0.296,5
+1,6,26,I was just kidding.  You know I didn't mean it. I can't...,Roy,FALSE,0.1027,13
+1,6,27,Jim is a great guy. He's like a brother to me.  We're like best friends in the office and I really hope he finds someone.,Pam,FALSE,0.9617,26
+1,6,28,You seem to like to touch things. Did you try the velvet?,Katy,FALSE,0.3612,12
+1,6,28,I don't like to necessarily touch things. I'm just... I'm shopping.,Angela,FALSE,-0.2755,11
+1,6,28,"Oh no, it's fine that you, um. Here, what about the raspberry one? It's really uh, kind of festive. It's got a lot of personality.",Katy,FALSE,0.3197,25
+1,6,28,"Yeah, uh no.",Angela,FALSE,0,3
+1,6,28,"Hey, how's it going?  Good. Can I talk to you for a second? In private?",Dwight,FALSE,0.533,16
+1,6,28,I don't think so I'm really busy.,Katy,FALSE,0,7
+1,6,28,It will just take a second.,Dwight,FALSE,0,6
+1,6,28,I can't.,Katy,FALSE,0,2
+1,6,28,Just for a minute.,Dwight,FALSE,0,4
+1,6,28,I really can't.,Katy,FALSE,0,3
+1,6,28,Please? I wanted to talk to you in private because I wanted to ask you out on a date.,Dwight,FALSE,0.3182,19
+1,6,28,No.,Katy,FALSE,-0.296,1
+1,6,28,"Ok was that no to talking to me in private, or was that no to the date?",Dwight,FALSE,-0.296,17
+1,6,28,Both.,Katy,FALSE,0,1
+1,6,28,What colors do you like?,Katy,FALSE,0.3612,5
+1,6,28,Gray. Dark Gray. Charcoal.,Angela,FALSE,0,4
+1,6,29,Ryan.,Michael,FALSE,0,1
+1,6,29,Yeah.,Ryan,FALSE,0.296,1
+1,6,29,Would you like to help me with a special project?,Michael,FALSE,0.7845,10
+1,6,29,I would love to.,Ryan,FALSE,0.6369,4
+1,6,29,Alright.,Michael,FALSE,0.25,1
+1,6,30,"[in Michael's car] Okay, just throw out all the empties.",Michael,FALSE,0.0516,10
+1,6,30,You don't want to recycle them?,Ryan,FALSE,-0.0572,6
+1,6,30,"Um, yes. Throw them away in the recycling bin.",Michael,FALSE,0.4019,9
+1,6,30,Do you want this? [holding a full bottle of water],Ryan,FALSE,0.0772,10
+1,6,30,No.,Michael,FALSE,-0.296,1
+1,6,30,What about this bottle of power drink?,Ryan,FALSE,0,7
+1,6,30,"Uh, what flavor?",Michael,FALSE,0,3
+1,6,30,Blue.,Ryan,FALSE,0,1
+1,6,30,Blue's not a flavor.,Michael,FALSE,0,4
+1,6,30,It says flavor: Blue Blast.,Ryan,FALSE,0,5
+1,6,30,"Oh, Blue Blast. Yes, put that in the trunk, and there should be an unopened Arctic Chill back there. I want that in the passengers cupholder. Thank you.",Michael,FALSE,0.6705,28
+1,6,31,Hi.,Jim,FALSE,0,1
+1,6,31,Hi.,Katy,FALSE,0,1
+1,6,31,"I'm Jim, by the way.",Jim,FALSE,0,5
+1,6,31,I'm Katy.,Katy,FALSE,0,2
+1,6,31,"Hi Katy, nice to meet you.",Jim,FALSE,0.4215,6
+1,6,31,"You sit out there, don't you?",Katy,FALSE,0,6
+1,6,31,"I do. That's what I'm best known for. Sitting out there. Alright, let's talk about purses.",Jim,FALSE,0.7351,16
+1,6,31,"Okay, um...",Katy,FALSE,0.2263,2
+1,6,31,"Katy but you know what, don't try to sell me one. Okay, seriously 'cause I'm just here to learn.",Jim,FALSE,0.0772,19
+1,6,31,Okay. [laughs],Katy,FALSE,0.2263,2
+1,6,31,"Okay, so I know about most of these, but you know you can...",Jim,FALSE,0.1154,13
+1,6,31,Okay.,Katy,FALSE,0.2263,1
+1,6,32,"What, stop! Whoa! That's my Drakkar Noir.",Michael,FALSE,-0.4184,7
+1,6,32,"No, this is Rite Aid Night Swept.",Ryan,FALSE,-0.296,7
+1,6,32,"No, it is a perfect smell-alike. I'm not paying for the label. Right here. Give it.",Michael,FALSE,0.3612,16
+1,6,32,"Well, it's empty.",Ryan,FALSE,0.0772,3
+1,6,32,"Not it's not, there's some in the straw. [Michael opens bottle and wipes straw along his neck] There, now you may throw it out.",Michael,FALSE,0,24
+1,6,32,Wow. How many filet-o-fishes did you eat?,Ryan,FALSE,0.5859,7
+1,6,32,"That's over several months, Ryan.",Michael,FALSE,0,5
+1,6,32,[Under his breath] Still.,Ryan,FALSE,0,4
+1,6,33,What's up?,Jim,FALSE,0,2
+1,6,33,I'm bored.,Pam,FALSE,-0.2732,2
+1,6,33,Thank you for choosing me.,Jim,FALSE,0.3612,5
+1,6,33,"No, I'm kidding. Um, so you got big plans this weekend?",Pam,FALSE,-0.2023,11
+1,6,33,"Ah, well I think I'm gonna see Katy.",Jim,FALSE,0.2732,8
+1,6,33,Really?,Pam,FALSE,0,1
+1,6,33,Yeah.,Jim,FALSE,0.296,1
+1,6,33,What are you guys going to do?,Pam,FALSE,0,7
+1,6,33,"Oh, man I don't know. Uh, dinner, drinks, movie, matching tattoos.",Jim,FALSE,0,11
+1,6,33,That's great.,Pam,FALSE,0.6249,2
+1,6,33,And stuff... yeah.,Jim,FALSE,0.296,3
+1,6,33,That's cool.,Pam,FALSE,0.3182,2
+1,6,33,What are you doing?,Jim,FALSE,0,4
+1,6,33,"I, I was gonna say, I think that um, we're gonna help Roy's cousin move.",Pam,FALSE,0.4019,15
+1,6,33,Okay.,Jim,FALSE,0.2263,1
+1,6,33,Cause Roy's got a truck.,Pam,FALSE,0,5
+1,6,33,That's cool.,Jim,FALSE,0.3182,2
+1,6,33,"Uh, huh. Yes.",Pam,FALSE,0.4019,3
+1,6,33,"That is cool. Well, I'll see you Monday though, right?",Jim,FALSE,0.5267,10
+1,6,33,Great.,Pam,FALSE,0.6249,1
+1,6,33,Okay.,Jim,FALSE,0.2263,1
+1,6,33,"Okay, I'm gonna head back.",Pam,FALSE,0.2263,5
+1,6,33,Alright.,Jim,FALSE,0.25,1
+1,6,34,"I think in order to be a ladies man, it's imperative that people don't know you're a ladies man, so I kind of play that close to the chest. I don't know, what can I say? Women are attracted to power. And I think other people have told me that I have a very symmetrical face. [laughs] I don't know. I don't know. Maybe they're right?  I don't know.",Michael,FALSE,0.6737,70
+1,6,35,Sure you don't want me to help you with that?  Cause I can grab that no problem.,Michael,FALSE,-0.0315,18
+1,6,35,"Goodnight, it was nice nice to meet some of you.",Katy,FALSE,0.6808,10
+1,6,35,"See you later. Goodnight. Goodnight, Jim.",Michael,FALSE,0,6
+1,6,35,"Goodnight, Michael.",Jim,FALSE,0,2
+1,6,35,Where you going?,Michael,FALSE,0,3
+1,6,35,"I don't know. Grab a drink, I think?",Jim,FALSE,0,8
+1,6,35,With us?,Michael,FALSE,0,2
+1,6,35,"I uh, I probably should have told you, I don't need a ride now 'cause Jim can take me home after so you're off the hook.",Katy,FALSE,0,26
+1,6,35,"Okay. Great. Off the hook. Excellent. Okay, cool.",Michael,FALSE,0.9169,8
+1,6,35,I got this. [taking Katy's bag from Michael],Jim,FALSE,0,8
+1,6,35,"Alright, have fun.",Michael,FALSE,0.6486,3
+1,6,35,Thanks.,Katy,FALSE,0.4404,1
+1,6,35,I got it.,Jim,FALSE,0,3
+1,6,35,Don't drink and drive.,Michael,FALSE,0,4
+1,6,35,Take it easy.,Michael,FALSE,0.4404,3
+1,6,35,Have a good night.,Jim,FALSE,0.4404,4
+1,6,35,"You too, have a good night.",Michael,FALSE,0.4404,6
+1,6,35,You got that?,Katy,FALSE,0,3
+1,6,35,"Oh, yeah. You sold a lot, so it's lighter.",Jim,FALSE,0.296,9
+1,6,35,Good. Here. Squeeze it inside.,Katy,FALSE,0.4404,5
+1,6,35,"Alright now, I'm gonna warn you. Don't freak out, okay?",Jim,FALSE,0.327,10
+1,6,35,Why?,Katy,FALSE,0,1
+1,6,35,"This is a really nice car. In case you haven't noticed, this is a Corolla. Okay.",Jim,FALSE,0.6115,16
+1,6,35,It's a... it's a very nice car.,Katy,FALSE,0.4754,7
+1,6,35,You're not going to freak out?,Jim,FALSE,0.3412,6
+1,6,36,"Do I have a special someone?  Uh well, yeah of course. A bunch of 'em. My employees. If I had to choose between a one-night-stand with some stupid cow I pick-up in a bar, and these people? I'd pick them every time.  Because with them, it is an everyday stand and I still know their names in the morning.",Michael,FALSE,0.4515,61
+1,6,37,"The perfect girl for me would be Konikotaka. She has the most amazing story. She was orphaned at age 10 when both her parents were assassinated, and she was taken in by a wealthy, but very cruel, businessman. So she practiced aikido in secret for years until she could avenge the death of her parents. She's also a survivor of monster rape.",Dwight,TRUE,-0.9126,62
+1,6,38,This is really well made. Good stitching. Excellent fabric. [shakes the purse from side to side by it's handle] You sell a lot of these?,Dwight,TRUE,0.8503,25
+1,6,38,"It's very popular, yeah.",Katy,TRUE,0.6779,4
+1,6,38,I knew it. Is it waterproof?,Dwight,TRUE,0,6
+1,6,38,I'm not sure. It's faux snakeskin.,Katy,TRUE,-0.2411,6
+1,6,38,"Snakes are waterproof. So, I'm betting that it's waterproof. Do you know the difference between a snake and an eel?",Dwight,TRUE,0,20
+1,6,38,No.,Katy,TRUE,-0.296,1
+1,6,38,Cause I could look it up real easily.,Dwight,TRUE,0.34,8
+1,6,38,"You're really into reptiles, huh?",Katy,TRUE,0,5
+1,6,38,My belt's made out of alligator. Check it out. [lifts shirt],Dwight,TRUE,0,11
+1,6,38,"Oh, um, it's okay.",Katy,TRUE,0.2263,4
+1,6,38,"Dwight. Dwight. Dwight! Okay, that's it. Keep it in your pants.",Michael,TRUE,0.2942,11
+1,6,38,I was just showing her my belt.,Dwight,TRUE,0,7
+1,6,38,"Well, don't do that. Where are your glasses?",Michael,TRUE,0.2732,8
+1,6,38,I....,Dwight,TRUE,0,1
+1,6,38,He wears glasses. Did you know that?,Michael,TRUE,0,7
+1,6,38,Not all the time.,Dwight,TRUE,0,4
+1,6,38,"Well, now suddenly he can see. [laughs] Okay, take off. See ya. Bye-bye. [gives coffee to Katy] There you go steaming hot cup of joe.",Michael,TRUE,0.4588,25
+1,6,38,Thank you.,Katy,TRUE,0.3612,2
+1,6,38,"Oh, I know your hero. Yeah, saving you from Animal Planet Jack over there. [laughs]",Michael,TRUE,0.7003,15
+1,6,38,"Ha. Yeah, asks a lot of questions.",Katy,TRUE,0.5574,7
+1,6,38,"Yeah, yeah he is the worst.",Michael,TRUE,-0.1779,6
+1,6,39,"What's the um, saying, 'once their laughing they're... that's... Once they're laughing that's 50 percent of them being horizontal. So, not that I'm just... Not that that's my... that's what I'm trying to do, but I think it helps kind of melts the ice. Breaks the ice, melts... Breaks the ice and melts them. Melts their hearts.",Michael,TRUE,0.765,57
+1,6,40,"Thank you, Al Gore... for the Internet. Can send messages from one side the global to the other in the blink of an eye. Can you believe we couldn't do that ten years ago?",Michael,TRUE,0.3612,34
+1,6,40,We could do that ten years ago.,Katy,TRUE,0,7
+1,6,40,"Right, but 20 years ago we couldn't and that is amazing. Here's Toby from Human Resources. This is Katy. Toby, Katy.",Michael,TRUE,0.7351,21
+1,6,40,Hi.,Toby,TRUE,0,1
+1,6,40,Hi.,Katy,TRUE,0,1
+1,6,40,"Hey, did you go to Bishop Ohara?",Toby,TRUE,0,7
+1,6,40,Yeah.,Katy,TRUE,0.296,1
+1,6,40,"Yeah, me too.",Toby,TRUE,0.296,3
+1,6,40,"Cool, what year where you there?",Katy,TRUE,0.3182,6
+1,6,40,89,Toby,TRUE,0,1
+1,6,40,Oh.,Katy,TRUE,0,1
+1,6,40,"[talking over Toby and Katy] Toby's divorced. God, that's hard. That really ripped you up. She got the kids right? That'll damage ya. Sorry man. That's uh, that's a bad one. How much you paying her? What can, you can't even afford anything now, right? You're all right though, right? Don't ask me for a raise. [laughs] Cup of Soup's a good idea though. That'll... that's a good budgetary thing to do.",Michael,TRUE,-0.3527,72
+1,6,40,It's just a snack.,Toby,TRUE,0,4
+1,6,40,"Well, they're good snacks. They're good food, good meals, good lunch. Roman noodles are good too. You still sleepin' in the car?",Michael,TRUE,0.9393,22
+1,6,40,No.,Toby,TRUE,-0.296,1
+1,6,40,Cause he slept in the car a couple times.,Michael,TRUE,0,9
+1,6,40,Just the once.,Toby,TRUE,0,3
+1,6,40,"Are you still taking the antidepressants? 'Cause it was a good idea. 'Cause it'll help. It'll help, man.",Michael,TRUE,0.8074,18
+1,6,40,I'm gonna go back to my table.,Katy,TRUE,0,7
+1,6,40,Okay. I'll see you in a bit. [whispering] She's pretty cute isn't she? See you in a bit.,Michael,TRUE,0.7964,18
+1,6,41,I mean whatever one you want.,Ryan,TRUE,0.0772,6
+1,6,41,"Um, I like that one I think. [Ryan hands her a purse]",Kelly,TRUE,0.3612,12
+1,6,41,"Yeah, I mean, it looks real good, probably.",Ryan,TRUE,0.6249,8
+1,6,42,You know Michael's been talking to her too.,Pam,TRUE,0,8
+1,6,42,"Oh, really?",Jim,TRUE,0,2
+1,6,42,What do you think his chances are?,Pam,TRUE,0.2023,7
+1,6,42,"Well, Pam I'm not gonna lie to you, he's chances are none. Um, he's 41 years old, he is losing his hair and his cell phone ring is 'Mambo #5.' So...",Jim,TRUE,0.0772,31
+1,6,42,[laughs] I like that song.,Pam,TRUE,0.3612,5
+1,6,42,"I don't know though. I mean, you know that was a hit.",Jim,TRUE,0,12
+1,6,42,[laughs] 10 years ago.,Pam,TRUE,0,4
+1,6,42,"Yeah, was it 10? Yeah, I have it on a mix tape from junior high.",Jim,TRUE,0.5267,15
+1,6,43,Went well?,Jim,TRUE,0.2732,2
+1,6,43,I think it did.,Dwight,TRUE,0,4
+1,6,43,"You know what, just in case she's looking you should put some stuff in it.",Jim,TRUE,0,15
+1,6,43,Seriously?,Dwight,TRUE,-0.1779,1
+1,6,43,Anything. [Dwight begins to fill his new purse] Good. Yup.,Jim,TRUE,0.4404,10
+1,6,43,What else?,Dwight,TRUE,0,2
+1,6,43,"Post-it Notes. Wow, that purse holds a lot.",Jim,TRUE,0.5859,8
+1,6,43,It's a mini-briefcase.,Dwight,TRUE,0,3
+1,6,43,"Yeah, oh, I know. Looks great. [Dwight throws the purse over his right shoulder and gets back to work]",Jim,TRUE,0.743,19
+1,6,44,Do you like Steve Miller?,Kevin,TRUE,0.3612,5
+1,6,44,No.,Katy,TRUE,-0.296,1
+1,6,44,Cause I'm in a Steve Miller Tribute... Tribute Band.,Kevin,TRUE,0,9
+1,6,45,"Hey, Dwight. I need your stapler.",Jim,TRUE,0,6
+1,6,45,It's in my purse.,Dwight,TRUE,0,4
+1,6,45,"Oh, great thanks.",Jim,TRUE,0.7906,3
+1,6,46,"Let me describe the perfect date. I take her out to a nice dinner. She looks amazing. Some guy tries to hit on her. Uh, now he wants to fight. So I grab him. I throw him into a jukebox. Then the other ninja's got a knife. He comes at me. We grapple. I turn his knife on him. Blood on the dance floor. She's scared now, I take her home. I'm holding her in my arms. I reach in for a kiss. I hear something in the leaves. I flip her around. She gets a poison arrow right in her back. She was in on it the whole time. But, I knew.",Dwight,TRUE,0.6369,113
+1,6,47,"All right. That's looking good. Hey um, Ryan do you have any music I can borrow.",Michael,TRUE,0.4404,16
+1,6,47,What kind do you like?,Ryan,TRUE,0.7096,5
+1,6,47,"Ah, I know, everything really. I love it all. I love music.",Michael,TRUE,0.8746,12
+1,6,47,"Okay, do you  like hip-hop? Do you like indie rock?",Ryan,TRUE,0.7399,11
+1,6,47,"Yes, I love both of those so much. A lot of 'em.",Michael,TRUE,0.7845,12
+1,6,47,Okay. Do you like The Strokes?,Ryan,TRUE,0.5267,6
+1,6,47,Mmm hmm. I like 'em.,Michael,TRUE,0.3612,5
+1,6,47,Do you like The Hives?,Ryan,TRUE,0.3612,5
+1,6,47,Yes. God. They're awesome.,Michael,TRUE,0.836,4
+1,6,47,"You like the Fleebulls, The Glorps?",Ryan,TRUE,0.3612,6
+1,6,47,Uh huh. Yup. That last thing they did was great.,Michael,TRUE,0.6249,10
+1,6,47,"Yeah, I had a feeling you would like those.",Ryan,TRUE,0.6369,9
+1,6,47,"Cool, so maybe hook me up  with some Fleebulls and some Hive.",Michael,TRUE,0.3182,13
+1,6,47,Absolutely.,Ryan,TRUE,0,1
+1,6,47,All right. This is gonna be good.,Michael,TRUE,0.4404,7
+1,6,48,"Hi, here you can have this. [Dwight gives Kelly his purse] It's a mini-briefcase, but you can use it as a purse.",Dwight,TRUE,0,22
+1,6,48,"Uh, thank you.",Kelly,TRUE,0.3612,3

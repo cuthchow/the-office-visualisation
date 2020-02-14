@@ -1,0 +1,110 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script type = 'text/javascript' src = 'd3.js'></script>
+
+    <style>
+        .tooltip {
+            position: absolute;
+            width: 400px;
+            height: auto;
+            padding: 10px;
+            background-color: white
+        }
+
+        .hidden {
+            display: none
+        }
+
+    </style>
+</head>
+<body>
+    <svg width = '2000px' height = '1000px'></svg>
+    <div class="tooltip hidden">
+
+    </div>
+    <script type = 'text/javascript'>
+        
+
+
+        //Have to use the .then() async style since D3 v5
+        //This line gets the data from csv asynchronously
+        //The function (in the 2nd arg) preprocesses the data, converting numbers into floats
+        //After promise resolves, data is stored in global variable named dataset
+        //All functions using that data are run in the .then() to ensure the data is available
+
+        let dataset 
+
+        d3.csv('test.csv', function(d){
+            return {
+                season: +d.season,
+                episode: +d.episode,
+                scene: +d.scene,
+                text: d.line_text,
+                speaker: d.speaker,
+                sentiment: +d.sentiment,
+                length: +d.length,
+                deleted: d.deleted
+            };
+        }).then(data => {
+            dataset = data
+            draw()
+        })
+
+        function draw(){
+            // INITIALISATION OF SCALES //
+            let sizeScale = d3.scaleLinear(d3.extent(dataset, d => d.length), [3, 11])
+            let charScale = d3.scaleSequential(d3.interpolateInferno).domain([-1, 1])
+
+            let force = d3.forceSimulation(dataset)
+                .force('charge', d3.forceManyBody().strength([1]))
+                .force('collide', d3.forceCollide(d => sizeScale(d.length) + 2).strength([2]))
+                .force('forceX', d3.forceX(d => d.episode * 250).strength(.5))
+                .force('forceY', d3.forceY([300]).strength(.3))
+
+            force.on('tick', () => {
+                nodes.attr('cx', d => d.x)
+                    .attr('cy', d => d.y)
+            })
+           
+            let nodes = d3.select('svg').selectAll('circle')
+                .data(dataset).enter()
+                .append('circle')
+                    .attr('cx', 200)
+                    .attr('cy', 200)
+                    .attr('r', d => sizeScale(d.length))
+                    .attr('fill', d => {
+                            if (d.deleted === "TRUE"){
+                                return 'white'
+                            } else {
+                                return charScale(d.sentiment)
+                            }
+                        })
+                    .on('mouseover', (d, i) => {
+                        let xPosition = d.x
+                        let yPosition = d.y
+                        let tooltip = d3.select('.tooltip')
+                            .style('left', xPosition + 'px' )
+                            .style('top', yPosition + 'px' )
+                            .text(`"${d.text}" - ${d.speaker}`)
+                            .classed('hidden', false)
+                        console.log(tooltip)
+                    })
+                    .on('mouseout', () => {
+                        d3.select('.tooltip').classed('hidden', true);
+                    })
+
+            d3.timeout(changeForces, 5000);
+
+            function changeForces(){
+                force
+                    .force('forceX', d3.forceX(d => d.sentiment * 500 + 500).strength(.9))
+                    .force('forceY', d3.forceY(d => d.episode * 180 - 100).strength(.7))
+            }
+        }
+
+    </script>
+    
+</body>
+</html>
