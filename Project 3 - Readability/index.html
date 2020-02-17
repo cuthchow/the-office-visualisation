@@ -1,0 +1,59 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style></style>
+    <script type = 'text/javascript' src = 'd3.js'></script>
+    <script type = 'text/javascript' src = 'https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.js'></script>
+    <script type = 'text/javascript' src = 'https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.1.0/chroma.min.js'></script>
+    <!-- <script type = 'text/javascript' src = 'script.js'></script> -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+    <script>
+        dataset = [
+            {name: "Michael", value: 100},
+            {name: "Pam", value: 200},
+            {name: "Jim", value: 300}
+        ]
+
+        arc= d3.arc()
+            .innerRadius((d, i) => (i+1)* 50)
+            .outerRadius((d, i) => (i+1)*50 + 30)
+            .startAngle(0)
+            .endAngle(3)
+
+        let w = 500
+        let h = 500
+        
+        function thing(){
+
+            let svg = d3.select('body')
+                .append('svg')
+                .attr('width', w)
+                .attr('height', h)
+                .attr('stroke', 'black')
+                .attr('stroke-width', 5)
+
+            
+            svg.append('g')
+                .attr('transform', 'translate(200, 200)')
+                .selectAll('path')
+                .data(dataset).enter().append('path')
+                    .attr('d', arc)
+                    .attr('fill', 'red')  
+                    .on('mouseover', function(d, i){
+                        this.append('text')
+                    }) 
+        }
+
+        thing()
+
+    </script>
+    
+
+    
+</body>
+</html>
