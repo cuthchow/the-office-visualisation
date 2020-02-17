@@ -104,7 +104,7 @@
                         
                         tooltip.select('#quotemeta').text(`Scene ${d.scene} of Episode ${d.episode}`)
                         tooltip.select('#quote').text(`"${d.text}" - ${d.speaker}`)
-                        tooltip.select('img').attr('src', `/img/${d.speaker}.png`)
+                        tooltip.select('img').attr('src', `https://github.com/cuthchow/the-office-visualisation/tree/master/img/{d.speaker}.png`)
                                             .attr('border', `2px solid ${charScale(d.speaker)}`)
                     })
                     .on('mouseout', function(d) {
