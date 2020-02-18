@@ -108,4 +108,6 @@ button:hover {
 
 a {
     color: rgb(231, 109, 193);
+    text-decoration: underline;
+    text-decoration-style: wavy;
 }
