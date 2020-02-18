@@ -53,17 +53,32 @@ body {
     align-items: center;
 }
 
-h1 {
-    font-size: 50px;
-    text-align: center;
-    width: 70%
+.commentary::before {
+    content: '';
+    width: 3rem;
+    border-top: 3px solid #15425f;
+    opacity: 0.5;
 }
+
+h1 {
+    font-size:  70px;
+    text-align: center;
+    color: rgb(244, 187, 64);
+    line-height:0.7em;
+}
+
+h2 {
+    font-size: 35px;
+    text-align: center;
+    width: 50%
+}
+
 
 p {
     width: 70%;
     margin: auto;
     padding: 20px;
-    font-size: 1.5em;
+    font-size: 1.3em;
     text-align: justify;
     line-height: 1.5em;
 }
@@ -107,7 +122,7 @@ button:hover {
 }
 
 a {
-    color: rgb(231, 109, 193);
+    color:  rgb(237, 181, 59);
     text-decoration: underline;
     text-decoration-style: wavy;
 }
