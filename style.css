@@ -1,0 +1,111 @@
+.bar {
+    transition: opacity 0.3s;
+    opacity: 0.9
+}
+
+.bar:hover {
+    opacity: 0.6;
+    stroke-width: 2;
+}
+
+.speaker{
+    stroke-width: 0;
+}
+
+.axis {
+    stroke-opacity: 0.5;
+}
+
+.axis circle {
+    fill: none;
+    stroke-opacity: 0.5;
+}
+
+.tooltip {
+    position: absolute;
+    display: none;
+    background: rgba(0, 0, 0, .7);
+    border-radius: 3px;
+    box-shadow: -3px 3px 15px #939393;
+    color: white;
+    padding: 6px;
+    font-size: 1.3em;
+}
+
+svg {
+
+}
+
+body {
+    font-family: monospace;
+    display: flex;
+    background-color: rgb(231, 238, 238);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.commentary {
+    width: 50%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    width: 70%
+}
+
+p {
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    font-size: 1.5em;
+    text-align: justify;
+    line-height: 1.5em;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    background: none;
+    font-size:1.5em;
+    font-family: monospace;
+    border: 1px solid black;
+    color: black;
+    border-radius: 10px;
+    transition: background-color 0.5s;
+}
+
+button:focus {
+    outline: none;
+    border: none;
+}
+
+.selected_button {
+    background-color: black;
+    color: white;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}
+
+#sentiment_lines {
+    width: 950px;
+    height: 900px;
+}
+
+.line, .meanline {
+    stroke-width: 2px;
+    stroke: black;
+    opacity: 0.5;
+}
+
+a {
+    color: rgb(231, 109, 193);
+}

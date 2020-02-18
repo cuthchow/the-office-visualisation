@@ -2,88 +2,87 @@
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
+    <style></style>
     <script type = 'text/javascript' src = 'd3.js'></script>
     <script type = 'text/javascript' src = 'https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.js'></script>
-    <script type = 'text/javascript' src = 'script.js'></script>
+    <script type = 'text/javascript' src = 'https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.1.0/chroma.min.js'></script>
+    <!-- <script type = 'text/javascript' src = 'script.js'></script> -->
+    <link rel="stylesheet" href="style.css">
+    <script src = 'script1.js'></script>
+    <script src = 'script2.js'></script>
 
-    <style>
-        #tooltip {
-            position: absolute;
-            width: 400px;
-            height: auto;
-            padding: 10px;
-            background-color: white;
-            border: 1px solid black;
-        }
-
-        #quote {
-            font-family: monospace;
-            font-size: 14px;
-        }
-
-        #quotemeta{
-            font-family: sans-serif;
-            font-size: 12px;
-        }
-
-        #tooltip img {
-            width: 50px;
-            height: 50px;
-            border-radius: 100%;
-        }
-
-        h1 {
-            font-family: monospace;
-        }
-
-        .hidden {
-            display: none
-        }
-
-        span {
-            width: 300px;
-            display: inline-block;
-        }
-
-        svg {
-            display: inline-block;
-        }
-
-        #menu {
-            display: inline-block;
-            margin-top: 0px;
-            border: 1px solid black;
-            width: 400px;
-            height: auto;
-        }
-
-        #menu button {
-            width: 150px;
-            height: 100px;
-            font-size: 20px;
-        }
-
-        #container {
-            display: flex;
-        }
-
-
-
-    </style>
 </head>
 <body>
-<h1>Season One of "The Office"</h1>
-    <audio controls>
-        <source src = 'audio/song.mp3', type = 'audio/mpeg'>
-    </audio>
-    <div id="container">
-        <svg width = '1700px' height = '1000px'></svg>
+
+
+    <div class = 'commentary'>
+        <h1>
+            Who is the Smartest Person in The Office?
+        </h1>
+        <p>
+            Ever wondered who the smartest character on "The Office" is? Oscar Martinez was once widely regarded as the smartest
+            person in the office, that is, until his position was 'uslurped' by none other than Michael Scott. Michael Scott had bested Oscar
+            by demonstrating his wide ranging knowledge of current affairs and the rising urbanisation in China.
+            <br><br>
+            Despite the heated debate which followed between the two great minds, the title of 'smartest in the office' remains up for grabs.
+            I decided to settle this debate once and for all, by conducting a lexical analysis of all the times the characters spoke on camera,
+            and assessing the intellectual level of their speech, using the Flesch-Kincaid grade level test. The test roughly equates the complexity
+            of their speech to a 'grade-level', and will give use a rough guide as to who speaks with the greatest intellect. 
+
+        </p>
+        <button onclick = 'run()' id = 'b1'>
+            Reveal Results
+        </button>
     </div>
-    <div id="tooltip" class = "hidden">
-        <p id = 'quote'></p>
-        <p id = 'quotemeta'></p>
-        <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/MichaelScott.png" alt="">
+
+    <svg id = 'radial_bar' width = '1400' height = '1000'></svg>
+
+    <div class = 'commentary'>
+        <p>
+            Based on this analysis, it seems that David Wallace is in fact the smartest character on The Office. This is not surprising, considering
+            after all that this is the man who founded 'Suck It', and led Dunder Mifflin to some of their most profitable quarters
+            <br><br>
+            Unfortunately, it seems that Darryl is at the very bottom of this list. I found this quite surprising considering that this is the man
+            who brought to us phrases such as 'Dinkin' flicka' and 'going mach five', not to mention the inspiration inducing <a href = 'https://www.youtube.com/watch?v=hyA9sjgIvts'>'pippity poppity, give me the zoppity'.</a>
+            <br><br>
+            At least one thing is for sure: Michael is DEFINITELY smarter than Oscar. Suck it Oscar.
+            <br><br>
+        </p>
+
+        <h1>
+            Who is the Most Positive in the Office?
+        </h1>
+        <p>
+            Now we know who the smartest in The Office is, but who brings the most positive energy to the team? We know Michael would probably 
+            again consider himself worthy of this title, but would he be correct? To answer this question, I did a similar analysis, but this time
+            using a pre-trained language model to build a sentiment classifier, and then use this classifier on all the dialog from each character in 
+            the show. 
+            <br><br>
+            
+        </p>
+        <div>
+            <button onclick = 'sortBySent()' class = 'selected_button' id = 'b2'>By Sentiment</button>
+            <button onclick = 'sortByName()' id = 'b3'>By Name</button>
+        </div>
+        <br><br><br><br>
     </div>
+
+    <svg id = 'sentiment_lines'></svg>
+
+    <div class="commentary">
+        <p>
+            Glancing at the data, it seems the classifier did a pretty accurate job. Michael, with his attempts at humour, and Jim, with his witty quips,
+            occupy spots near the top of the chart. Stanley, the reticent grump, and Angela, the pious accountant, score the very lowest sentiment scores. 
+            <br><br>
+            What I find particularly interesting is seeing the progression of characters throughout the seasons. Roy had the most dramatic change, starting 
+            with the lowest overall score in season 1, and ending up with one of the highest scores in season 9. I guess breaking up with Pam was a good
+            move for him as well. 
+            <br><br>
+
+        </p>
+    </div>
+
+
     
 </body>
 </html>
