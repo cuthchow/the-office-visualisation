@@ -54,6 +54,10 @@ body {
     align-items: center;
 }
 
+circle:hover {
+    cursor: pointer;
+}
+
 .commentary::before {
     content: '';
     width: 5rem;
@@ -130,12 +134,20 @@ select:focus {
 
 #small_multiples {
     width: 1200px;
-    height: 1200px;
+    height: 1050px;
+}
+
+#scatterplot:hover {
+    cursor: grab;
 }
 
 #scatterplot {
-    width: 1000px;
+    width: 1400px;
     height: 1020px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 3px solid rgb(244, 187, 64);
+    box-shadow: 20px 20px 20px 5px #88888841;   
 }
 
 .line, .meanline {

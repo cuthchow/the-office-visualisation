@@ -16,7 +16,9 @@
 
 </head>
 <body>
-    <h1>The Office:<br> A Visual Exploration</h1>
+    <br><h1>
+    <img src="the-office-logo.png" alt="" width = '300px'>
+    <h1>A Visual Exploration</h1>
     
     <div class = 'commentary'>
         <hr>
@@ -28,10 +30,10 @@
             person in the office, that is, until his position was <a href = 'https://theoffice.fandom.com/wiki/Michael%27s_Botched_Phrases'>'uslurped'</a> by none other than Michael Scott. Michael Scott had bested Oscar
             by demonstrating his wide ranging knowledge of current affairs and the rising urbanisation in China.
             <br><br>
-            Despite the heated debate which ensued between the two great minds, the title of 'smartest in the office' remains up for grabs.
+            Despite the heated debate which ensued between the two great minds, the title of 'smartest in The Office' remained up for grabs.
             I decided to settle this debate once and for all, by conducting a lexical analysis of all the times the characters spoke on camera,
             and assessing the intellectual level of their speech, using the <a href = 'https://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests#Flesch%E2%80%93Kincaid_grade_level'>Flesch-Kincaid</a> grade level test. The test roughly equates the complexity
-            of their speech to a 'grade-level', and will give use a rough guide as to who speaks with the greatest intellect. 
+            of their speech to a 'grade-level', and will give us a rough indication as to who speaks with the greatest intellect. 
 
         </p>
         <button onclick = 'run()' id = 'b1'>
@@ -57,9 +59,9 @@
             Who is the Most Positive in the Office?
         </h2>
         <p>
-            Now we know who the smartest in The Office is, but who brings the most positive energy to the team? We know Michael would probably 
+            Now we know who the smartest in The Office is. But who brings the most positive energy to the team? We know Michael would probably 
             again consider himself worthy of this title, but would he be correct? To answer this question, I did a similar analysis, but this time
-            using a pre-trained language model to build a sentiment classifier, and then use this classifier on all the dialog from each character in 
+            using a pre-trained language model to build a sentiment classifier, and then used this classifier on all the dialog from each character in 
             the show. 
             <br><br>
             
@@ -76,7 +78,8 @@
     <div class="commentary">
         <p>
             Glancing at the data, it seems the classifier did a pretty accurate job. Michael, with his botched attempts at humour, and Jim, with his incessant witty quips,
-            occupy spots near the tail of the chart. Stanley, the reticent grump, and Angela, the pious accountant, score the very lowest sentiment scores. 
+            occupy spots near the tail of the chart. Stanley, the reticent grump, and Angela, the pious accountant, score the very lowest sentiment scores. At the most positive
+            end, we have David Wallace, which is again unsurprising. You must be a pretty cheerful person to be able to deal with Michael Scott on a daily basis.
             <br><br>
             What I find particularly interesting is seeing the progression of characters throughout the seasons. Roy had the most dramatic change, starting 
             with the lowest overall score in season 1, and ending up with one of the highest scores in season 9. I guess breaking up with Pam was a <a href = 'https://www.youtube.com/watch?v=mKANXHRUvmk'>good move</a>
@@ -92,25 +95,21 @@
 
     <div class="commentary">
         <p>
-            Glancing at the data, it seems the classifier did a pretty accurate job. Michael, with his botched attempts at humour, and Jim, with his incessant witty quips,
-            occupy spots near the tail of the chart. Stanley, the reticent grump, and Angela, the pious accountant, score the very lowest sentiment scores. 
-            <br><br>
-            What I find particularly interesting is seeing the progression of characters throughout the seasons. Roy had the most dramatic change, starting 
-            with the lowest overall score in season 1, and ending up with one of the highest scores in season 9. I guess breaking up with Pam was a <a href = 'https://www.youtube.com/watch?v=mKANXHRUvmk'>good move</a>
-             for him as well. It's also nice to see Angela mellow out a little towards the end of the show, with her best years coming at the very end. 
-            <br><br>
+            Note that the colours in this chart correspond to the number of words spoken. A green colour indicates more words, and red indicates fewer, with blue 
+            lying in between.
 
         </p>
 
-        <h2>Everything</h2>
+        <h2>Explore the Data Yourself</h2>
 
         <p>
-            If all of these charts are making your mind go a mile a minute, I've created a tool to let you explore the lines by yourself.
+            If all of these charts are making your mind <a href = 'https://www.youtube.com/watch?v=pYCYxxnNN_A'>go a mile an hour</a>, I've created a tool to let you explore the lines by yourself.
             Every bubble is an individual spoken line, and each row of bubbles is one episode. The bubbles are also colour coded based 
-            on the sentiment score of its contents, and more details can be seen by hovering over the bubbles
+            on the sentiment score of its contents, and more details can be seen by hovering over the bubbles. You can also scroll inside
+            the box to zoom, and drag with your mouse to pan. If you ever get lost, just hit the reset button, or refresh the page!
         </p>
 
-        <select name="" id="" onChange = 'filterPerson(this.value)'>
+        Character: <select name="" id="" onChange = 'filterPerson(this.value)'>
             <option value="Everyone">Everyone</option>
             <option value="Michael">Michael</option>
             <option value="Jim">Jim</option>
@@ -123,8 +122,8 @@
             <option value="Oscar">Oscar</option>
             <option value="Angela">Angela</option>
             <option value="Andy">Andy</option>
-        </select>
-        <select name="" id="" onChange = 'filterSeason(this.value)'>
+        </select><br>
+        Season: <select name="" id="" onChange = 'filterSeason(this.value)'>
             <option value="1">One</option>
             <option value="2">Two</option>
             <option value="3">Three</option>
@@ -136,21 +135,15 @@
             <option value="9">Nine</option>
         </select>
         <br><br>
+        <button onclick = 'make_scatter()'>Reset</button><br>
     </div>
 
-    <svg id = 'scatterplot'></svg>
+    <div id = 'scatterplot'></div>
     <svg id = 'legend'></svg>
 
     <div class="commentary">
         <p>
-            Glancing at the data, it seems the classifier did a pretty accurate job. Michael, with his botched attempts at humour, and Jim, with his incessant witty quips,
-            occupy spots near the tail of the chart. Stanley, the reticent grump, and Angela, the pious accountant, score the very lowest sentiment scores. 
-            <br><br>
-            What I find particularly interesting is seeing the progression of characters throughout the seasons. Roy had the most dramatic change, starting 
-            with the lowest overall score in season 1, and ending up with one of the highest scores in season 9. I guess breaking up with Pam was a <a href = 'https://www.youtube.com/watch?v=mKANXHRUvmk'>good move</a>
-             for him as well. It's also nice to see Angela mellow out a little towards the end of the show, with her best years coming at the very end. 
-            <br><br>
-
+            
         </p>
 
         <h2>Conclusion</h2>
