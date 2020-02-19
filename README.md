@@ -10,3 +10,6 @@ The [dataset](https://docs.google.com/spreadsheets/d/18wS5AAwOh8QO95RwHLS95POmSN
 
 ### Small Multiples Visualisation
 ![Small Multiples](https://github.com/cuthchow/the-office-visualisation/blob/master/small_multiples.png)
+
+## Sentiment Scores Visualisation
+![Sentiments](https://github.com/cuthchow/the-office-visualisation/blob/master/Sentiments.png)
