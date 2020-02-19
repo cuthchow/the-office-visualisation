@@ -158,3 +158,6 @@ select:focus {
     opacity: 0.5;
 }
 
+#author {
+    text-align: center;
+}
