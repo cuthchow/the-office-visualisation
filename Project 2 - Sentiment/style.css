@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(250, 219, 175);
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    border: none;
+}
+
+.clicked {
+    border: 3px solid black;
+}
+
+.line {
+    fill: none;
+    stroke: grey;
+    opacity: 0.7;
+    stroke-width: 2px;
+}
+
+.meanline {
+    fill: none;
+    stroke: grey;
+    opacity: 0.7;
+    stroke-width: 2px;
+}
+
+h1 {
+    font-family: monospace;
+}
+
+.hidden {
+    display: none
+}
+
+span {
+    width: 300px;
+    display: inline-block;
+}
+
+svg {
+    display: inline-block;
+}
+
+#menu {
+    display: inline-block;
+    margin-top: 0px;
+    border: 1px solid black;
+    width: 400px;
+    height: auto;
+}
+
+#menu button {
+    width: 150px;
+    height: 100px;
+    font-size: 20px;
+}
+
+.tooltip {
+    position: absolute;
+    width: 200px;
+    height: auto;
+    border-radius:3px;
+    margin: 0px;
+    padding: 4px;
+    background-color: #E60025;
+    color: #FFD08D;
+    text-align: center;
+}
+
+.hidden {
+    display: none
+}

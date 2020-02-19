@@ -1,0 +1,89 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script type = 'text/javascript' src = 'd3.js'></script>
+    <script type = 'text/javascript' src = 'https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.js'></script>
+    <script type = 'text/javascript' src = 'script.js'></script>
+
+    <style>
+        #tooltip {
+            position: absolute;
+            width: 400px;
+            height: auto;
+            padding: 10px;
+            background-color: white;
+            border: 1px solid black;
+        }
+
+        #quote {
+            font-family: monospace;
+            font-size: 14px;
+        }
+
+        #quotemeta{
+            font-family: sans-serif;
+            font-size: 12px;
+        }
+
+        #tooltip img {
+            width: 50px;
+            height: 50px;
+            border-radius: 100%;
+        }
+
+        h1 {
+            font-family: monospace;
+        }
+
+        .hidden {
+            display: none
+        }
+
+        span {
+            width: 300px;
+            display: inline-block;
+        }
+
+        svg {
+            display: inline-block;
+        }
+
+        #menu {
+            display: inline-block;
+            margin-top: 0px;
+            border: 1px solid black;
+            width: 400px;
+            height: auto;
+        }
+
+        #menu button {
+            width: 150px;
+            height: 100px;
+            font-size: 20px;
+        }
+
+        #container {
+            display: flex;
+        }
+
+
+
+    </style>
+</head>
+<body>
+<h1>Season One of "The Office"</h1>
+    <audio controls>
+        <source src = 'audio/song.mp3', type = 'audio/mpeg'>
+    </audio>
+    <div id="container">
+        <svg width = '1700px' height = '1000px'></svg>
+    </div>
+    <div id="tooltip" class = "hidden">
+        <p id = 'quote'></p>
+        <p id = 'quotemeta'></p>
+        <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/MichaelScott.png" alt="">
+    </div>
+    
+</body>
+</html>

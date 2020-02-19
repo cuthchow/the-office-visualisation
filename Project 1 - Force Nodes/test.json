@@ -1,0 +1,312 @@
+[
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 1,
+    "line_text": "All right Jim. Your quarterlies look very good. How are things at the library?",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0.4927,
+    "length": 14
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 1,
+    "line_text": "Oh, I told you. I couldn't close it. So...",
+    "speaker": "Jim",
+    "deleted": "FALSE",
+    "sentiment": 0,
+    "length": 9
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 1,
+    "line_text": "So you've come to the master for guidance? Is this what you're saying, grasshopper?",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0,
+    "length": 14
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 1,
+    "line_text": "Actually, you called me in here, but yeah.",
+    "speaker": "Jim",
+    "deleted": "FALSE",
+    "sentiment": 0.4215,
+    "length": 8
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 1,
+    "line_text": "All right. Well, let me show you how it's done.",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0.2732,
+    "length": 10
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 2,
+    "line_text": "[on the phone] Yes, I'd like to speak to your office manager, please. Yes, hello. This is Michael Scott. I am the Regional Manager of Dunder Mifflin Paper Products. Just wanted to talk to you manager-a-manger. [quick cut scene] All right. Done deal. Thank you very much, sir. You're a gentleman and a scholar. Oh, I'm sorry. OK. I'm sorry. My mistake. [hangs up] That was a woman I was talking to, so... She had a very low voice. Probably a smoker, so... [Clears throat] So that's the way it's done.",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0.7987,
+    "length": 91
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 3,
+    "line_text": "I've, uh, I've been at Dunder Mifflin for 12 years, the last four as Regional Manager. If you want to come through here... See we have the entire floor. So this is my kingdom, as far as the eye can see. This is our receptionist, Pam. Pam! Pam-Pam! Pam Beesly. Pam has been with us for...  forever. Right, Pam?",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0.2225,
+    "length": 60
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 3,
+    "line_text": "Well. I don't know.",
+    "speaker": "Pam",
+    "deleted": "FALSE",
+    "sentiment": 0.2732,
+    "length": 4
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 3,
+    "line_text": "If you think she's cute now, you should have seen her a couple of years ago. [growls]",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0.4588,
+    "length": 17
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 3,
+    "line_text": "What?",
+    "speaker": "Pam",
+    "deleted": "FALSE",
+    "sentiment": 0,
+    "length": 1
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 3,
+    "line_text": "Any messages?",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0,
+    "length": 2
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 3,
+    "line_text": "Uh, yeah. Just a fax.",
+    "speaker": "Pam",
+    "deleted": "FALSE",
+    "sentiment": 0.296,
+    "length": 5
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 3,
+    "line_text": "Oh! Pam, this is from Corporate. How many times have I told you? There's a special filing cabinet for things from corporate.",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0.4574,
+    "length": 22
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 3,
+    "line_text": "You haven't told me.",
+    "speaker": "Pam",
+    "deleted": "FALSE",
+    "sentiment": 0,
+    "length": 4
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 3,
+    "line_text": "It's called the wastepaper basket! Look at that! Look at that face.",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0,
+    "length": 12
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 4,
+    "line_text": "People say I am the best boss. They go, 'God we've never worked in a place like this before. You're hilarious.' 'And you get the best out of us.' [shows the camera his WORLD'S BEST BOSS mug] I think that pretty much sums it up. I found it at Spencer Gifts.",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0.9688,
+    "length": 51
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 5,
+    "line_text": "[singing] Shall I play for you? Pa rum pump um pum [Imitates heavy drumming] I have no gifts for you. Pa rum pump um pum [Imitates heavy drumming]",
+    "speaker": "Dwight",
+    "deleted": "FALSE",
+    "sentiment": 0.0516,
+    "length": 28
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 6,
+    "line_text": "My job is to speak to clients on the phone about... uh, quantities and type of copier paper. You know, whether we can supply it to them. Whether they can pay for it. And... I'm boring myself just talking about this.",
+    "speaker": "Jim",
+    "deleted": "FALSE",
+    "sentiment": -0.4019,
+    "length": 41
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 7,
+    "line_text": "Whassup!",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0,
+    "length": 1
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 7,
+    "line_text": "Whassup! I still love that after seven years.",
+    "speaker": "Jim",
+    "deleted": "FALSE",
+    "sentiment": 0.6696,
+    "length": 8
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 7,
+    "line_text": "Whassup!",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0,
+    "length": 1
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 7,
+    "line_text": "Whassup!",
+    "speaker": "Dwight",
+    "deleted": "FALSE",
+    "sentiment": 0,
+    "length": 1
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 7,
+    "line_text": "Whass...up!",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0,
+    "length": 1
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 7,
+    "line_text": "Whassup.",
+    "speaker": "Dwight",
+    "deleted": "FALSE",
+    "sentiment": 0,
+    "length": 1
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 7,
+    "line_text": "[Strains, grunts] What?",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0,
+    "length": 3
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 7,
+    "line_text": "Nothing.",
+    "speaker": "Jim",
+    "deleted": "FALSE",
+    "sentiment": 0,
+    "length": 1
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 7,
+    "line_text": "OK. All right. See you later.",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0.4466,
+    "length": 6
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 7,
+    "line_text": "All right. Take care.",
+    "speaker": "Jim",
+    "deleted": "FALSE",
+    "sentiment": 0.4939,
+    "length": 4
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 7,
+    "line_text": "Back to work.",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0,
+    "length": 3
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 8,
+    "line_text": "[on her cell phone] Just before lunch. That would be great.",
+    "speaker": "Jan",
+    "deleted": "FALSE",
+    "sentiment": 0.6249,
+    "length": 11
+  },
+  {
+    "season": 1,
+    "episode": 1,
+    "scene": 9,
+    "line_text": "Corporate really doesn't really interfere with me at all. Jan Levinson Gould. [walking out of his office] Jan, hello.  I call her Hillary Rodham Clinton. Right? Not to her face, because... well, not because I'm scared of her. Because I'm not. But, um... Yeah.",
+    "speaker": "Michael",
+    "deleted": "FALSE",
+    "sentiment": 0.3855,
+    "length": 45
+  }
+]

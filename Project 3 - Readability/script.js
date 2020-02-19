@@ -1,59 +1,121 @@
- 
-        //Have to use the .then() async style since D3 v5
-        //This line gets the data from csv asynchronously
-        //The function (in the 2nd arg) preprocesses the data, converting numbers into floats
-        //After promise resolves, data is stored in global variable named dataset
-        //All functions using that data are run in the .then() to ensure the data is available
-
         // let dataset, sentScale, rowBySent, xAxis, yAxis, meanSent, colorScale
         
+        let dataset, angleScale, colors, ticks, tooltip
 
+        const red = '#eb6a5b'
+        const blue = '#52b6ca'
+        const green = '#b6e86f'
 
-        // //Function converts numbers from strings into floats
-        // d3.csv('sentiments.csv', function(d){
-        //     return {
-        //         season: d.season,
-        //         speaker: d.speaker,
-        //         sentiment: +d.sentiment
-        //     };
-        // }).then(data => {
-        //     dataset = data.filter(d => people.includes(d.speaker))
-        // })
+        //Function converts numbers from strings into floats
+        d3.csv('grade_scores.csv', function(d){
+            return {
+                speaker: d.speaker,
+                score: +d.score
+            };
+        }).then(data => {
+            dataset = data
+            console.log(dataset)
 
-        dataset = [
-            {name: "Michael", value: 100},
-            {name: "Pam", value: 200},
-            {name: "Jim", value: 300}
-        ]
+        })
 
-        arc= d3.arc()
-            .innerRadius((d, i) => i * 50)
-            .outerRadius((d, i) => i * 100)
-
-        let w = 500
-        let h = 500
+        let w = 1400
+        let h = 1000
         
-        let dataset2 = [5, 10, 15, 20, 25];
-        
-        function thing(){
-            d3.select('body').selectAll('div')
-                .data(dataset2)
-                .enter()
-                .append('div')
-                .attr('class', 'bar')
+
+        function run() { 
+            
+            tooltip = d3.select('body').append('div')
+                .attr('class', 'tooltip');
+
+            angleScale = d3.scaleLinear(/*d3.extent(dataset, d => d.score)*/[0, 4.5], [0, 2 * Math.PI])
+            colors = chroma.scale([green, blue, red]).colors(25)
+
+            arc= d3.arc()
+                .innerRadius((d, i) => 436 - i * 15)
+                .outerRadius((d, i) => 450 - i * 15)
+                .startAngle(0)
+                .endAngle((d, i) => angleScale(d.score))
 
             let svg = d3.select('body')
-                .append('svg')
+                .select('#radial_bar')
                 .attr('width', w)
-                .attr('height', h);
+                .attr('height', h)
+                .attr('stroke', 'black')
 
-            svg.append('text').text("YO")
+            let radialAxis = svg.append('g')
+            .selectAll('g')
+                .data(dataset)
+                .enter().append('g')
+                .attr('class', 'axis');
             
-            svg.selectAll('path')
-                .data(dataset).enter().append('path')
-                    .attr('d', arc)
-                    .attr('fill', 'red')   
+            radialAxis.append('circle')
+                .attr('transform', 'translate(700, 500)')
+                .attr('r', (d, i) => 450 - i * 15)
+                .attr('display', (d, i) => i % 3 == 0 ? 'block' : 'none')
+
+            radialAxis.append('text')
+                .attr('x', -70)
+                .attr('y', (d, i) => -(450 - i * 15)+10)
+                .attr('class', 'speaker')
+                .text(d => d.speaker)
+                .attr('font-family', 'monospace')
+                .transition().delay((d, i) => i * 100)
+                    .attr('transform', 'translate(700, 500)')
+                    .attr('font-size', '14')
+
+            ticks = angleScale.ticks(9).slice(0, -1)
+            
+            let axialAxis = svg.append('g')
+                .attr('transform', 'translate(700, 500)')
+                .attr('class', 'axial axis')
+                .selectAll('g')
+                    .data(ticks)
+                    .enter().append('g')        
+                        .attr('transform', d=> `rotate(${rad2deg(angleScale(d)) - 90})`)
+
+            axialAxis.append('line')
+                .attr('x2', 450)
+        
+            let arcs = d3.select('svg').append('g').attr('transform', 'translate(700, 500)')
+                .selectAll('path')
+                .data(dataset)
+                .enter()
+                .append('path')
+                    .attr('fill', 'black')
+                    .attr('class', 'bar')
+               
+            arcs.on('mousemove', showTooltip)
+            arcs.on('mouseout', hideTooltip)
+
+            arcs.transition()
+                    .delay((d, i) => i * 100)
+                    .duration(700)
+                        .attr('d', arc)
+                        .attr('fill', (d, i) => colors[i])  
+                        .attr('stroke-width', 0)
+
+            
+            function arcTween(d, i) {
+                let interpolate = d3.interpolate(0, d.score);
+                return t => arc(interpolate(t), i)
+            }
+
+            function showTooltip(d){
+                tooltip
+                    .style('left', (d3.event.pageX + 10)+'px')
+                    .style('top', (d3.event.pageY - 25) + 'px')
+                    .style('display', 'inline-block')
+                    .html(`Speaker: ${d.speaker} <br> Spoken grade level: Grade ${d.score}`)
+            }
+
+            function hideTooltip(){
+                tooltip.style('display', 'none')
+            }
+
+            
         }
 
-        thing()
+        function rad2deg(angle){
+            return angle * 180 / Math.PI
+        }
         

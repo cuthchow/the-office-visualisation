@@ -8,51 +8,50 @@
     <script type = 'text/javascript' src = 'https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.1.0/chroma.min.js'></script>
     <!-- <script type = 'text/javascript' src = 'script.js'></script> -->
     <link rel="stylesheet" href="style.css">
+    <script src = 'script.js'></script>
 
 </head>
 <body>
 
-    <script>
-        dataset = [
-            {name: "Michael", value: 100},
-            {name: "Pam", value: 200},
-            {name: "Jim", value: 300}
-        ]
 
-        arc= d3.arc()
-            .innerRadius((d, i) => (i+1)* 50)
-            .outerRadius((d, i) => (i+1)*50 + 30)
-            .startAngle(0)
-            .endAngle(3)
+    <div class = 'commentary'>
+        <h1>
+            Who is the Smartest Person in The Office?
+        </h1>
+        <p>
+            Ever wondered who the smartest character on "The Office" is? Oscar Martinez was once widely regarded as the smartest
+            person in the office, that is, until his position was 'uslurped' by none other than Michael Scott. Michael Scott had bested Oscar
+            by demonstrating his wide ranging knowledge of current affairs and the rising urbanisation in China.
+            <br><br>
+            Despite the heated debate which followed between the two great minds, the title of 'smartest in the office' remains up for grabs.
+            I decided to settle this debate once and for all, by conducting a lexical analysis of all the times the characters spoke on camera,
+            and assessing the intellectual level of their speech, using the Flesch-Kincaid grade level test. The test roughly equates the complexity
+            of their speech to a 'grade-level', and will give use a rough guide as to who speaks with the greatest intellect. 
 
-        let w = 500
-        let h = 500
-        
-        function thing(){
+        </p>
+        <button onclick = 'run()'>
+            Reveal Results
+        </button>
+    </div>
 
-            let svg = d3.select('body')
-                .append('svg')
-                .attr('width', w)
-                .attr('height', h)
-                .attr('stroke', 'black')
-                .attr('stroke-width', 5)
+    <svg id = 'radial_bar' width = '1400' height = '1000'></svg>
 
-            
-            svg.append('g')
-                .attr('transform', 'translate(200, 200)')
-                .selectAll('path')
-                .data(dataset).enter().append('path')
-                    .attr('d', arc)
-                    .attr('fill', 'red')  
-                    .on('mouseover', function(d, i){
-                        this.append('text')
-                    }) 
-        }
+    <div class = 'commentary'>
+        <p>
+            Based on this analysis, it seems that David Wallace is in fact the smartest character on The Office. This is not surprising, considering
+            after all that this is the man who founded 'Suck It', and led Dunder Mifflin to some of their most profitable quarters
+            <br><br>
+            Unfortunately, it seems that Darryl is at the very bottom of this list. I found this quite surprising considering that this is the man
+            who brought to us phrases such as 'Dinkin' flicka' and 'going mach five', not to mention the inspiration inducing 'pippity poppity, give me the zoppity'.
+            <br><br>
+            At least one thing is for sure: Michael is DEFINITELY smarter than Oscar. Suck it Oscar.
+        </p>
 
-        thing()
+        <h1>
+            Who Brings the Best Vibes?
+        </h1>
+    </div>
 
-    </script>
-    
 
     
 </body>
