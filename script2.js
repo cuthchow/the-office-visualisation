@@ -48,7 +48,6 @@
                 let minSent = d3.min(temp, d=> d.sentiment)
                 lineData.push({speaker: p, minSent: minSent, maxSent: maxSent})
             })
-            console.log(lineData)
             
             colorScale = d3.scaleLinear(d3.extent(dataset2, d => d.sentiment), [-0.2,1.5])
 

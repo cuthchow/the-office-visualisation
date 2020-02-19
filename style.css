@@ -30,6 +30,7 @@
     color: white;
     padding: 6px;
     font-size: 1.3em;
+    max-width: 300px;
 }
 
 svg {
@@ -55,7 +56,7 @@ body {
 
 .commentary::before {
     content: '';
-    width: 3rem;
+    width: 5rem;
     border-top: 3px solid #15425f;
     opacity: 0.5;
 }
@@ -110,9 +111,31 @@ button:hover {
     color: white;
 }
 
+select {
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    appearance: none;
+}
+
+select:focus {
+    outline: none;
+    border: none;
+}
+
 #sentiment_lines {
     width: 950px;
     height: 900px;
+}
+
+#small_multiples {
+    width: 1200px;
+    height: 1200px;
+}
+
+#scatterplot {
+    width: 1000px;
+    height: 1020px;
 }
 
 .line, .meanline {

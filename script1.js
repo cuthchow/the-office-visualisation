@@ -20,7 +20,6 @@
 
         let w = 1400
         let h = 1000
-        
 
         function run() { 
             d3.select('#b1')

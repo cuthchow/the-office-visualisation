@@ -6,10 +6,13 @@
     <script type = 'text/javascript' src = 'd3.js'></script>
     <script type = 'text/javascript' src = 'https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.js'></script>
     <script type = 'text/javascript' src = 'https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.1.0/chroma.min.js'></script>
+    <script type = 'text/javascript' src = 'https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.min.js'></script>
     <!-- <script type = 'text/javascript' src = 'script.js'></script> -->
     <link rel="stylesheet" href="style.css">
     <script src = 'script1.js'></script>
     <script src = 'script2.js'></script>
+    <script src = 'script3.js'></script>
+    <script src = 'script4.js'></script>
 
 </head>
 <body>
@@ -82,11 +85,83 @@
 
         </p>
 
-        <h2>Work in Progress</h2>
+        <h2>Who on "The Office" Spends the Most Time Talking?</h2>
     </div>
 
+    <svg id = 'small_multiples'></svg>
 
+    <div class="commentary">
+        <p>
+            Glancing at the data, it seems the classifier did a pretty accurate job. Michael, with his botched attempts at humour, and Jim, with his incessant witty quips,
+            occupy spots near the tail of the chart. Stanley, the reticent grump, and Angela, the pious accountant, score the very lowest sentiment scores. 
+            <br><br>
+            What I find particularly interesting is seeing the progression of characters throughout the seasons. Roy had the most dramatic change, starting 
+            with the lowest overall score in season 1, and ending up with one of the highest scores in season 9. I guess breaking up with Pam was a <a href = 'https://www.youtube.com/watch?v=mKANXHRUvmk'>good move</a>
+             for him as well. It's also nice to see Angela mellow out a little towards the end of the show, with her best years coming at the very end. 
+            <br><br>
 
+        </p>
+
+        <h2>Everything</h2>
+
+        <p>
+            If all of these charts are making your mind go a mile a minute, I've created a tool to let you explore the lines by yourself.
+            Every bubble is an individual spoken line, and each row of bubbles is one episode. The bubbles are also colour coded based 
+            on the sentiment score of its contents, and more details can be seen by hovering over the bubbles
+        </p>
+
+        <select name="" id="" onChange = 'filterPerson(this.value)'>
+            <option value="Everyone">Everyone</option>
+            <option value="Michael">Michael</option>
+            <option value="Jim">Jim</option>
+            <option value="Pam">Pam</option>
+            <option value="Dwight">Dwight</option>
+            <option value="Darryl">Darryl</option>
+            <option value="Stanley">Stanley</option>
+            <option value="Phyllis">Phyllis</option>
+            <option value="Kevin">Kevin</option>
+            <option value="Oscar">Oscar</option>
+            <option value="Angela">Angela</option>
+            <option value="Andy">Andy</option>
+        </select>
+        <select name="" id="" onChange = 'filterSeason(this.value)'>
+            <option value="1">One</option>
+            <option value="2">Two</option>
+            <option value="3">Three</option>
+            <option value="4">Four</option>
+            <option value="5">Five</option>
+            <option value="6">Six</option>
+            <option value="7">Seven</option>
+            <option value="8">Eight</option>
+            <option value="9">Nine</option>
+        </select>
+        <br><br>
+    </div>
+
+    <svg id = 'scatterplot'></svg>
+    <svg id = 'legend'></svg>
+
+    <div class="commentary">
+        <p>
+            Glancing at the data, it seems the classifier did a pretty accurate job. Michael, with his botched attempts at humour, and Jim, with his incessant witty quips,
+            occupy spots near the tail of the chart. Stanley, the reticent grump, and Angela, the pious accountant, score the very lowest sentiment scores. 
+            <br><br>
+            What I find particularly interesting is seeing the progression of characters throughout the seasons. Roy had the most dramatic change, starting 
+            with the lowest overall score in season 1, and ending up with one of the highest scores in season 9. I guess breaking up with Pam was a <a href = 'https://www.youtube.com/watch?v=mKANXHRUvmk'>good move</a>
+             for him as well. It's also nice to see Angela mellow out a little towards the end of the show, with her best years coming at the very end. 
+            <br><br>
+
+        </p>
+
+        <h2>Conclusion</h2>
+
+        <p>
+            If all of these charts are making your mind go a mile a minute, I've created a tool to let you explore the lines by yourself.
+            Every bubble is an individual spoken line, and each row of bubbles is one episode. The larger cluster of bubbles represents
+            an entire season of dialog. 
+        </p>
+        <br><br>
+    </div>
     
 </body>
 </html>
