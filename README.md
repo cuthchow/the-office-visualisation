@@ -7,3 +7,5 @@ The [dataset](https://docs.google.com/spreadsheets/d/18wS5AAwOh8QO95RwHLS95POmSN
 ### Links 
 * The link to the full visualisation is [here](https://cuthchow.github.io/the-office-visualisation/)  
 * A full writeup of the process for this project is available at [my blog](https://medium.com/@cuthbertchow)
+
+![Small Multiples](../small_multiples.png)
