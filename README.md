@@ -8,4 +8,5 @@ The [dataset](https://docs.google.com/spreadsheets/d/18wS5AAwOh8QO95RwHLS95POmSN
 * The link to the full visualisation is [here](https://cuthchow.github.io/the-office-visualisation/)  
 * A full writeup of the process for this project is available at [my blog](https://medium.com/@cuthbertchow)
 
+### Small Multiples Visualisation
 ![Small Multiples](https://github.com/cuthchow/the-office-visualisation/blob/master/small_multiples.png)
