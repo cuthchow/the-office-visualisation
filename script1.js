@@ -34,6 +34,8 @@
                 .startAngle(0)
                 .endAngle((d, i) => angleScale(d.score))
 
+            d3.select('#radial_bar').selectAll('g').remove()
+
             let svg = d3.select('body')
                 .select('#radial_bar')
                 .attr('width', w)
@@ -105,7 +107,7 @@
                     .style('left', (d3.event.pageX + 10)+'px')
                     .style('top', (d3.event.pageY - 25) + 'px')
                     .style('display', 'inline-block')
-                    .html(`Speaker: ${d.speaker} <br> Spoken grade level: Grade ${d.score}`)
+                    .html(`Character: ${d.speaker} <br> Spoken grade level: Grade ${d.score}`)
             }
 
             function hideTooltip(){

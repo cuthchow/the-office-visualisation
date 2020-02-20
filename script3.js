@@ -1,7 +1,7 @@
 let dataset3, svg3, arcgen, angleScale3, radiusScale3, andy, colors3
 
-const max_rad = 110;
-const slice_padding = 0.01;
+const max_rad = 120;
+const slice_padding = 0.02;
 
 d3.csv('word_counts.csv', function(d){
     return {
@@ -85,7 +85,7 @@ function multiples_mouseover(d, i){
             .style('left', (d3.event.pageX + 10)+ 'px')
             .style('top', (d3.event.pageY - 25) + 'px')
             .style('display', 'inline-block')
-            .html(`Speaker: ${d.speaker} <br> Season: ${d.season} <br>Word Count: ${d.words}`)
+            .html(`Character: ${d.speaker} <br> Season: ${d.season} <br>Word Count: ${d.words}`)
     }
 
 function hideTooltip(){

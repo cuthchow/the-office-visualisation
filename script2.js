@@ -190,7 +190,7 @@
                         .style('left', (d3.event.pageX + 10)+'px')
                         .style('top', (d3.event.pageY - 25) + 'px')
                         .style('display', 'inline-block')
-                        .html(`Speaker: ${d.speaker} <br> Season: ${d.season}`)
+                        .html(`Character: ${d.speaker} <br> Season: ${d.season}`)
 
                     d3.select(this)
                         .transition().duration(400)
